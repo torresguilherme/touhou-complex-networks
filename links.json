@@ -1,0 +1,42 @@
+{
+    "Reimu Hakurei": {
+        "strong": ["Marisa Kirisame", "Yukari Yakumo", "Rinnosuke Morichika", "Sanae Kochiya", "Genji", "Sunny Milk", "Luna Child", "Star Sapphire", "Byakuren Hijiri", "Kasen Ibaraki", "Kosuzu Motoori"],
+        "weak": ["Mima", "Suika Ibuki", "Aya Shameimaru"]
+    },
+    "Marisa Kirisame": {
+        "strong": ["Reimu Hakurei", "Alice Margatroid", "Patchouli Knowledge", "Flandre Scarlet", "Rinnosuke Morichika", "Nitori Kawashiro", "Mima", "Luna Child", "Star Sapphire", "Sunny Milk"],
+        "weak": ["Satori Komeiji", "Koishi Komeiji", "Byakuren Hijiri"]
+    },
+
+    "Rumia": {},
+    "Daiyousei": {
+        "strong": ["Cirno", "Letty Whiterock"]
+    },
+    "Cirno": {
+        "strong": ["Sunny Milk", "Luna Child", "Star Sapphire"],
+        "weak": ["Daiyousei", "Letty Whiterock", "Rumia", "Wriggle Nightbug", "Mystia Lorelei", "Reimu Hakurei"]
+    },
+    "Hong Meiling": {
+        "strong": ["Remilia Scarlet", "Sakuya Izayoi", "Patchouli Knowledge"],
+        "weak": ["Giant Catfish"]
+    },
+    "Koakuma": {
+        "strong": ["Patchouli Knowledge"]
+    },
+    "Patchouli Knowledge": {
+        "strong": ["Hong Meiling", "Sakuya Izayoi", "Remilia Scarlet", "Flandre Scarlet", "Marisa Kirisame"],
+        "weak": ["Alice Margatroid", "Aya Shameimaru", "Koakuma"]
+    },
+    "Sakuya Izayoi": {
+        "strong": ["Hong Meiling", "Patchouli Knowledge", "Remilia Scarlet", "Flandre Scarlet", "Marisa Kirisame", "Eirin Yagokoro", "Kaguya Houraisan"],
+        "weak": ["Koakuma", "Alice Margatroid", "Cirno", "Sunny Milk", "Star Sapphire", "Luna Child"]
+    },
+    "Remilia Scarlet": {
+        "strong": ["Flandre Scarlet", "Sakuya Izayoi", "Patchouli Knowledge", "Hong Meiling"], 
+        "weak": ["Koakuma", "Reimu Hakurei", "Aya Shameimaru", "Yukari Yakumo"]
+    },
+    "Flandre Scarlet": {
+        "strong": ["Remilia Scarlet", "Patchouli Knowledge", "Sakuya Izayoi"],
+        "weak": ["Hong Meiling", "Koakuma", "Reimu Hakurei", "Marisa Kirisame"]
+    }
+}
