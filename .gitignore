@@ -119,3 +119,6 @@ _deps
 # C++
 .o
 .out
+
+# VSCode
+.vscode/
