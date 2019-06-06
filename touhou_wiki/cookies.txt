@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+touhouwiki.net	TRUE	/	FALSE	1999999999	touhouwiki_thwikiEN__session	j1efej4j2704ivstubi8u17bicekm7q2
+touhouwiki.net	TRUE	/	FALSE	1999999999	mf_useformat	deleted
+en.touhouwiki.net	TRUE	/	FALSE	1999999999	stopMobileRedirect	true
+

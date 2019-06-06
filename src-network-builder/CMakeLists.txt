@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.1)
+set(CMAKE_CXX_STANDARD 11)
+project( network-builder )
+set(CURL_LIBRARY "-lcurl") 
+find_package(CURL REQUIRED) 
+add_executable (main main.cpp)
+include_directories(${CURL_INCLUDE_DIR})
+target_link_libraries(main ${CURL_LIBRARY})
