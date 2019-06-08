@@ -1,5 +1,6 @@
 import html.parser as parser
 import json
+from urllib.parse import unquote
 
 WIKI_PREFIX = '../touhou_wiki/en.touhouwiki.net/wiki/'
 CHARACTERS_PAGE = 'Category_Characters.html'
@@ -31,7 +32,7 @@ class CharactersFinder(parser.HTMLParser):
         if tag == 'a' and self.reading_chars:
             for name, attr in attrs:
                 if name == 'href' and not 'Characters' in attr:
-                    char_links.append(WIKI_PREFIX + attr)
+                    char_links.append(unquote(attr))
                 elif name == 'title' and not 'Characters' in attr:
                     network[attr] = {
                         'dialogues': {},
@@ -99,8 +100,17 @@ class FightParser(parser.HTMLParser):
         pass
 
 class MentionParser(parser.HTMLParser):
-    def handle_starttag(self, tag, attrs):
-        pass
+    def handle_data(self, data):
+        for name in characters:
+            index = data.find(name)
+            if index != -1:
+                # exception cases
+                if name == self.character or (len(data) > index + len(name) and data[index + len(name)].isalpha()):
+                    pass
+                elif name in network[self.character]['wiki_mentions'].keys():
+                    network[self.character]['wiki_mentions'][name] += 1
+                else:
+                    network[self.character]['wiki_mentions'][name] = 1
 
 class RelationshipParser(parser.HTMLParser):
     def handle_starttag(self, tag, attrs):
@@ -153,6 +163,11 @@ def main():
     # parsing fights
 
     # parsing mentions
+    for i in range(len(characters)):
+        html_parser = MentionParser()
+        html_parser.character = characters[i]
+        link = char_links[i]
+        parse_page(html_parser, link)
 
     # parsing relationships
 
