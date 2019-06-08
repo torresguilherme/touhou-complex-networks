@@ -13,7 +13,9 @@ characters = []
 link_queue = []
 links_visited = []
 games = {}
+games_text = {}
 print_works = {}
+print_works_text = {}
 
 ################################################
 ### PARSERS - FINDERS
@@ -38,8 +40,7 @@ class CharactersFinder(parser.HTMLParser):
                         'dialogues': {},
                         'fought': {},
                         'wiki_mentions': {},
-                        'major_relationship_wiki': {},
-                        'minor_relationship_wiki': {}
+                        'relationship_wiki': []
                     }
                     characters.append(attr)
 
@@ -62,6 +63,7 @@ class GamesFinder(parser.HTMLParser):
                 elif name == 'title':
                     page_name = attr
             games[page_name] = page_addr
+            games_text[page_name] = page_addr.split('.')[0] + '/Story.html'
         
     def handle_endtag(self, tag):
         if tag == 'p' and self.reading_games:
@@ -86,14 +88,65 @@ class PrintWorksFinder(parser.HTMLParser):
         if tag == 'li':
             self.reading_prints = False
 
+class LinkEnqueuer(parser.HTMLParser):
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            for name, attr in attrs:
+                if name == 'href':
+                    tree = link_queue[0].split('/')
+                    cur_dir = ''
+                    for i in range(len(tree)-1):
+                        cur_dir = cur_dir + tree[i] + '/'
+                    attr = cur_dir + attr
+                    attr = unquote(attr)
+                    query_index = attr.find('?')
+                    if query_index != -1:
+                        attr = attr.split('?')[0]
+                    if attr not in link_queue:
+                        print('found new link: ' + attr)
+                        link_queue.append(attr)
+
+class ScenarioLinkEnqueuer(parser.HTMLParser):
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            for name, attr in attrs:
+                if name == 'href' and 'Scenario' in attr:
+                    tree = link_queue[0].split('/')
+                    cur_dir = ''
+                    for i in range(len(tree)-1):
+                        cur_dir = cur_dir + tree[i] + '/'
+                    attr = cur_dir + attr
+                    attr = unquote(attr)
+                    query_index = attr.find('?')
+                    if query_index != -1:
+                        attr = attr.split('?')[0]
+                    if attr not in link_queue:
+                        print('found new link: ' + attr)
+                        link_queue.append(attr)
+
 ################################################
 ### PARSERS - NETWORK BUILDERS
 ################################################
 
+char_stack = {}
+
 class DialogueParser(parser.HTMLParser):
-    def handle_starttag(self, tag, attrs):
-        if tag == '':
-            pass
+    def handle_data(self, data):
+        global char_stack
+        for name in characters:
+            if name in data or name.split()[0] in data:
+                index = data.find(name)
+                if len(data) > index + len(name) and data[index + len(name)].isalpha():
+                    pass
+                else:
+                    char_stack[name] = 5
+        for key in char_stack.keys():
+            char_stack[key] -= 1
+        char_stack = {key:val for key, val in char_stack.items() if val != 0}
+        for key1 in char_stack.keys():
+            for key2 in char_stack.keys():
+                if key1 != key2:
+                    tie_in_dialogue(key1, key2)
 
 class FightParser(parser.HTMLParser):
     def handle_starttag(self, tag, attrs):
@@ -114,7 +167,35 @@ class MentionParser(parser.HTMLParser):
 
 class RelationshipParser(parser.HTMLParser):
     def handle_starttag(self, tag, attrs):
-        pass
+        if tag == 'h3':
+            for name, attr in attrs:
+                if name == 'class' and attr == 'in-block':
+                    self.reading_relationships = True
+    
+    def handle_data(self, attr):
+        if self.reading_relationships:
+            for name in characters:
+                index = attr.find(name)
+                if index != -1:
+                    # exception cases
+                    if name == self.character or (len(attr) > index + len(name) and attr[index + len(name)].isalpha()):
+                        pass
+                    elif not name in network[self.character]['relationship_wiki']:
+                        network[self.character]['relationship_wiki'].append(name)
+
+    def handle_endtag(self, tag):
+        if tag == 'h3':
+            self.reading_relationships = False
+
+def tie_in_dialogue(char1, char2):
+    if char2 in network[char1]['dialogues'].keys():
+        network[char1]['dialogues'][char2] += 1
+    else:
+        network[char1]['dialogues'][char2] = 1
+    if char1 in network[char2]['dialogues'].keys():
+        network[char2]['dialogues'][char1] += 1
+    else:
+        network[char2]['dialogues'][char1] = 1
 
 def parse_page(html_parser, page_addr):
     html_parser.reset()
@@ -124,6 +205,16 @@ def parse_page(html_parser, page_addr):
                 html_parser.feed(line)
     except FileNotFoundError:
         print('nao encontrou arquivo no prefixo da wiki: ' + page_addr)
+
+def parse_page_recursive(html_parser, page_addr, scenario=False):
+    aux_parser = LinkEnqueuer()
+    if scenario:
+        aux_parser = ScenarioLinkEnqueuer()
+    link_queue.append(page_addr)
+    while len(link_queue):
+        parse_page(html_parser, link_queue[0])
+        parse_page(aux_parser, link_queue[0])
+        link_queue.remove(link_queue[0])
 
 ################################################
 ### MAIN
@@ -150,26 +241,29 @@ def main():
     html_parser = PrintWorksFinder()
     html_parser.reading_prints = False
     parse_page(html_parser, LITERATURE_PAGE)
-    print(print_works)
 
     # parsing dialogues
     html_parser = DialogueParser()
-    for page_name in games.keys():
-        parse_page(html_parser, games[page_name])
+    for page_name in games_text.keys():
+        parse_page_recursive(html_parser, games_text[page_name], scenario=True)
     
     for print_name in print_works.keys():
         parse_page(html_parser, print_works[print_name])
 
-    # parsing fights
-
-    # parsing mentions
+    # parsing wiki
     for i in range(len(characters)):
+        # parse mentions
         html_parser = MentionParser()
         html_parser.character = characters[i]
         link = char_links[i]
         parse_page(html_parser, link)
 
-    # parsing relationships
+        # parse relationships
+        html_parser = RelationshipParser()
+        html_parser.character = characters[i]
+        html_parser.reading_relationships = False
+        link = char_links[i]
+        parse_page(html_parser, link)
 
     ################################################
     ### END OF NETWORK BUILDING
