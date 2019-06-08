@@ -3,39 +3,49 @@
         "dialogues": {
             "Louise": 4,
             "Yuki": 4,
+            "Yuuka Kazami": 10,
+            "Marisa Kirisame": 224,
             "Mima": 8,
+            "Reimu Hakurei": 166,
+            "Shanghai Doll": 684,
             "Lily White": 4,
-            "Marisa Kirisame": 36,
-            "Sakuya Izayoi": 30,
-            "Patchouli Knowledge": 28,
-            "Youmu Konpaku": 22,
-            "Yukari Yakumo": 22,
-            "Suika Ibuki": 8,
-            "Yuyuko Saigyouji": 16,
-            "Remilia Scarlet": 10,
-            "Reimu Hakurei": 20,
-            "Mai Teireida": 4,
-            "Komachi Onozuka": 6,
-            "Iku Nagae": 4,
-            "Reisen": 4,
-            "Reisen Udongein Inaba": 4,
-            "Aya Shameimaru": 16,
-            "Cirno": 14,
-            "Goliath Doll": 8,
-            "Taisui Xingjun": 8,
+            "Sakuya Izayoi": 86,
+            "Patchouli Knowledge": 114,
+            "Youmu Konpaku": 60,
+            "Yukari Yakumo": 54,
+            "Suika Ibuki": 38,
+            "Yuyuko Saigyouji": 34,
+            "Rinnosuke Morichika": 2,
+            "Remilia Scarlet": 50,
+            "Yukari's crows": 10,
+            "Chen": 18,
+            "Ran Yakumo": 14,
+            "Reisen": 24,
+            "Reisen Udongein Inaba": 24,
+            "Eirin Yagokoro": 8,
+            "Kaguya Houraisan": 8,
+            "Komachi Onozuka": 10,
+            "Iku Nagae": 16,
+            "Tenshi Hinanawi": 34,
+            "Aya Shameimaru": 32,
+            "Nitori Kawashiro": 8,
+            "Utsuho Reiuji": 12,
+            "Cirno": 16,
+            "Goliath Doll": 10,
+            "Taisui Xingjun": 10,
             "Hisoutensoku": 6,
-            "Chen": 4,
+            "Medicine Melancholy": 2,
             "Lunasa Prismriver": 2,
             "Prismriver Sisters": 6,
             "Merlin Prismriver": 4,
             "Lyrica Prismriver": 6,
             "Keine Kamishirasawa": 6,
             "Suwako Moriya": 2,
+            "Three Fairies of Light": 24,
             "Fujiwara no Mokou": 4,
-            "Hakurei God": 4,
+            "Youki Konpaku": 2,
             "Star Sapphire": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 13,
             "Cirno": 6,
@@ -72,9 +82,10 @@
     },
     "Aunn Komano": {
         "dialogues": {
-            "Lily White": 4
+            "Lily White": 4,
+            "Reimu Hakurei": 10,
+            "Okina Matara": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Okina Matara": 3,
             "Reimu Hakurei": 1,
@@ -84,36 +95,56 @@
     },
     "Aya Shameimaru": {
         "dialogues": {
-            "Saigyou Ayakashi": 8,
-            "Cirno": 36,
-            "Lyrica Prismriver": 4,
-            "Reisen": 20,
-            "Reisen Udongein Inaba": 4,
-            "Ran Yakumo": 12,
-            "Komachi Onozuka": 8,
+            "Tewi Inaba": 16,
+            "Medicine Melancholy": 16,
+            "Cirno": 44,
+            "Lyrica Prismriver": 20,
+            "Eirin Yagokoro": 8,
+            "Reisen": 24,
+            "Reisen Udongein Inaba": 24,
+            "Komachi Onozuka": 42,
+            "Ran Yakumo": 14,
+            "Reimu Hakurei": 182,
+            "Marisa Kirisame": 94,
+            "Youmu Konpaku": 28,
+            "Mystia Lorelei": 8,
+            "Sakuya Izayoi": 38,
             "Eiki Shiki, Yamaxanadu": 20,
+            "Yuuka Kazami": 8,
+            "Momiji Inubashiri": 4,
             "Tenma": 8,
-            "Marisa Kirisame": 30,
-            "Iku Nagae": 4,
-            "Yukari Yakumo": 4,
-            "Reimu Hakurei": 18,
-            "Suika Ibuki": 16,
-            "Remilia Scarlet": 4,
-            "Alice Margatroid": 16,
+            "Kanako Yasaka": 12,
+            "Nitori Kawashiro": 8,
+            "Sake Bug": 8,
+            "Sanae Kochiya": 14,
+            "Iku Nagae": 40,
+            "Dragon (God)": 2,
+            "Tenshi Hinanawi": 34,
+            "Yuyuko Saigyouji": 18,
+            "Suika Ibuki": 40,
+            "Yukari Yakumo": 8,
+            "Remilia Scarlet": 24,
+            "Patchouli Knowledge": 8,
+            "Alice Margatroid": 32,
+            "Yukari's crows": 4,
+            "Utsuho Reiuji": 12,
             "Kogasa Tatara": 6,
             "Nue Houjuu": 6,
             "Three Fairies of Light": 2,
-            "Marisa's unnamed father": 4,
+            "Lily White": 6,
+            "Daiyousei": 2,
+            "Satono Nishida": 2,
+            "Okina Matara": 8,
+            "Star Sapphire": 32,
             "Chen": 8,
             "Minoriko Aki": 2,
-            "Yuyuko Saigyouji": 2,
             "Rinnosuke Morichika": 2,
-            "Rin Satsuki": 2,
             "Clownpiece": 4,
+            "Hecatia Lapislazuli": 4,
+            "Hong Meiling": 4,
             "Kaguya Houraisan": 4,
             "Kasen Ibaraki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hieda no Akyuu": 2,
             "Hisoutensoku": 8,
@@ -135,7 +166,6 @@
     },
     "Ayana": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Wheel Demon": 1,
             "Shinki": 1,
@@ -146,7 +176,6 @@
     },
     "Beerko": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Junko": 1,
             "Rumia": 1,
@@ -156,7 +185,6 @@
     },
     "Benben Tsukumo": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Yatsuhashi Tsukumo": 6,
             "Seija Kijin": 3,
@@ -176,7 +204,6 @@
     },
     "Bewitching Lotus Flower": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Marisa Kirisame": 1
@@ -185,10 +212,11 @@
     },
     "Bishamonten": {
         "dialogues": {
+            "Byakuren Hijiri": 4,
+            "Nue Houjuu": 4,
             "Nazrin": 32,
-            "Shou Toramaru": 46
+            "Shou Toramaru": 54
         },
-        "fought": {},
         "wiki_mentions": {
             "Byakuren Hijiri": 2,
             "Shou Toramaru": 3,
@@ -198,23 +226,31 @@
     },
     "Byakuren Hijiri": {
         "dialogues": {
-            "Nazrin": 14,
-            "Minamitsu Murasa": 8,
-            "Unzan": 8,
-            "Kogasa Tatara": 4,
+            "Ichirin Kumoi": 50,
+            "Minamitsu Murasa": 26,
+            "Shou Toramaru": 24,
+            "Nue Houjuu": 16,
+            "Bishamonten": 4,
+            "Nazrin": 18,
+            "Reimu Hakurei": 64,
+            "Marisa Kirisame": 36,
+            "Kanako Yasaka": 16,
+            "Sanae Kochiya": 16,
+            "Suwako Moriya": 14,
+            "Unzan": 16,
+            "Kogasa Tatara": 8,
             "Yoshika Miyako": 4,
-            "Reimu Hakurei": 4,
-            "Ichirin Kumoi": 8,
+            "Koishi Komeiji": 24,
+            "Mamizou Futatsuiwa": 28,
+            "Nitori Kawashiro": 16,
+            "Yuugi Hoshiguma": 4,
+            "Myouren Hijiri": 12,
             "Toyosatomimi no Miko": 30,
             "Doremy Sweet": 4,
-            "Kanako Yasaka": 8,
-            "Suwako Moriya": 6,
             "Hina Kagiyama": 2,
-            "Kana Anaberal": 4,
             "Hata no Kokoro": 8,
             "Seiga Kaku": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Myouren Hijiri": 4,
             "Minamitsu Murasa": 3,
@@ -244,13 +280,15 @@
     "Chang'e": {
         "dialogues": {
             "Junko": 32,
-            "Hecatia Lapislazuli": 4,
+            "Hecatia Lapislazuli": 10,
             "Clownpiece": 8,
             "Sagume Kishin": 4,
+            "Eirin Yagokoro": 12,
+            "Reimu Hakurei": 8,
             "Reisen": 12,
+            "Reisen Udongein Inaba": 12,
             "Hourai": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Hourai": 4,
             "Junko": 6,
@@ -265,25 +303,25 @@
     },
     "Chen": {
         "dialogues": {
-            "Ran Yakumo": 22,
-            "Yukari Yakumo": 20,
+            "Sakuya Izayoi": 6,
+            "Ran Yakumo": 40,
+            "Yukari Yakumo": 26,
+            "Yuyuko Saigyouji": 10,
+            "Alice Margatroid": 18,
             "Marisa Kirisame": 16,
             "Reimu Hakurei": 16,
             "Reisen": 12,
+            "Reisen Udongein Inaba": 12,
             "Remilia Scarlet": 8,
-            "Sakuya Izayoi": 4,
-            "Alice Margatroid": 4,
+            "Youmu Konpaku": 6,
+            "Eirin Yagokoro": 12,
+            "Kaguya Houraisan": 12,
+            "Patchouli Knowledge": 10,
             "Cirno": 12,
             "Wriggle Nightbug": 4,
-            "Patchouli Knowledge": 6,
             "Aya Shameimaru": 8,
-            "Keine Kamishirasawa": 2,
-            "Youmu Konpaku": 4,
-            "Yuyuko Saigyouji": 4,
-            "Eirin Yagokoro": 4,
-            "Kaguya Houraisan": 4
+            "Keine Kamishirasawa": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Ran Yakumo": 8,
             "Yukari Yakumo": 2,
@@ -301,7 +339,6 @@
     },
     "Chiyuri Kitashirakawa": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Yumemi Okazaki": 2,
             "Hieda no Akyuu": 1,
@@ -313,40 +350,48 @@
         "dialogues": {
             "Rumia": 8,
             "Hong Meiling": 22,
-            "Fairy Maid": 14,
+            "Fairy Maid": 110,
+            "Marisa Kirisame": 72,
             "Letty Whiterock": 8,
             "Reisen": 24,
-            "Lyrica Prismriver": 26,
+            "Reisen Udongein Inaba": 24,
+            "Tewi Inaba": 26,
+            "Lyrica Prismriver": 34,
+            "Mystia Lorelei": 24,
             "Eirin Yagokoro": 14,
             "Medicine Melancholy": 4,
-            "Aya Shameimaru": 36,
-            "Tewi Inaba": 10,
-            "Sanae Kochiya": 26,
+            "Aya Shameimaru": 44,
+            "Reimu Hakurei": 40,
+            "Sakuya Izayoi": 16,
+            "Youmu Konpaku": 16,
+            "Yuuka Kazami": 16,
+            "Eiki Shiki, Yamaxanadu": 22,
+            "Komachi Onozuka": 8,
+            "Sanae Kochiya": 28,
             "Taisui Xingjun": 10,
             "Hisoutensoku": 14,
-            "Marisa Kirisame": 40,
-            "Utsuho Reiuji": 8,
-            "Alice Margatroid": 14,
+            "Utsuho Reiuji": 10,
+            "Alice Margatroid": 16,
             "Goliath Doll": 16,
-            "Reimu Hakurei": 18,
-            "Three Fairies of Light": 76,
+            "Three Fairies of Light": 92,
             "Lily White": 40,
             "Luna Child": 42,
             "Daiyousei": 18,
-            "Star Sapphire": 54,
-            "Sunny Milk": 42,
-            "Narumi Yatadera": 4,
+            "Star Sapphire": 108,
+            "Sunny Milk": 64,
+            "Narumi Yatadera": 8,
             "Mai": 6,
             "Mai Teireida": 6,
             "Okina Matara": 4,
+            "Eternity Larva": 8,
+            "Nemuno Sakata": 8,
             "Chen": 12,
-            "Eiki Shiki, Yamaxanadu": 6,
             "Prismriver Sisters": 2,
+            "Spirit Mirror": 4,
             "Iku Nagae": 4,
             "Suika Ibuki": 4,
             "Remilia Scarlet": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 19,
             "Mystia Lorelei": 3,
@@ -383,18 +428,21 @@
     },
     "Clownpiece": {
         "dialogues": {
+            "Hecatia Lapislazuli": 34,
             "Chang'e": 8,
             "Junko": 10,
             "Sagume Kishin": 2,
+            "Eirin Yagokoro": 10,
             "Kaguya Houraisan": 8,
             "Reisen": 8,
+            "Reisen Udongein Inaba": 8,
+            "Fairy Maid": 24,
+            "Master Big Catfish": 8,
             "Prismriver Sisters": 2,
-            "Hecatia Lapislazuli": 20,
             "Aya Shameimaru": 4,
             "Doremy Sweet": 4,
             "Three Fairies of Light": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Sunny Milk": 2,
             "Star Sapphire": 1,
@@ -415,12 +463,12 @@
             "Star Sapphire": 10,
             "Sunny Milk": 8,
             "Luna Child": 6,
+            "Aya Shameimaru": 2,
             "Lily White": 12,
             "Marisa Kirisame": 4,
             "Keine Kamishirasawa": 4,
             "Koakuma": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Cirno": 6,
             "Koakuma": 1,
@@ -436,9 +484,11 @@
     },
     "Dark Mirror": {
         "dialogues": {
-            "Yamame Kurodani": 36
+            "Wriggle Nightbug": 24,
+            "Yamame Kurodani": 36,
+            "Rumia": 6,
+            "Remilia Scarlet": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Marisa Kirisame": 1,
@@ -449,20 +499,20 @@
     },
     "Doremy Sweet": {
         "dialogues": {
-            "Sagume Kishin": 14,
+            "Sagume Kishin": 18,
             "Seiran": 6,
-            "Rin Kaenbyou": 4,
-            "Rin Satsuki": 6,
             "Ringo": 6,
-            "Reisen": 14,
-            "Hecatia Lapislazuli": 8,
+            "Reisen": 38,
+            "Reisen Udongein Inaba": 38,
+            "Hecatia Lapislazuli": 12,
             "Junko": 8,
+            "Marisa Kirisame": 20,
             "Reimu Hakurei": 12,
             "Sanae Kochiya": 8,
-            "Sumireko Usami": 12,
-            "Reisen Udongein Inaba": 6,
-            "Marisa Kirisame": 12,
-            "Tenshi Hinanawi": 8,
+            "Ichirin Kumoi": 4,
+            "Sumireko Usami": 36,
+            "Shinmyoumaru Sukuna": 6,
+            "Tenshi Hinanawi": 12,
             "Hata no Kokoro": 6,
             "Mamizou Futatsuiwa": 4,
             "Toyosatomimi no Miko": 4,
@@ -470,7 +520,6 @@
             "Kasen Ibaraki": 4,
             "Clownpiece": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reisen": 1,
             "Toyosatomimi no Miko": 1,
@@ -484,8 +533,19 @@
         "relationship_wiki": []
     },
     "Dragon (God)": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Reimu Hakurei": 8,
+            "Aya Shameimaru": 2,
+            "Iku Nagae": 14,
+            "Tenshi Hinanawi": 2,
+            "Master Big Catfish": 40,
+            "Mononobe no Futo": 30,
+            "Nitori Kawashiro": 4,
+            "Eirin Yagokoro": 10,
+            "Watatsuki no Toyohime": 6,
+            "Watatsuki no Yorihime": 6,
+            "Kaguya Houraisan": 8
+        },
         "wiki_mentions": {
             "Rinnosuke Morichika": 1,
             "Hieda no Akyuu": 2,
@@ -503,7 +563,6 @@
     },
     "Eika Ebisu": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Cirno": 1,
             "Urumi Ushizaki": 1
@@ -512,19 +571,25 @@
     },
     "Eiki Shiki, Yamaxanadu": {
         "dialogues": {
-            "Komachi Onozuka": 8,
-            "Reimu Hakurei": 4,
+            "Komachi Onozuka": 52,
+            "Reimu Hakurei": 38,
+            "Marisa Kirisame": 20,
+            "Sakuya Izayoi": 20,
+            "Youmu Konpaku": 16,
+            "Reisen": 16,
+            "Reisen Udongein Inaba": 16,
+            "Cirno": 22,
+            "Lyrica Prismriver": 16,
+            "Mystia Lorelei": 16,
+            "Tewi Inaba": 16,
             "Aya Shameimaru": 20,
-            "Spirit Mirror": 2,
+            "Medicine Melancholy": 10,
+            "Yuuka Kazami": 8,
             "Luna Child": 4,
             "Star Sapphire": 10,
-            "Cirno": 6,
-            "Sakuya Izayoi": 4,
             "Yuugi Hoshiguma": 2,
-            "Medicine Melancholy": 2,
             "Eirin Yagokoro": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Komachi Onozuka": 5,
             "Yukari Yakumo": 1,
@@ -538,25 +603,43 @@
     },
     "Eirin Yagokoro": {
         "dialogues": {
-            "Reisen": 46,
-            "Reisen Udongein Inaba": 34,
-            "Luna Child": 8,
-            "Medicine Melancholy": 8,
+            "Reisen": 132,
+            "Reisen Udongein Inaba": 132,
+            "Kaguya Houraisan": 60,
+            "Chen": 12,
+            "Marisa Kirisame": 18,
+            "Ran Yakumo": 12,
+            "Reimu Hakurei": 32,
+            "Alice Margatroid": 8,
+            "Patchouli Knowledge": 14,
+            "Remilia Scarlet": 10,
+            "Sakuya Izayoi": 8,
+            "Youmu Konpaku": 16,
+            "Yuyuko Saigyouji": 16,
+            "Hourai": 16,
+            "Medicine Melancholy": 22,
             "Cirno": 14,
-            "Sanae Kochiya": 4,
-            "Kaguya Houraisan": 22,
-            "Reimu Hakurei": 4,
-            "Tewi Inaba": 14,
-            "Remilia Scarlet": 2,
+            "Tewi Inaba": 38,
+            "Aya Shameimaru": 8,
+            "Yuuka Kazami": 4,
+            "Tenshi Hinanawi": 8,
+            "Sanae Kochiya": 6,
+            "Clownpiece": 10,
+            "Junko": 20,
+            "Chang'e": 12,
+            "Luna Child": 4,
+            "Star Sapphire": 4,
+            "Sunny Milk": 4,
             "Rinnosuke Morichika": 2,
             "Flandre Scarlet": 8,
             "Eiki Shiki, Yamaxanadu": 4,
             "Sagume Kishin": 8,
-            "Chen": 4,
-            "Ran Yakumo": 4,
+            "Suika Ibuki": 4,
+            "Dragon (God)": 10,
+            "Watatsuki no Toyohime": 6,
+            "Watatsuki no Yorihime": 6,
             "Yukari Yakumo": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Lord Tsukuyomi": 3,
             "Reisen": 7,
@@ -580,7 +663,6 @@
     },
     "Elis": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Konngara": 1,
@@ -597,7 +679,6 @@
     },
     "Ellen": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Sokrates": 4,
             "Hisoutensoku": 2,
@@ -606,8 +687,10 @@
         "relationship_wiki": []
     },
     "Elly": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Marisa Kirisame": 2,
+            "Reimu Hakurei": 2
+        },
         "wiki_mentions": {
             "Reimu Hakurei": 3,
             "Marisa Kirisame": 3,
@@ -618,8 +701,12 @@
         "relationship_wiki": []
     },
     "Eternity Larva": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Kaguya Houraisan": 24,
+            "Nemuno Sakata": 2,
+            "Fairy Maid": 24,
+            "Cirno": 8
+        },
         "wiki_mentions": {
             "Clownpiece": 3,
             "Okina Matara": 3,
@@ -632,9 +719,19 @@
     },
     "Fairy Maid": {
         "dialogues": {
-            "Cirno": 14
+            "Cirno": 110,
+            "Star Sapphire": 6,
+            "Luna Child": 18,
+            "Sunny Milk": 8,
+            "Marisa Kirisame": 12,
+            "Clownpiece": 24,
+            "Eternity Larva": 24,
+            "Tewi Inaba": 2,
+            "Hong Meiling": 6,
+            "Hecatia Lapislazuli": 4,
+            "Reimu Hakurei": 4,
+            "Five Magic Stones": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Sakuya Izayoi": 2,
             "Remilia Scarlet": 1,
@@ -646,8 +743,15 @@
         "relationship_wiki": []
     },
     "Five Magic Stones": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Reimu Hakurei": 10,
+            "Komachi Onozuka": 2,
+            "Yukari Yakumo": 4,
+            "Hong Meiling": 6,
+            "Kaguya Houraisan": 4,
+            "Kasen Ibaraki": 8,
+            "Fairy Maid": 2
+        },
         "wiki_mentions": {
             "Reimu Hakurei": 2,
             "Three Fairies of Light": 1,
@@ -658,16 +762,17 @@
     "Flandre Scarlet": {
         "dialogues": {
             "Marisa Kirisame": 2,
-            "Marisa's unnamed father": 2,
-            "Star Sapphire": 6,
+            "Patchouli Knowledge": 6,
+            "Remilia Scarlet": 24,
+            "Star Sapphire": 10,
+            "Luna Child": 4,
+            "Sunny Milk": 4,
             "Kaguya Houraisan": 8,
-            "Remilia Scarlet": 10,
             "Eirin Yagokoro": 8,
             "Iku Nagae": 2,
             "Hina Kagiyama": 4,
             "Hong Meiling": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Remilia Scarlet": 6,
             "Patchouli Knowledge": 3,
@@ -688,18 +793,18 @@
         "dialogues": {
             "Keine Kamishirasawa": 10,
             "Hourai": 6,
-            "Kaguya Houraisan": 12,
+            "Kaguya Houraisan": 18,
             "Reimu Hakurei": 12,
             "Mamizou Futatsuiwa": 4,
             "Reisen": 8,
             "Reisen Udongein Inaba": 8,
-            "Luna Child": 2,
+            "Narumi Yatadera": 2,
+            "Yuki": 2,
             "Sanae Kochiya": 2,
             "Marisa Kirisame": 2,
             "Tewi Inaba": 4,
             "Alice Margatroid": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hourai": 23,
             "Kaguya Houraisan": 7,
@@ -738,7 +843,6 @@
         "dialogues": {
             "Mugetsu": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Mugetsu": 7,
             "Yuuka Kazami": 1
@@ -749,10 +853,10 @@
         "dialogues": {
             "Yin-Yang Orb": 4,
             "Mima": 16,
-            "Reimu Hakurei": 16,
-            "Rika": 8
+            "Reimu Hakurei": 22,
+            "Rika": 8,
+            "Marisa Kirisame": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 2,
             "Marisa Kirisame": 1,
@@ -763,11 +867,10 @@
     "Goliath Doll": {
         "dialogues": {
             "Cirno": 16,
-            "Alice Margatroid": 8,
-            "Hisoutensoku": 6,
-            "Reimu Hakurei": 6
+            "Alice Margatroid": 10,
+            "Reimu Hakurei": 8,
+            "Hisoutensoku": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 8,
             "Alice Margatroid": 3,
@@ -777,35 +880,22 @@
         "relationship_wiki": []
     },
     "Hakurei God": {
-        "dialogues": {
-            "Mima": 8,
-            "Mai Teireida": 4,
-            "Reimu Hakurei": 10,
-            "Hong Meiling": 2,
-            "Alice Margatroid": 4
-        },
-        "fought": {},
-        "wiki_mentions": {
-            "Reimu Hakurei": 2,
-            "Yin-Yang Orb": 1,
-            "Rinnosuke Morichika": 1,
-            "Byakuren Hijiri": 1
-        },
+        "dialogues": {},
+        "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Hata no Kokoro": {
         "dialogues": {
+            "Ichirin Kumoi": 8,
+            "Mamizou Futatsuiwa": 8,
             "Nitori Kawashiro": 8,
             "Mononobe no Futo": 4,
             "Doremy Sweet": 6,
             "Toyosatomimi no Miko": 12,
             "Byakuren Hijiri": 8,
             "Seiga Kaku": 12,
-            "Hatate Himekaidou": 8,
-            "Kagerou Imaizumi": 4,
             "Yoshika Miyako": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Toyosatomimi no Miko": 4,
             "Mononobe no Futo": 2,
@@ -823,10 +913,8 @@
             "Sumireko Usami": 16,
             "Spirit Mirror": 6,
             "Seija Kijin": 8,
-            "Hata no Kokoro": 8,
             "Kagerou Imaizumi": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Aya Shameimaru": 3,
             "Mamizou Futatsuiwa": 1,
@@ -841,18 +929,22 @@
     },
     "Hecatia Lapislazuli": {
         "dialogues": {
-            "Chang'e": 4,
-            "Junko": 12,
+            "Chang'e": 10,
+            "Junko": 18,
+            "Clownpiece": 34,
             "Reisen": 8,
+            "Reisen Udongein Inaba": 8,
             "Sagume Kishin": 4,
-            "Doremy Sweet": 8,
-            "Reimu Hakurei": 8,
+            "Doremy Sweet": 12,
+            "Marisa Kirisame": 16,
+            "Reimu Hakurei": 16,
             "Sanae Kochiya": 8,
             "Prismriver Sisters": 2,
-            "Clownpiece": 20,
-            "Sumireko Usami": 2
+            "Sumireko Usami": 2,
+            "Aya Shameimaru": 4,
+            "Luna Child": 8,
+            "Fairy Maid": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Clownpiece": 5,
             "Reimu Hakurei": 1,
@@ -871,7 +963,6 @@
             "Nitori Kawashiro": 2,
             "Kosuzu Motoori": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Yukari Yakumo": 3,
             "Reimu Hakurei": 4,
@@ -892,22 +983,20 @@
     },
     "Hina Kagiyama": {
         "dialogues": {
-            "Reimu Hakurei": 2,
-            "Marisa Kirisame": 6,
+            "Reimu Hakurei": 10,
+            "Marisa Kirisame": 8,
             "Mystia Lorelei": 2,
             "Kisume": 2,
             "Flandre Scarlet": 4,
             "Iku Nagae": 8,
             "Minoriko Aki": 10,
             "Seiga Kaku": 8,
+            "Spirit Mirror": 6,
             "Nitori Kawashiro": 6,
             "Byakuren Hijiri": 2,
             "Nue Houjuu": 4,
-            "Tenshi Hinanawi": 8,
-            "Komachi Onozuka": 2,
             "Shizuha Aki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Alice Margatroid": 1,
             "Reimu Hakurei": 1,
@@ -923,15 +1012,18 @@
     },
     "Hisoutensoku": {
         "dialogues": {
-            "Suwako Moriya": 4,
+            "Suwako Moriya": 6,
+            "Sanae Kochiya": 6,
             "Cirno": 14,
+            "Marisa Kirisame": 8,
+            "Reimu Hakurei": 16,
             "Goliath Doll": 6,
-            "Reimu Hakurei": 8,
             "Alice Margatroid": 6,
-            "Patchouli Knowledge": 2,
+            "Sakuya Izayoi": 8,
+            "Patchouli Knowledge": 8,
+            "Taisui Xingjun": 6,
             "Tewi Inaba": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Utsuho Reiuji": 1,
             "Suwako Moriya": 1,
@@ -947,7 +1039,7 @@
         "dialogues": {
             "Cirno": 22,
             "Rumia": 4,
-            "Sanae Kochiya": 8,
+            "Sanae Kochiya": 10,
             "Taisui Xingjun": 12,
             "Patchouli Knowledge": 8,
             "Mystia Lorelei": 2,
@@ -957,12 +1049,16 @@
             "Komachi Onozuka": 4,
             "Letty Whiterock": 2,
             "Youmu Konpaku": 4,
-            "Reimu Hakurei": 8,
-            "Hakurei God": 2,
-            "Three Fairies of Light": 6,
-            "Flandre Scarlet": 4
+            "Reimu Hakurei": 12,
+            "Fairy Maid": 6,
+            "Aya Shameimaru": 4,
+            "Three Fairies of Light": 8,
+            "Yukari Yakumo": 2,
+            "Five Magic Stones": 6,
+            "Marisa Kirisame": 4,
+            "Flandre Scarlet": 4,
+            "Remilia Scarlet": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 18,
             "Yuyuko Saigyouji": 1,
@@ -982,16 +1078,18 @@
     },
     "Hourai": {
         "dialogues": {
-            "Yuyuko Saigyouji": 6,
+            "Eirin Yagokoro": 16,
+            "Youmu Konpaku": 8,
+            "Yuyuko Saigyouji": 8,
             "Keine Kamishirasawa": 6,
             "Fujiwara no Mokou": 6,
-            "Kaguya Houraisan": 8,
+            "Kaguya Houraisan": 14,
             "Chang'e": 8,
             "Junko": 8,
+            "Reimu Hakurei": 6,
             "Reisen": 12,
-            "Reisen Udongein Inaba": 4
+            "Reisen Udongein Inaba": 12
         },
-        "fought": {},
         "wiki_mentions": {
             "Alice Margatroid": 1,
             "Kaguya Houraisan": 1,
@@ -1001,23 +1099,34 @@
     },
     "Ibaraki-douji's Arm": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Ichirin Kumoi": {
         "dialogues": {
-            "Minamitsu Murasa": 4,
-            "Unzan": 124,
+            "Minamitsu Murasa": 26,
+            "Unzan": 148,
+            "Shou Toramaru": 16,
+            "Byakuren Hijiri": 50,
+            "Kogasa Tatara": 4,
+            "Nue Houjuu": 10,
+            "Nazrin": 8,
+            "Wheel Demon": 36,
+            "Marisa Kirisame": 28,
+            "Hata no Kokoro": 8,
+            "Mamizou Futatsuiwa": 34,
+            "Koishi Komeiji": 20,
+            "Nitori Kawashiro": 20,
+            "Reimu Hakurei": 20,
+            "Kasen Ibaraki": 6,
+            "Sumireko Usami": 2,
+            "Doremy Sweet": 4,
+            "Reisen": 4,
+            "Reisen Udongein Inaba": 4,
             "Mononobe no Futo": 8,
-            "Marisa Kirisame": 4,
-            "Byakuren Hijiri": 8,
-            "Koishi Komeiji": 4,
-            "Nitori Kawashiro": 4,
             "Kyouko Kasodani": 6,
             "Yamame Kurodani": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Unzan": 26,
             "Byakuren Hijiri": 5,
@@ -1030,25 +1139,30 @@
     },
     "Iku Nagae": {
         "dialogues": {
-            "Aya Shameimaru": 4,
-            "Yuyuko Saigyouji": 8,
-            "Sakuya Izayoi": 8,
-            "Alice Margatroid": 4,
-            "Reimu Hakurei": 4,
-            "Suika Ibuki": 10,
-            "Komachi Onozuka": 2,
-            "Youmu Konpaku": 8,
-            "Yukari Yakumo": 18,
-            "Tenshi Hinanawi": 18,
-            "Remilia Scarlet": 2,
+            "Reimu Hakurei": 26,
+            "Aya Shameimaru": 40,
+            "Dragon (God)": 14,
+            "Tenshi Hinanawi": 90,
+            "Marisa Kirisame": 24,
+            "Sakuya Izayoi": 32,
+            "Yuyuko Saigyouji": 26,
+            "Alice Margatroid": 16,
+            "Patchouli Knowledge": 34,
+            "Suika Ibuki": 52,
+            "Youmu Konpaku": 16,
+            "Komachi Onozuka": 16,
+            "Yukari Yakumo": 34,
+            "Remilia Scarlet": 16,
+            "Reisen": 8,
+            "Reisen Udongein Inaba": 8,
+            "Yukari's crows": 8,
             "Flandre Scarlet": 2,
             "Hina Kagiyama": 8,
             "Kaguya Houraisan": 4,
+            "Spirit Mirror": 4,
             "Cirno": 4,
-            "Marisa Kirisame": 4,
             "Keine Kamishirasawa": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 6,
             "Aya Shameimaru": 2,
@@ -1069,7 +1183,6 @@
     },
     "Iwakasa": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Fujiwara no Mokou": 3,
             "Keine Kamishirasawa": 1,
@@ -1084,7 +1197,6 @@
     },
     "Iwanagahime": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Keine Kamishirasawa": 1,
             "Fujiwara no Mokou": 1,
@@ -1094,9 +1206,10 @@
     },
     "Joon Yorigami": {
         "dialogues": {
-            "Shion Yorigami": 44
+            "Reimu Hakurei": 4,
+            "Yukari Yakumo": 4,
+            "Shion Yorigami": 84
         },
-        "fought": {},
         "wiki_mentions": {
             "Sumireko Usami": 1,
             "Reisen": 1,
@@ -1110,17 +1223,19 @@
     "Junko": {
         "dialogues": {
             "Chang'e": 32,
-            "Hecatia Lapislazuli": 12,
+            "Hecatia Lapislazuli": 18,
             "Clownpiece": 10,
-            "Sagume Kishin": 8,
+            "Sagume Kishin": 16,
+            "Eirin Yagokoro": 20,
+            "Reimu Hakurei": 24,
+            "Sanae Kochiya": 16,
             "Ringo": 8,
+            "Marisa Kirisame": 10,
             "Reisen": 20,
+            "Reisen Udongein Inaba": 20,
             "Hourai": 8,
-            "Doremy Sweet": 8,
-            "Reimu Hakurei": 8,
-            "Sanae Kochiya": 8
+            "Doremy Sweet": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Chang'e": 10,
             "Clownpiece": 6,
@@ -1134,10 +1249,12 @@
     },
     "Kagerou Imaizumi": {
         "dialogues": {
-            "Hata no Kokoro": 4,
-            "Hatate Himekaidou": 4
+            "Shinmyoumaru Sukuna": 2,
+            "Hatate Himekaidou": 4,
+            "Kogasa Tatara": 4,
+            "Seiga Kaku": 4,
+            "Yoshika Miyako": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Keine Kamishirasawa": 1,
             "Seija Kijin": 1,
@@ -1149,26 +1266,34 @@
     },
     "Kaguya Houraisan": {
         "dialogues": {
-            "Luna Child": 8,
+            "Eirin Yagokoro": 60,
+            "Chen": 12,
+            "Marisa Kirisame": 18,
+            "Ran Yakumo": 12,
+            "Reimu Hakurei": 48,
+            "Reisen": 36,
+            "Reisen Udongein Inaba": 36,
+            "Alice Margatroid": 8,
+            "Patchouli Knowledge": 6,
+            "Remilia Scarlet": 6,
+            "Sakuya Izayoi": 14,
+            "Youmu Konpaku": 8,
             "Keine Kamishirasawa": 12,
-            "Fujiwara no Mokou": 12,
-            "Hourai": 8,
-            "Eirin Yagokoro": 22,
+            "Fujiwara no Mokou": 18,
+            "Hourai": 14,
+            "Eternity Larva": 24,
+            "Yukari Yakumo": 36,
             "Clownpiece": 8,
-            "Reisen": 26,
             "Flandre Scarlet": 8,
-            "Reisen Udongein Inaba": 10,
             "Tewi Inaba": 6,
             "Iku Nagae": 4,
-            "Kana Anaberal": 4,
             "Kanako Yasaka": 4,
             "Watatsuki no Toyohime": 6,
+            "Watatsuki no Yorihime": 6,
+            "Dragon (God)": 8,
             "Aya Shameimaru": 4,
-            "Chen": 4,
-            "Ran Yakumo": 4,
-            "Yukari Yakumo": 4
+            "Five Magic Stones": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reisen": 15,
             "Hourai": 17,
@@ -1188,20 +1313,7 @@
         "relationship_wiki": []
     },
     "Kana Anaberal": {
-        "dialogues": {
-            "Kanako Yasaka": 104,
-            "Marisa Kirisame": 4,
-            "Reimu Hakurei": 6,
-            "Utsuho Reiuji": 6,
-            "Suwako Moriya": 10,
-            "Sagume Kishin": 4,
-            "Sanae Kochiya": 16,
-            "Kaguya Houraisan": 4,
-            "Keine Kamishirasawa": 4,
-            "Kogasa Tatara": 4,
-            "Byakuren Hijiri": 4
-        },
-        "fought": {},
+        "dialogues": {},
         "wiki_mentions": {
             "Yumemi Okazaki": 1,
             "Reimu Hakurei": 1,
@@ -1212,22 +1324,25 @@
     },
     "Kanako Yasaka": {
         "dialogues": {
-            "Suwako Moriya": 42,
-            "Marisa Kirisame": 16,
-            "Kana Anaberal": 104,
-            "Utsuho Reiuji": 12,
-            "Reimu Hakurei": 6,
-            "Sanae Kochiya": 28,
+            "Suwako Moriya": 54,
+            "Reimu Hakurei": 70,
+            "Marisa Kirisame": 78,
+            "Aya Shameimaru": 12,
+            "Nitori Kawashiro": 24,
+            "Sake Bug": 8,
+            "Sanae Kochiya": 80,
+            "Rin Kaenbyou": 12,
+            "Utsuho Reiuji": 36,
+            "Suika Ibuki": 8,
+            "Satori Komeiji": 8,
+            "Koishi Komeiji": 6,
+            "Byakuren Hijiri": 16,
             "Sagume Kishin": 8,
             "Kaguya Houraisan": 4,
             "Keine Kamishirasawa": 4,
-            "Byakuren Hijiri": 8,
             "Kogasa Tatara": 8,
-            "Rin Kaenbyou": 6,
-            "Shizuha Aki": 4,
-            "Nitori Kawashiro": 4
+            "Shizuha Aki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 10,
             "Suwako Moriya": 7,
@@ -1249,14 +1364,22 @@
     },
     "Kasen Ibaraki": {
         "dialogues": {
-            "Reimu Hakurei": 28,
-            "Marisa Kirisame": 2,
-            "Mamizou Futatsuiwa": 4,
+            "Seiga Kaku": 8,
+            "Sanae Kochiya": 8,
+            "Marisa Kirisame": 20,
+            "Ichirin Kumoi": 6,
+            "Reimu Hakurei": 66,
+            "Mamizou Futatsuiwa": 20,
+            "Sumireko Usami": 24,
+            "Reisen": 2,
+            "Reisen Udongein Inaba": 2,
+            "Koishi Komeiji": 10,
             "Doremy Sweet": 4,
-            "Sumireko Usami": 8,
-            "Aya Shameimaru": 4
+            "Spirit Mirror": 4,
+            "Aya Shameimaru": 4,
+            "Suika Ibuki": 8,
+            "Five Magic Stones": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 6,
             "Marisa Kirisame": 5,
@@ -1299,7 +1422,6 @@
             "Youmu Konpaku": 2,
             "Komachi Onozuka": 6,
             "Chen": 2,
-            "Kana Anaberal": 4,
             "Kanako Yasaka": 4,
             "Koishi Komeiji": 4,
             "Marisa Kirisame": 2,
@@ -1312,7 +1434,6 @@
             "Koakuma": 4,
             "Lily White": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hieda no Akyuu": 1,
             "Fujiwara no Mokou": 4,
@@ -1325,7 +1446,6 @@
     },
     "Kikuri": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Elis": 1
@@ -1334,14 +1454,16 @@
     },
     "Kisume": {
         "dialogues": {
+            "Marisa Kirisame": 2,
+            "Nitori Kawashiro": 2,
             "Yamame Kurodani": 6,
             "Hina Kagiyama": 2,
             "Koishi Komeiji": 4,
             "Komachi Onozuka": 4,
+            "Rin Kaenbyou": 4,
             "Yoshika Miyako": 4,
             "Seiga Kaku": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Aya Shameimaru": 2,
             "Hatate Himekaidou": 1,
@@ -1357,7 +1479,6 @@
             "Daiyousei": 8,
             "Lily White": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Patchouli Knowledge": 3,
             "Daiyousei": 1
@@ -1366,22 +1487,25 @@
     },
     "Kogasa Tatara": {
         "dialogues": {
+            "Ichirin Kumoi": 4,
             "Unzan": 4,
             "Minamitsu Murasa": 8,
-            "Nue Houjuu": 8,
+            "Nue Houjuu": 10,
+            "Marisa Kirisame": 8,
+            "Reimu Hakurei": 8,
+            "Sanae Kochiya": 14,
             "Aya Shameimaru": 6,
-            "Kyouko Kasodani": 4,
-            "Byakuren Hijiri": 4,
+            "Myouren Hijiri": 4,
+            "Kyouko Kasodani": 8,
+            "Byakuren Hijiri": 8,
+            "Yoshika Miyako": 22,
             "Nitori Kawashiro": 6,
             "Hieda no Akyuu": 2,
-            "Sanae Kochiya": 6,
             "Kanako Yasaka": 8,
             "Rin Kaenbyou": 2,
-            "Seiga Kaku": 12,
-            "Kana Anaberal": 4,
-            "Yoshika Miyako": 8
+            "Seiga Kaku": 20,
+            "Kagerou Imaizumi": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Hatate Himekaidou": 4,
@@ -1396,22 +1520,28 @@
     },
     "Koishi Komeiji": {
         "dialogues": {
-            "Sanae Kochiya": 4,
-            "Satori Komeiji": 16,
-            "Nitori Kawashiro": 4,
-            "Mamizou Futatsuiwa": 4,
-            "Marisa Kirisame": 4,
-            "Ichirin Kumoi": 4,
+            "Kanako Yasaka": 6,
+            "Sanae Kochiya": 6,
+            "Satori Komeiji": 54,
+            "Utsuho Reiuji": 14,
+            "Nitori Kawashiro": 38,
+            "Marisa Kirisame": 70,
+            "Reimu Hakurei": 42,
+            "Byakuren Hijiri": 24,
+            "Ichirin Kumoi": 20,
+            "Mamizou Futatsuiwa": 32,
+            "Unzan": 8,
+            "Sunny Milk": 4,
+            "Sumireko Usami": 12,
+            "Kasen Ibaraki": 10,
             "Shinmyoumaru Sukuna": 4,
             "Sakuya Izayoi": 2,
             "Keine Kamishirasawa": 4,
             "Kisume": 4,
-            "Utsuho Reiuji": 6,
             "Yoshika Miyako": 2,
             "Yuugi Hoshiguma": 4,
             "Rin Kaenbyou": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Satori Komeiji": 4,
             "Byakuren Hijiri": 3,
@@ -1430,30 +1560,35 @@
     },
     "Komachi Onozuka": {
         "dialogues": {
-            "Eiki Shiki, Yamaxanadu": 8,
-            "Aya Shameimaru": 8,
-            "Ran Yakumo": 6,
-            "Medicine Melancholy": 4,
-            "Alice Margatroid": 6,
-            "Youmu Konpaku": 10,
-            "Yukari Yakumo": 6,
-            "Iku Nagae": 2,
-            "Sakuya Izayoi": 6,
-            "Reimu Hakurei": 4,
-            "Marisa Kirisame": 24,
+            "Eiki Shiki, Yamaxanadu": 52,
+            "Reimu Hakurei": 92,
+            "Marisa Kirisame": 56,
+            "Aya Shameimaru": 42,
+            "Ran Yakumo": 8,
+            "Medicine Melancholy": 12,
+            "Sakuya Izayoi": 30,
+            "Youmu Konpaku": 42,
+            "Reisen": 32,
+            "Reisen Udongein Inaba": 32,
+            "Tewi Inaba": 22,
+            "Yuuka Kazami": 20,
+            "Cirno": 8,
+            "Alice Margatroid": 10,
+            "Yukari Yakumo": 22,
+            "Iku Nagae": 16,
+            "Remilia Scarlet": 10,
+            "Yuyuko Saigyouji": 8,
+            "Tenshi Hinanawi": 20,
+            "Yukari's crows": 8,
             "Sunny Milk": 2,
             "Hong Meiling": 4,
-            "Tewi Inaba": 6,
             "Wriggle Nightbug": 2,
             "Keine Kamishirasawa": 6,
             "Letty Whiterock": 8,
             "Shizuha Aki": 2,
             "Kisume": 4,
-            "Tenshi Hinanawi": 2,
-            "Hina Kagiyama": 2,
-            "Yuuka Kazami": 4
+            "Five Magic Stones": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Eiki Shiki, Yamaxanadu": 2,
             "Hisoutensoku": 5,
@@ -1469,7 +1604,6 @@
     },
     "Konngara": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Elis": 1,
@@ -1480,7 +1614,6 @@
     },
     "Konohana-Sakuyahime": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Fujiwara no Mokou": 2,
             "Iwakasa": 2,
@@ -1494,7 +1627,6 @@
             "Hieda no Akyuu": 2,
             "Reimu Hakurei": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Hieda no Akyuu": 4,
             "Aya Shameimaru": 2,
@@ -1510,13 +1642,11 @@
     },
     "Kosuzu's Grandfather": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Kotohime": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Yumemi Okazaki": 1,
             "Reimu Hakurei": 1,
@@ -1527,7 +1657,6 @@
     },
     "Kurumi": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 3,
             "Marisa Kirisame": 3,
@@ -1537,21 +1666,25 @@
     },
     "Kutaka Niwatari": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Kyouko Kasodani": {
         "dialogues": {
-            "Kogasa Tatara": 4,
+            "Myouren Hijiri": 10,
+            "Kogasa Tatara": 8,
             "Minamitsu Murasa": 6,
             "Ichirin Kumoi": 6,
             "Unzan": 6,
+            "Mystia Lorelei": 16,
+            "Zombie Fairy": 2,
             "Toyosatomimi no Miko": 6,
+            "Rin Kaenbyou": 4,
+            "Yoshika Miyako": 8,
             "Marisa Kirisame": 2,
+            "Seiga Kaku": 4,
             "Momiji Inubashiri": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Mystia Lorelei": 2,
             "Byakuren Hijiri": 1,
@@ -1563,7 +1696,6 @@
     },
     "Layla Prismriver": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Prismriver Sisters": 7,
             "Lunasa Prismriver": 1,
@@ -1575,8 +1707,8 @@
     "Letty Whiterock": {
         "dialogues": {
             "Cirno": 8,
+            "Reimu Hakurei": 8,
             "Keine Kamishirasawa": 4,
-            "Luna Child": 8,
             "Lunasa Prismriver": 8,
             "Rumia": 12,
             "Wriggle Nightbug": 2,
@@ -1585,7 +1717,6 @@
             "Nitori Kawashiro": 2,
             "Hong Meiling": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Yuki": 1,
             "Aya Shameimaru": 2,
@@ -1597,20 +1728,22 @@
         "dialogues": {
             "Alice Margatroid": 4,
             "Prismriver Sisters": 6,
+            "Three Fairies of Light": 24,
             "Luna Child": 16,
             "Cirno": 40,
-            "Sunny Milk": 16,
-            "Three Fairies of Light": 18,
-            "Star Sapphire": 20,
+            "Sunny Milk": 26,
+            "Star Sapphire": 24,
+            "Aya Shameimaru": 6,
             "Daiyousei": 12,
+            "Nemuno Sakata": 2,
             "Aunn Komano": 4,
             "Lunasa Prismriver": 2,
             "Letty Whiterock": 4,
             "Remilia Scarlet": 8,
+            "Sakuya Izayoi": 8,
             "Keine Kamishirasawa": 4,
             "Koakuma": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Eiki Shiki, Yamaxanadu": 2,
             "Cirno": 1,
@@ -1624,9 +1757,9 @@
     },
     "Lord Tsukuyomi": {
         "dialogues": {
-            "Mystia Lorelei": 8
+            "Mystia Lorelei": 8,
+            "Remilia Scarlet": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Watatsuki no Toyohime": 2,
             "Watatsuki no Yorihime": 3,
@@ -1640,7 +1773,6 @@
             "Sara": 4,
             "Alice Margatroid": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Shinki": 3
         },
@@ -1648,24 +1780,21 @@
     },
     "Luna Child": {
         "dialogues": {
-            "Lunasa Prismriver": 168,
-            "Eirin Yagokoro": 8,
-            "Kaguya Houraisan": 8,
-            "Star Sapphire": 34,
-            "Sunny Milk": 40,
+            "Star Sapphire": 92,
+            "Fairy Maid": 18,
+            "Sunny Milk": 80,
+            "Three Fairies of Light": 10,
             "Lily White": 16,
             "Cirno": 42,
             "Daiyousei": 6,
-            "Three Fairies of Light": 8,
-            "Reisen": 36,
-            "Reisen Udongein Inaba": 20,
-            "Letty Whiterock": 8,
-            "Lyrica Prismriver": 12,
-            "Fujiwara no Mokou": 2,
+            "Eirin Yagokoro": 4,
+            "Flandre Scarlet": 4,
             "Eiki Shiki, Yamaxanadu": 4,
-            "Reimu Hakurei": 4
+            "Lunasa Prismriver": 4,
+            "Hecatia Lapislazuli": 8,
+            "Marisa Kirisame": 8,
+            "Reimu Hakurei": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Three Fairies of Light": 3,
             "Sunny Milk": 14,
@@ -1684,15 +1813,14 @@
     "Lunasa Prismriver": {
         "dialogues": {
             "Prismriver Sisters": 80,
-            "Luna Child": 168,
+            "Merlin Prismriver": 14,
+            "Lyrica Prismriver": 20,
             "Letty Whiterock": 8,
-            "Lyrica Prismriver": 16,
             "Youmu Konpaku": 2,
-            "Merlin Prismriver": 10,
             "Lily White": 2,
-            "Alice Margatroid": 2
+            "Alice Margatroid": 2,
+            "Luna Child": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Prismriver Sisters": 7,
             "Merlin Prismriver": 3,
@@ -1711,17 +1839,24 @@
     "Lyrica Prismriver": {
         "dialogues": {
             "Prismriver Sisters": 362,
-            "Cirno": 26,
-            "Aya Shameimaru": 4,
-            "Tewi Inaba": 8,
-            "Luna Child": 12,
-            "Lunasa Prismriver": 16,
-            "Marisa Kirisame": 12,
-            "Merlin Prismriver": 10,
+            "Sakuya Izayoi": 24,
+            "Cirno": 34,
+            "Merlin Prismriver": 14,
+            "Lunasa Prismriver": 20,
+            "Mystia Lorelei": 28,
+            "Tewi Inaba": 20,
+            "Aya Shameimaru": 20,
+            "Reimu Hakurei": 16,
+            "Marisa Kirisame": 28,
+            "Youmu Konpaku": 16,
+            "Reisen": 16,
+            "Reisen Udongein Inaba": 16,
+            "Yuuka Kazami": 16,
+            "Eiki Shiki, Yamaxanadu": 16,
+            "Medicine Melancholy": 8,
             "Alice Margatroid": 6,
             "Keine Kamishirasawa": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Prismriver Sisters": 7,
             "Lunasa Prismriver": 3,
@@ -1741,14 +1876,13 @@
     "Mai": {
         "dialogues": {
             "Yuki": 20,
-            "Mai Teireida": 1104,
+            "Mai Teireida": 1178,
             "Shinki": 2,
-            "Satono Nishida": 50,
-            "Okina Matara": 14,
-            "Narumi Yatadera": 6,
+            "Satono Nishida": 78,
+            "Okina Matara": 22,
+            "Narumi Yatadera": 8,
             "Cirno": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Mai Teireida": 1,
             "Yuki": 10,
@@ -1762,23 +1896,13 @@
     "Mai Teireida": {
         "dialogues": {
             "Yuki": 20,
-            "Mai": 1104,
+            "Mai": 1178,
             "Shinki": 2,
-            "Sakuya Izayoi": 100,
-            "Hakurei God": 4,
-            "Youmu Konpaku": 4,
-            "Alice Margatroid": 4,
-            "Reimu Hakurei": 6,
-            "Yukari Yakumo": 4,
-            "Yuyuko Saigyouji": 4,
-            "Nitori Kawashiro": 2,
-            "Taisui Xingjun": 2,
-            "Satono Nishida": 44,
-            "Okina Matara": 2,
-            "Narumi Yatadera": 6,
+            "Satono Nishida": 78,
+            "Okina Matara": 22,
+            "Narumi Yatadera": 8,
             "Cirno": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Mai": 23,
             "Okina Matara": 4,
@@ -1788,17 +1912,24 @@
     },
     "Mamizou Futatsuiwa": {
         "dialogues": {
-            "Nue Houjuu": 10,
-            "Koishi Komeiji": 4,
-            "Nitori Kawashiro": 4,
+            "Myouren Hijiri": 2,
+            "Nue Houjuu": 12,
+            "Byakuren Hijiri": 28,
+            "Marisa Kirisame": 28,
+            "Reimu Hakurei": 40,
+            "Hata no Kokoro": 8,
+            "Ichirin Kumoi": 34,
+            "Koishi Komeiji": 32,
+            "Nitori Kawashiro": 28,
+            "Unzan": 8,
+            "Kasen Ibaraki": 20,
+            "Sumireko Usami": 24,
             "Shinmyoumaru Sukuna": 4,
             "Fujiwara no Mokou": 4,
-            "Kasen Ibaraki": 4,
             "Doremy Sweet": 4,
             "Minoriko Aki": 2,
             "Seiga Kaku": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Nue Houjuu": 5,
             "Toyosatomimi no Miko": 4,
@@ -1823,9 +1954,8 @@
     },
     "Maribel Hearn": {
         "dialogues": {
-            "Renko Usami": 14
+            "Renko Usami": 18
         },
-        "fought": {},
         "wiki_mentions": {
             "Renko Usami": 7,
             "Yukari Yakumo": 5,
@@ -1840,54 +1970,89 @@
     },
     "Marisa Kirisame": {
         "dialogues": {
-            "Mima": 12,
-            "Marisa's unnamed father": 198,
+            "Mima": 48,
+            "Reimu Hakurei": 750,
+            "Genjii": 6,
+            "Elly": 2,
+            "Yuuka Kazami": 28,
+            "Shinki": 14,
+            "Alice Margatroid": 224,
+            "Rumia": 2,
+            "Remilia Scarlet": 122,
+            "Sakuya Izayoi": 220,
+            "Patchouli Knowledge": 150,
             "Flandre Scarlet": 2,
-            "Remilia Scarlet": 40,
-            "Yuyuko Saigyouji": 6,
-            "Reimu Hakurei": 124,
-            "Alice Margatroid": 36,
-            "Sakuya Izayoi": 30,
-            "Patchouli Knowledge": 22,
-            "Yukari Yakumo": 26,
-            "Ran Yakumo": 2,
-            "Suika Ibuki": 6,
-            "Youmu Konpaku": 6,
+            "Cirno": 72,
+            "Youmu Konpaku": 102,
+            "Yuyuko Saigyouji": 66,
+            "Yukari Yakumo": 124,
+            "Ran Yakumo": 24,
+            "Suika Ibuki": 44,
+            "Yukari's crows": 36,
+            "Rinnosuke Morichika": 20,
             "Chen": 16,
-            "Reisen": 36,
-            "Kanako Yasaka": 16,
-            "Hina Kagiyama": 6,
-            "Tenma": 2,
-            "Aya Shameimaru": 30,
-            "Kana Anaberal": 4,
-            "Suwako Moriya": 4,
-            "Tenshi Hinanawi": 10,
-            "Reisen Udongein Inaba": 14,
-            "Komachi Onozuka": 24,
-            "Nitori Kawashiro": 16,
-            "Sanae Kochiya": 12,
-            "Cirno": 40,
-            "Utsuho Reiuji": 6,
-            "Taisui Xingjun": 8,
+            "Reisen": 74,
+            "Reisen Udongein Inaba": 74,
+            "Eirin Yagokoro": 18,
+            "Kaguya Houraisan": 18,
+            "Eiki Shiki, Yamaxanadu": 20,
+            "Komachi Onozuka": 56,
+            "Mystia Lorelei": 32,
+            "Tewi Inaba": 20,
+            "Lyrica Prismriver": 28,
+            "Aya Shameimaru": 94,
+            "Medicine Melancholy": 16,
+            "Kanako Yasaka": 78,
+            "Shizuha Aki": 2,
+            "Minoriko Aki": 12,
+            "Hina Kagiyama": 8,
+            "Nitori Kawashiro": 122,
+            "Momiji Inubashiri": 6,
+            "Tenma": 6,
+            "Sanae Kochiya": 72,
+            "Suwako Moriya": 20,
+            "Tenshi Hinanawi": 46,
+            "Iku Nagae": 24,
+            "Kisume": 2,
+            "Utsuho Reiuji": 38,
+            "Satori Komeiji": 8,
+            "Byakuren Hijiri": 36,
+            "Minamitsu Murasa": 4,
+            "Kogasa Tatara": 8,
+            "Nue Houjuu": 8,
+            "Ichirin Kumoi": 28,
+            "Taisui Xingjun": 10,
+            "Hisoutensoku": 8,
             "Daiyousei": 4,
+            "Fairy Maid": 12,
+            "Seiga Kaku": 4,
+            "Koishi Komeiji": 70,
+            "Mamizou Futatsuiwa": 28,
+            "Unzan": 8,
             "Yuugi Hoshiguma": 8,
-            "Kasen Ibaraki": 2,
-            "Koishi Komeiji": 4,
-            "Ichirin Kumoi": 4,
-            "Doremy Sweet": 12,
-            "Lyrica Prismriver": 12,
-            "Medicine Melancholy": 8,
+            "Shinmyoumaru Sukuna": 18,
+            "Seija Kijin": 8,
+            "Kasen Ibaraki": 20,
+            "Sumireko Usami": 8,
+            "Junko": 10,
+            "Ringo": 2,
+            "Sagume Kishin": 6,
+            "Doremy Sweet": 20,
+            "Hecatia Lapislazuli": 16,
+            "Star Sapphire": 70,
             "Fujiwara no Mokou": 2,
-            "Iku Nagae": 4,
+            "Spirit Mirror": 4,
             "Kyouko Kasodani": 2,
             "Hieda no Akyuu": 2,
             "Keine Kamishirasawa": 2,
-            "Rin Kaenbyou": 4,
-            "Rin Satsuki": 4,
-            "Rinnosuke Morichika": 4,
-            "Watatsuki no Yorihime": 4
+            "Three Fairies of Light": 12,
+            "Hong Meiling": 4,
+            "Sunny Milk": 8,
+            "Luna Child": 8,
+            "Watatsuki no Toyohime": 4,
+            "Watatsuki no Yorihime": 4,
+            "Shanghai Doll": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 11,
             "Reimu Hakurei": 11,
@@ -1939,37 +2104,19 @@
         ]
     },
     "Marisa's unnamed father": {
-        "dialogues": {
-            "Mima": 4,
-            "Marisa Kirisame": 198,
-            "Rumia": 2,
-            "Flandre Scarlet": 2,
-            "Youmu Konpaku": 2,
-            "Yukari Yakumo": 14,
-            "Reimu Hakurei": 18,
-            "Yukari's crows": 4,
-            "Remilia Scarlet": 6,
-            "Sakuya Izayoi": 10,
-            "Tenshi Hinanawi": 6,
-            "Patchouli Knowledge": 4,
-            "Reisen": 4,
-            "Yuugi Hoshiguma": 8,
-            "Aya Shameimaru": 4
-        },
-        "fought": {},
-        "wiki_mentions": {
-            "Marisa Kirisame": 3,
-            "Rinnosuke Morichika": 2,
-            "Hieda no Akyuu": 1
-        },
-        "relationship_wiki": [
-            "Marisa Kirisame",
-            "Rinnosuke Morichika"
-        ]
+        "dialogues": {},
+        "wiki_mentions": {},
+        "relationship_wiki": []
     },
     "Master Big Catfish": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Yuuka Kazami": 24,
+            "Sunny Milk": 6,
+            "Dragon (God)": 40,
+            "Mononobe no Futo": 30,
+            "Sagume Kishin": 24,
+            "Clownpiece": 8
+        },
         "wiki_mentions": {
             "Hisoutensoku": 10,
             "Hong Meiling": 3,
@@ -1984,7 +2131,6 @@
     },
     "Matenshi": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Genjii": 1,
@@ -1996,22 +2142,26 @@
     },
     "Medicine Melancholy": {
         "dialogues": {
-            "Reisen": 24,
-            "Reisen Udongein Inaba": 4,
-            "Eirin Yagokoro": 8,
+            "Aya Shameimaru": 16,
+            "Yuuka Kazami": 18,
+            "Eirin Yagokoro": 22,
+            "Reisen": 32,
+            "Reisen Udongein Inaba": 32,
             "Cirno": 4,
+            "Komachi Onozuka": 12,
             "Ran Yakumo": 2,
-            "Komachi Onozuka": 4,
+            "Sakuya Izayoi": 16,
+            "Mystia Lorelei": 18,
+            "Tewi Inaba": 16,
+            "Lyrica Prismriver": 8,
             "Reimu Hakurei": 8,
-            "Yuuka Kazami": 10,
+            "Marisa Kirisame": 16,
+            "Eiki Shiki, Yamaxanadu": 10,
+            "Alice Margatroid": 2,
             "Hong Meiling": 2,
-            "Mystia Lorelei": 2,
-            "Marisa Kirisame": 8,
-            "Eiki Shiki, Yamaxanadu": 2,
             "Prismriver Sisters": 6,
             "Wriggle Nightbug": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Eirin Yagokoro": 1,
             "Alice Margatroid": 3,
@@ -2025,10 +2175,9 @@
     },
     "Meira": {
         "dialogues": {
-            "Rika": 4,
-            "Reimu Hakurei": 6
+            "Reimu Hakurei": 8,
+            "Rika": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 2,
             "Konngara": 1,
@@ -2039,13 +2188,12 @@
     "Merlin Prismriver": {
         "dialogues": {
             "Prismriver Sisters": 86,
-            "Lunasa Prismriver": 10,
-            "Lyrica Prismriver": 10,
+            "Lyrica Prismriver": 14,
+            "Lunasa Prismriver": 14,
             "Alice Margatroid": 4,
             "Keine Kamishirasawa": 2,
             "Minoriko Aki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Prismriver Sisters": 6,
             "Lunasa Prismriver": 3,
@@ -2064,15 +2212,12 @@
     "Mima": {
         "dialogues": {
             "Genjii": 16,
-            "Marisa Kirisame": 12,
-            "Hakurei God": 8,
-            "Reimu Hakurei": 18,
-            "Marisa's unnamed father": 4,
+            "Reimu Hakurei": 50,
+            "Marisa Kirisame": 48,
+            "Yuuka Kazami": 26,
             "Shinki": 12,
-            "Yuuka Kazami": 8,
             "Alice Margatroid": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 5,
             "Marisa Kirisame": 4,
@@ -2087,15 +2232,18 @@
     },
     "Minamitsu Murasa": {
         "dialogues": {
-            "Nazrin": 14,
-            "Ichirin Kumoi": 4,
+            "Nazrin": 18,
+            "Ichirin Kumoi": 26,
+            "Shou Toramaru": 22,
+            "Byakuren Hijiri": 26,
             "Kogasa Tatara": 8,
             "Unzan": 14,
-            "Byakuren Hijiri": 8,
+            "Nue Houjuu": 12,
+            "Marisa Kirisame": 4,
+            "Reimu Hakurei": 8,
             "Kyouko Kasodani": 6,
             "Soga no Tojiko": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Byakuren Hijiri": 4,
             "Satori Komeiji": 1,
@@ -2112,15 +2260,15 @@
     },
     "Minoriko Aki": {
         "dialogues": {
+            "Reimu Hakurei": 10,
             "Shizuha Aki": 24,
-            "Reimu Hakurei": 4,
+            "Marisa Kirisame": 12,
             "Aya Shameimaru": 2,
             "Merlin Prismriver": 4,
             "Hina Kagiyama": 10,
             "Toyosatomimi no Miko": 2,
             "Mamizou Futatsuiwa": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Aya Shameimaru": 2,
             "Hatate Himekaidou": 1,
@@ -2130,7 +2278,6 @@
     },
     "Mishaguji": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 4,
             "Suwako Moriya": 5,
@@ -2141,7 +2288,6 @@
     },
     "Mizue no Uranoshimako": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Watatsuki no Toyohime": 3,
             "Watatsuki no Yorihime": 3,
@@ -2152,13 +2298,15 @@
     },
     "Momiji Inubashiri": {
         "dialogues": {
-            "Tenma": 8,
+            "Tenma": 12,
+            "Aya Shameimaru": 4,
+            "Marisa Kirisame": 6,
             "Tenshi Hinanawi": 4,
             "Reimu Hakurei": 4,
             "Kyouko Kasodani": 4,
-            "Prismriver Sisters": 4
+            "Prismriver Sisters": 4,
+            "Raiko Horikawa": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Tenma": 3,
             "Aya Shameimaru": 3,
@@ -2169,15 +2317,17 @@
     },
     "Mononobe no Futo": {
         "dialogues": {
+            "Seiga Kaku": 6,
             "Toyosatomimi no Miko": 24,
             "Soga no Tojiko": 58,
+            "Dragon (God)": 30,
+            "Master Big Catfish": 30,
             "Ichirin Kumoi": 8,
             "Reimu Hakurei": 4,
             "Hata no Kokoro": 4,
             "Nue Houjuu": 6,
             "Yoshika Miyako": 16
         },
-        "fought": {},
         "wiki_mentions": {
             "Toyosatomimi no Miko": 7,
             "Hieda no Akyuu": 1,
@@ -2209,7 +2359,6 @@
         "dialogues": {
             "Gengetsu": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Gengetsu": 5,
             "Yumeko": 1,
@@ -2218,8 +2367,16 @@
         "relationship_wiki": []
     },
     "Myouren Hijiri": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Yuyuko Saigyouji": 6,
+            "Kyouko Kasodani": 10,
+            "Kogasa Tatara": 4,
+            "Youmu Konpaku": 4,
+            "Nue Houjuu": 6,
+            "Mamizou Futatsuiwa": 2,
+            "Byakuren Hijiri": 12,
+            "Reimu Hakurei": 12
+        },
         "wiki_mentions": {
             "Byakuren Hijiri": 3
         },
@@ -2228,16 +2385,31 @@
     "Mystia Lorelei": {
         "dialogues": {
             "Lord Tsukuyomi": 8,
+            "Remilia Scarlet": 8,
+            "Lyrica Prismriver": 28,
+            "Cirno": 24,
+            "Tewi Inaba": 24,
+            "Yuuka Kazami": 20,
+            "Marisa Kirisame": 32,
+            "Reimu Hakurei": 40,
+            "Sakuya Izayoi": 16,
+            "Youmu Konpaku": 18,
+            "Reisen": 16,
+            "Reisen Udongein Inaba": 16,
+            "Medicine Melancholy": 18,
+            "Eiki Shiki, Yamaxanadu": 16,
+            "Aya Shameimaru": 8,
             "Patchouli Knowledge": 8,
             "Wriggle Nightbug": 6,
             "Hong Meiling": 2,
-            "Medicine Melancholy": 2,
-            "Youmu Konpaku": 2,
             "Hina Kagiyama": 2,
             "Nitori Kawashiro": 4,
+            "Kyouko Kasodani": 16,
+            "Zombie Fairy": 2,
+            "Rin Kaenbyou": 4,
+            "Yoshika Miyako": 4,
             "Rumia": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Keine Kamishirasawa": 1,
             "Kyouko Kasodani": 3,
@@ -2254,12 +2426,13 @@
     },
     "Narumi Yatadera": {
         "dialogues": {
-            "Mai": 6,
-            "Mai Teireida": 6,
-            "Cirno": 4,
-            "Yuki": 24
+            "Mai": 8,
+            "Mai Teireida": 8,
+            "Cirno": 8,
+            "Yuki": 24,
+            "Fujiwara no Mokou": 2,
+            "Prismriver Sisters": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Marisa Kirisame": 1
         },
@@ -2267,23 +2440,22 @@
     },
     "User:Nazeo/Character Pages": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Nazrin": {
         "dialogues": {
-            "Shou Toramaru": 18,
-            "Minamitsu Murasa": 14,
+            "Shou Toramaru": 42,
+            "Minamitsu Murasa": 18,
+            "Byakuren Hijiri": 18,
+            "Nue Houjuu": 12,
             "Bishamonten": 32,
-            "Byakuren Hijiri": 14,
+            "Ichirin Kumoi": 8,
             "Unzan": 8,
             "Shizuha Aki": 6,
-            "Nue Houjuu": 2,
             "Seiga Kaku": 4,
             "Yoshika Miyako": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Bishamonten": 10,
             "Shou Toramaru": 5,
@@ -2303,8 +2475,11 @@
         "relationship_wiki": []
     },
     "Nemuno Sakata": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Eternity Larva": 2,
+            "Lily White": 2,
+            "Cirno": 8
+        },
         "wiki_mentions": {
             "Mystia Lorelei": 1
         },
@@ -2312,17 +2487,27 @@
     },
     "Nitori Kawashiro": {
         "dialogues": {
-            "Patchouli Knowledge": 4,
-            "Mai Teireida": 2,
-            "Marisa Kirisame": 16,
-            "Koishi Komeiji": 4,
-            "Reimu Hakurei": 8,
+            "Reimu Hakurei": 56,
+            "Marisa Kirisame": 122,
+            "Aya Shameimaru": 8,
+            "Kanako Yasaka": 24,
+            "Sake Bug": 8,
+            "Sanae Kochiya": 10,
+            "Patchouli Knowledge": 24,
+            "Kisume": 2,
+            "Alice Margatroid": 8,
+            "Yukari Yakumo": 4,
+            "Utsuho Reiuji": 8,
+            "Koishi Komeiji": 38,
+            "Ichirin Kumoi": 20,
+            "Byakuren Hijiri": 16,
+            "Mamizou Futatsuiwa": 28,
+            "Unzan": 8,
+            "Spirit Mirror": 4,
             "Sunny Milk": 8,
-            "Shinmyoumaru Sukuna": 2,
-            "Mamizou Futatsuiwa": 4,
+            "Shinmyoumaru Sukuna": 6,
             "Hata no Kokoro": 8,
             "Tenshi Hinanawi": 8,
-            "Ichirin Kumoi": 4,
             "Parsee Mizuhashi": 2,
             "Letty Whiterock": 2,
             "Mystia Lorelei": 4,
@@ -2331,9 +2516,8 @@
             "Hieda no Akyuu": 2,
             "Keine Kamishirasawa": 2,
             "Sakuya Izayoi": 2,
-            "Kanako Yasaka": 4
+            "Dragon (God)": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Marisa Kirisame": 3,
             "Hisoutensoku": 1,
@@ -2348,7 +2532,6 @@
     },
     "Noroiko": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Genjii": 1,
@@ -2359,16 +2542,26 @@
     },
     "Nue Houjuu": {
         "dialogues": {
-            "Unzan": 4,
-            "Kogasa Tatara": 8,
+            "Unzan": 14,
+            "Byakuren Hijiri": 16,
+            "Bishamonten": 4,
+            "Nazrin": 12,
+            "Shou Toramaru": 10,
+            "Kogasa Tatara": 10,
+            "Ichirin Kumoi": 10,
+            "Minamitsu Murasa": 12,
+            "Marisa Kirisame": 8,
+            "Reimu Hakurei": 8,
+            "Sanae Kochiya": 8,
             "Aya Shameimaru": 6,
-            "Mamizou Futatsuiwa": 10,
+            "Youmu Konpaku": 2,
+            "Myouren Hijiri": 6,
+            "Mamizou Futatsuiwa": 12,
             "Mononobe no Futo": 6,
-            "Nazrin": 2,
+            "Spirit Mirror": 6,
             "Soga no Tojiko": 2,
             "Hina Kagiyama": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 2,
             "Hisoutensoku": 2,
@@ -2389,12 +2582,14 @@
     },
     "Okina Matara": {
         "dialogues": {
-            "Mai": 14,
-            "Mai Teireida": 2,
-            "Satono Nishida": 14,
-            "Cirno": 4
+            "Mai": 22,
+            "Mai Teireida": 22,
+            "Satono Nishida": 24,
+            "Reimu Hakurei": 16,
+            "Aunn Komano": 8,
+            "Cirno": 4,
+            "Aya Shameimaru": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Cirno": 3,
             "Eternity Larva": 1,
@@ -2415,11 +2610,8 @@
     },
     "Orange": {
         "dialogues": {
-            "Rin Kaenbyou": 24,
-            "Rin Satsuki": 24,
             "Ringo": 24
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Marisa Kirisame": 1,
@@ -2430,15 +2622,15 @@
     },
     "Parsee Mizuhashi": {
         "dialogues": {
-            "Reimu Hakurei": 2,
-            "Yamame Kurodani": 8,
+            "Reimu Hakurei": 10,
+            "Yukari Yakumo": 8,
+            "Yamame Kurodani": 10,
             "Wriggle Nightbug": 2,
             "Nitori Kawashiro": 2,
             "Patchouli Knowledge": 4,
             "Satori Komeiji": 6,
             "Yuugi Hoshiguma": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Marisa Kirisame": 1,
@@ -2456,28 +2648,37 @@
     "Patchouli Knowledge": {
         "dialogues": {
             "Koakuma": 4,
-            "Sakuya Izayoi": 36,
-            "Marisa Kirisame": 22,
-            "Remilia Scarlet": 8,
-            "Alice Margatroid": 28,
-            "Suika Ibuki": 6,
-            "Youmu Konpaku": 12,
-            "Yuyuko Saigyouji": 8,
-            "Reimu Hakurei": 4,
-            "Marisa's unnamed father": 4,
-            "Nitori Kawashiro": 4,
-            "Taisui Xingjun": 4,
+            "Sakuya Izayoi": 158,
+            "Marisa Kirisame": 150,
+            "Remilia Scarlet": 82,
+            "Flandre Scarlet": 6,
+            "Alice Margatroid": 114,
+            "Suika Ibuki": 84,
+            "Yuyuko Saigyouji": 56,
+            "Youmu Konpaku": 68,
+            "Yukari Yakumo": 20,
+            "Reimu Hakurei": 68,
+            "Yukari's crows": 2,
+            "Rinnosuke Morichika": 6,
+            "Chen": 10,
+            "Eirin Yagokoro": 14,
+            "Kaguya Houraisan": 6,
+            "Ran Yakumo": 16,
+            "Reisen": 14,
+            "Reisen Udongein Inaba": 14,
+            "Iku Nagae": 34,
+            "Tenshi Hinanawi": 38,
+            "Aya Shameimaru": 8,
+            "Nitori Kawashiro": 24,
+            "Utsuho Reiuji": 4,
+            "Taisui Xingjun": 18,
             "Hong Meiling": 8,
-            "Hisoutensoku": 2,
+            "Hisoutensoku": 8,
             "Mystia Lorelei": 8,
-            "Ran Yakumo": 12,
             "Wriggle Nightbug": 6,
-            "Chen": 6,
             "Parsee Mizuhashi": 4,
-            "Reisen": 6,
             "Three Fairies of Light": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 13,
             "Remilia Scarlet": 6,
@@ -2505,7 +2706,6 @@
     },
     "Pop-up Pirate": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Sakuya Izayoi": 1
         },
@@ -2517,6 +2717,10 @@
             "Lunasa Prismriver": 80,
             "Merlin Prismriver": 86,
             "Lyrica Prismriver": 362,
+            "Reisen": 8,
+            "Reisen Udongein Inaba": 8,
+            "Narumi Yatadera": 4,
+            "Yuki": 4,
             "Youmu Konpaku": 2,
             "Alice Margatroid": 6,
             "Keine Kamishirasawa": 4,
@@ -2524,11 +2728,11 @@
             "Cirno": 2,
             "Clownpiece": 2,
             "Hecatia Lapislazuli": 2,
-            "Raiko Horikawa": 8,
+            "Raiko Horikawa": 16,
             "Momiji Inubashiri": 4,
-            "Reimu Hakurei": 4
+            "Reimu Hakurei": 4,
+            "Three Fairies of Light": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Lunasa Prismriver": 4,
             "Merlin Prismriver": 4,
@@ -2545,9 +2749,10 @@
     },
     "Raiko Horikawa": {
         "dialogues": {
-            "Prismriver Sisters": 8
+            "Prismriver Sisters": 16,
+            "Momiji Inubashiri": 4,
+            "Reimu Hakurei": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Shinmyoumaru Sukuna": 1,
             "Benben Tsukumo": 1,
@@ -2563,24 +2768,27 @@
     },
     "Ran Yakumo": {
         "dialogues": {
-            "Chen": 22,
-            "Yukari Yakumo": 22,
+            "Chen": 40,
+            "Yukari Yakumo": 40,
+            "Yuyuko Saigyouji": 14,
+            "Marisa Kirisame": 24,
+            "Reimu Hakurei": 30,
+            "Remilia Scarlet": 14,
             "Suika Ibuki": 4,
-            "Marisa Kirisame": 2,
-            "Aya Shameimaru": 12,
-            "Komachi Onozuka": 6,
+            "Alice Margatroid": 14,
+            "Reisen": 14,
+            "Reisen Udongein Inaba": 14,
+            "Youmu Konpaku": 8,
+            "Eirin Yagokoro": 12,
+            "Kaguya Houraisan": 12,
+            "Patchouli Knowledge": 16,
+            "Sakuya Izayoi": 4,
+            "Aya Shameimaru": 14,
+            "Komachi Onozuka": 8,
             "Medicine Melancholy": 2,
-            "Patchouli Knowledge": 12,
-            "Reimu Hakurei": 12,
-            "Reisen": 2,
-            "Reisen Udongein Inaba": 2,
             "Yamame Kurodani": 2,
-            "Youmu Konpaku": 4,
-            "Yuyuko Saigyouji": 4,
-            "Eirin Yagokoro": 4,
-            "Kaguya Houraisan": 4
+            "Yukari's crows": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Chen": 13,
             "Yukari Yakumo": 8,
@@ -2592,69 +2800,102 @@
     "Reimu Hakurei": {
         "dialogues": {
             "Yin-Yang Orb": 4,
-            "Rika": 14,
-            "Meira": 6,
-            "Genjii": 16,
-            "Mima": 18,
-            "Shinki": 8,
-            "Yuuka Kazami": 4,
-            "Remilia Scarlet": 32,
-            "Yuyuko Saigyouji": 22,
-            "Marisa Kirisame": 124,
-            "Sakuya Izayoi": 34,
-            "Marisa's unnamed father": 18,
-            "Yukari Yakumo": 96,
-            "Yukari's crows": 2,
-            "Youmu Konpaku": 20,
-            "Alice Margatroid": 20,
-            "Mai Teireida": 6,
+            "Mima": 50,
+            "Rika": 20,
+            "Meira": 8,
+            "Five Magic Stones": 10,
+            "Marisa Kirisame": 750,
+            "Genjii": 22,
+            "Elly": 2,
+            "Yuuka Kazami": 36,
+            "Shinki": 20,
+            "Alice Margatroid": 166,
+            "Remilia Scarlet": 140,
+            "Sakuya Izayoi": 194,
+            "Rumia": 10,
+            "Youmu Konpaku": 134,
+            "Yuyuko Saigyouji": 116,
+            "Yukari Yakumo": 316,
+            "Letty Whiterock": 8,
+            "Suika Ibuki": 186,
+            "Ran Yakumo": 30,
+            "Yukari's crows": 72,
+            "Rinnosuke Morichika": 8,
+            "Patchouli Knowledge": 68,
             "Keine Kamishirasawa": 2,
             "Chen": 16,
-            "Reisen": 46,
-            "Hakurei God": 10,
-            "Eiki Shiki, Yamaxanadu": 4,
+            "Reisen": 114,
+            "Reisen Udongein Inaba": 114,
+            "Eirin Yagokoro": 32,
+            "Kaguya Houraisan": 48,
+            "Eiki Shiki, Yamaxanadu": 38,
+            "Komachi Onozuka": 92,
+            "Mystia Lorelei": 40,
+            "Tewi Inaba": 30,
+            "Cirno": 40,
+            "Lyrica Prismriver": 16,
+            "Aya Shameimaru": 182,
             "Medicine Melancholy": 8,
-            "Minoriko Aki": 4,
-            "Hina Kagiyama": 2,
-            "Reisen Udongein Inaba": 20,
-            "Iku Nagae": 4,
-            "Komachi Onozuka": 4,
-            "Aya Shameimaru": 18,
-            "Patchouli Knowledge": 4,
-            "Suika Ibuki": 14,
-            "Parsee Mizuhashi": 2,
-            "Rin Kaenbyou": 6,
-            "Utsuho Reiuji": 14,
-            "Kana Anaberal": 6,
-            "Kanako Yasaka": 6,
-            "Suwako Moriya": 2,
+            "Shizuha Aki": 8,
+            "Minoriko Aki": 10,
+            "Hina Kagiyama": 10,
+            "Nitori Kawashiro": 56,
+            "Tenma": 2,
+            "Sanae Kochiya": 86,
+            "Kanako Yasaka": 70,
+            "Sake Bug": 8,
+            "Suwako Moriya": 12,
+            "Iku Nagae": 26,
+            "Dragon (God)": 8,
+            "Tenshi Hinanawi": 106,
+            "Yamame Kurodani": 14,
+            "Parsee Mizuhashi": 10,
+            "Yuugi Hoshiguma": 14,
+            "Satori Komeiji": 16,
+            "Rin Kaenbyou": 8,
+            "Utsuho Reiuji": 38,
+            "Byakuren Hijiri": 64,
+            "Minamitsu Murasa": 8,
+            "Kogasa Tatara": 8,
+            "Nue Houjuu": 8,
             "Taisui Xingjun": 10,
-            "Cirno": 18,
-            "Goliath Doll": 6,
-            "Hisoutensoku": 8,
-            "Three Fairies of Light": 6,
-            "Byakuren Hijiri": 4,
-            "Nitori Kawashiro": 8,
-            "Kasen Ibaraki": 28,
-            "Sumireko Usami": 6,
+            "Hisoutensoku": 16,
+            "Goliath Doll": 8,
+            "Three Fairies of Light": 22,
+            "Seiga Kaku": 8,
+            "Koishi Komeiji": 42,
+            "Mamizou Futatsuiwa": 40,
+            "Ichirin Kumoi": 20,
+            "Unzan": 8,
+            "Sunny Milk": 16,
+            "Shinmyoumaru Sukuna": 40,
+            "Seija Kijin": 8,
+            "Sumireko Usami": 30,
+            "Kasen Ibaraki": 66,
+            "Myouren Hijiri": 12,
             "Fujiwara no Mokou": 12,
-            "Sanae Kochiya": 12,
-            "Eirin Yagokoro": 4,
-            "Tewi Inaba": 8,
-            "Sagume Kishin": 4,
+            "Junko": 24,
+            "Ringo": 8,
+            "Sagume Kishin": 12,
+            "Chang'e": 8,
+            "Hourai": 6,
             "Doremy Sweet": 12,
-            "Hecatia Lapislazuli": 8,
-            "Junko": 8,
+            "Hecatia Lapislazuli": 16,
+            "Joon Yorigami": 4,
+            "Shion Yorigami": 4,
             "Mononobe no Futo": 4,
-            "Ran Yakumo": 12,
-            "Rumia": 2,
+            "Aunn Komano": 10,
+            "Okina Matara": 16,
+            "Star Sapphire": 40,
+            "Spirit Mirror": 4,
             "Momiji Inubashiri": 4,
             "Prismriver Sisters": 4,
-            "Hong Meiling": 8,
-            "Kosuzu Motoori": 2,
-            "Luna Child": 4
+            "Raiko Horikawa": 4,
+            "Hong Meiling": 12,
+            "Luna Child": 8,
+            "Fairy Maid": 4,
+            "Kosuzu Motoori": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 11,
             "Marisa Kirisame": 13,
@@ -2712,7 +2953,6 @@
             "Renko Usami": 1,
             "Maribel Hearn": 1,
             "Three Fairies of Light": 2,
-            "Hakurei God": 1,
             "Unnamed kitsune": 2,
             "Unnamed kuda-gitsune": 1,
             "Yin-Yang Orb": 6,
@@ -2737,47 +2977,54 @@
     },
     "Reisen": {
         "dialogues": {
-            "Tewi Inaba": 42,
-            "Reisen Udongein Inaba": 4052,
-            "Eirin Yagokoro": 46,
+            "Tewi Inaba": 98,
+            "Reisen Udongein Inaba": 4758,
+            "Eirin Yagokoro": 132,
+            "Alice Margatroid": 24,
             "Chen": 12,
-            "Marisa Kirisame": 36,
-            "Reimu Hakurei": 46,
-            "Yukari Yakumo": 18,
-            "Remilia Scarlet": 38,
-            "Sakuya Izayoi": 6,
-            "Youmu Konpaku": 10,
+            "Marisa Kirisame": 74,
+            "Ran Yakumo": 14,
+            "Reimu Hakurei": 114,
+            "Yukari Yakumo": 30,
+            "Remilia Scarlet": 42,
+            "Youmu Konpaku": 42,
+            "Yuyuko Saigyouji": 20,
+            "Kaguya Houraisan": 36,
+            "Patchouli Knowledge": 14,
+            "Sakuya Izayoi": 24,
             "Cirno": 24,
-            "Medicine Melancholy": 24,
-            "Aya Shameimaru": 20,
-            "Alice Margatroid": 4,
-            "Tenshi Hinanawi": 6,
-            "Yuyuko Saigyouji": 8,
-            "Suika Ibuki": 4,
-            "Marisa's unnamed father": 4,
+            "Medicine Melancholy": 32,
+            "Aya Shameimaru": 24,
+            "Yuuka Kazami": 12,
+            "Mystia Lorelei": 16,
+            "Lyrica Prismriver": 16,
+            "Komachi Onozuka": 32,
+            "Eiki Shiki, Yamaxanadu": 16,
+            "Suika Ibuki": 14,
+            "Tenshi Hinanawi": 36,
+            "Iku Nagae": 8,
+            "Yukari's crows": 12,
+            "Sumireko Usami": 6,
+            "Sanae Kochiya": 18,
             "Seiran": 2,
             "Chang'e": 12,
             "Junko": 20,
             "Hourai": 12,
             "Clownpiece": 8,
-            "Kaguya Houraisan": 26,
             "Sagume Kishin": 16,
-            "Doremy Sweet": 14,
+            "Doremy Sweet": 38,
             "Hecatia Lapislazuli": 8,
-            "Sanae Kochiya": 8,
-            "Luna Child": 36,
+            "Kasen Ibaraki": 2,
+            "Ichirin Kumoi": 4,
             "Shinmyoumaru Sukuna": 4,
+            "Prismriver Sisters": 8,
             "Fujiwara no Mokou": 8,
-            "Ran Yakumo": 2,
-            "Rin Kaenbyou": 4,
-            "Rin Satsuki": 4,
             "Rinnosuke Morichika": 4,
             "Keine Kamishirasawa": 2,
             "Suwako Moriya": 6,
-            "Patchouli Knowledge": 6,
+            "Watatsuki no Toyohime": 4,
             "Watatsuki no Yorihime": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reisen Udongein Inaba": 6,
             "Eirin Yagokoro": 3,
@@ -2792,36 +3039,54 @@
     },
     "Reisen Udongein Inaba": {
         "dialogues": {
-            "Tewi Inaba": 34,
-            "Reisen": 4052,
-            "Eirin Yagokoro": 34,
-            "Youmu Konpaku": 8,
-            "Medicine Melancholy": 4,
-            "Aya Shameimaru": 4,
-            "Reimu Hakurei": 20,
-            "Marisa Kirisame": 14,
-            "Remilia Scarlet": 16,
-            "Alice Margatroid": 4,
-            "Tenshi Hinanawi": 2,
-            "Suika Ibuki": 4,
+            "Tewi Inaba": 98,
+            "Reisen": 4758,
+            "Eirin Yagokoro": 132,
+            "Alice Margatroid": 24,
+            "Chen": 12,
+            "Marisa Kirisame": 74,
+            "Ran Yakumo": 14,
+            "Reimu Hakurei": 114,
+            "Yukari Yakumo": 30,
+            "Remilia Scarlet": 42,
+            "Youmu Konpaku": 42,
+            "Yuyuko Saigyouji": 20,
+            "Kaguya Houraisan": 36,
+            "Patchouli Knowledge": 14,
+            "Sakuya Izayoi": 24,
+            "Cirno": 24,
+            "Medicine Melancholy": 32,
+            "Aya Shameimaru": 24,
+            "Yuuka Kazami": 12,
+            "Mystia Lorelei": 16,
+            "Lyrica Prismriver": 16,
+            "Komachi Onozuka": 32,
+            "Eiki Shiki, Yamaxanadu": 16,
+            "Suika Ibuki": 14,
+            "Tenshi Hinanawi": 36,
+            "Iku Nagae": 8,
+            "Yukari's crows": 12,
+            "Sumireko Usami": 6,
+            "Sanae Kochiya": 18,
             "Seiran": 2,
-            "Sagume Kishin": 12,
-            "Luna Child": 20,
+            "Chang'e": 12,
+            "Junko": 20,
+            "Hourai": 12,
+            "Clownpiece": 8,
+            "Sagume Kishin": 16,
+            "Doremy Sweet": 38,
+            "Hecatia Lapislazuli": 8,
+            "Kasen Ibaraki": 2,
+            "Ichirin Kumoi": 4,
             "Shinmyoumaru Sukuna": 4,
+            "Prismriver Sisters": 8,
             "Fujiwara no Mokou": 8,
-            "Doremy Sweet": 6,
-            "Ran Yakumo": 2,
-            "Yukari Yakumo": 6,
-            "Kaguya Houraisan": 10,
-            "Rin Kaenbyou": 4,
-            "Rin Satsuki": 4,
             "Rinnosuke Morichika": 4,
-            "Hourai": 4,
             "Keine Kamishirasawa": 2,
             "Suwako Moriya": 6,
+            "Watatsuki no Toyohime": 4,
             "Watatsuki no Yorihime": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reisen": 98,
             "Hisoutensoku": 10,
@@ -2855,31 +3120,37 @@
     },
     "Remilia Scarlet": {
         "dialogues": {
-            "Sakuya Izayoi": 56,
-            "Reimu Hakurei": 32,
-            "Marisa Kirisame": 40,
-            "Patchouli Knowledge": 8,
-            "Yuyuko Saigyouji": 20,
-            "Youmu Konpaku": 8,
-            "Yukari Yakumo": 14,
-            "Alice Margatroid": 10,
-            "Marisa's unnamed father": 6,
+            "Sakuya Izayoi": 204,
+            "Reimu Hakurei": 140,
+            "Marisa Kirisame": 122,
+            "Patchouli Knowledge": 82,
+            "Flandre Scarlet": 24,
+            "Youmu Konpaku": 92,
+            "Yuyuko Saigyouji": 102,
+            "Yukari Yakumo": 86,
+            "Ran Yakumo": 14,
+            "Suika Ibuki": 40,
+            "Alice Margatroid": 50,
+            "Yukari's crows": 10,
             "Chen": 8,
-            "Reisen": 38,
-            "Reisen Udongein Inaba": 16,
-            "Aya Shameimaru": 4,
-            "Iku Nagae": 2,
-            "Rin Kaenbyou": 8,
-            "Rin Satsuki": 8,
+            "Reisen": 42,
+            "Reisen Udongein Inaba": 42,
+            "Eirin Yagokoro": 10,
+            "Kaguya Houraisan": 6,
+            "Lord Tsukuyomi": 8,
+            "Mystia Lorelei": 8,
+            "Tenshi Hinanawi": 10,
+            "Komachi Onozuka": 10,
+            "Aya Shameimaru": 24,
+            "Iku Nagae": 16,
+            "Dark Mirror": 2,
             "Rinnosuke Morichika": 8,
-            "Eirin Yagokoro": 2,
-            "Flandre Scarlet": 10,
             "Rumia": 4,
             "Lily White": 8,
             "Three Fairies of Light": 4,
+            "Hong Meiling": 4,
             "Cirno": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 11,
             "Sakuya Izayoi": 11,
@@ -2912,7 +3183,6 @@
     },
     "Rengeteki": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Marisa Kirisame": 1,
@@ -2924,9 +3194,8 @@
     },
     "Renko Usami": {
         "dialogues": {
-            "Maribel Hearn": 14
+            "Maribel Hearn": 18
         },
-        "fought": {},
         "wiki_mentions": {
             "Maribel Hearn": 4,
             "Sumireko Usami": 2,
@@ -2939,11 +3208,10 @@
     },
     "Rika": {
         "dialogues": {
-            "Reimu Hakurei": 14,
+            "Reimu Hakurei": 20,
             "Meira": 4,
             "Genjii": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 2,
             "Alice Margatroid": 1,
@@ -2954,7 +3222,6 @@
     },
     "Rikako Asakura": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Rika": 2,
@@ -2964,33 +3231,26 @@
     },
     "Rin Kaenbyou": {
         "dialogues": {
-            "Satori Komeiji": 2,
-            "Reimu Hakurei": 6,
-            "Utsuho Reiuji": 10,
-            "Rin Satsuki": 736,
-            "Seiran": 8,
-            "Ringo": 312,
-            "Doremy Sweet": 4,
-            "Sagume Kishin": 6,
-            "Orange": 24,
-            "Rinnosuke Morichika": 56,
-            "Remilia Scarlet": 8,
-            "Rumia": 8,
+            "Reimu Hakurei": 8,
+            "Satori Komeiji": 14,
+            "Yukari Yakumo": 4,
+            "Utsuho Reiuji": 16,
+            "Kanako Yasaka": 12,
             "Yamame Kurodani": 6,
+            "Zombie Fairy": 6,
+            "Yoshika Miyako": 16,
+            "Spirit Mirror": 2,
             "Kogasa Tatara": 2,
             "Sanae Kochiya": 4,
-            "Kanako Yasaka": 6,
             "Shizuha Aki": 6,
+            "Kyouko Kasodani": 4,
+            "Mystia Lorelei": 4,
+            "Kisume": 4,
             "Sakuya Izayoi": 2,
-            "Reisen": 4,
-            "Reisen Udongein Inaba": 4,
-            "Marisa Kirisame": 4,
-            "Tenshi Hinanawi": 4,
+            "Suwako Moriya": 4,
             "Koishi Komeiji": 4
         },
-        "fought": {},
         "wiki_mentions": {
-            "Rin Satsuki": 1,
             "Satori Komeiji": 4,
             "Utsuho Reiuji": 4,
             "Aya Shameimaru": 1,
@@ -3003,42 +3263,22 @@
         "relationship_wiki": []
     },
     "Rin Satsuki": {
-        "dialogues": {
-            "Rin Kaenbyou": 736,
-            "Seiran": 10,
-            "Ringo": 314,
-            "Doremy Sweet": 6,
-            "Sagume Kishin": 8,
-            "Orange": 24,
-            "Rinnosuke Morichika": 48,
-            "Remilia Scarlet": 8,
-            "Rumia": 8,
-            "Aya Shameimaru": 2,
-            "Reisen": 4,
-            "Reisen Udongein Inaba": 4,
-            "Marisa Kirisame": 4,
-            "Tenshi Hinanawi": 4
-        },
-        "fought": {},
-        "wiki_mentions": {
-            "Reimu Hakurei": 1,
-            "Marisa Kirisame": 2,
-            "Rumia": 1
-        },
+        "dialogues": {},
+        "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Ringo": {
         "dialogues": {
             "Seiran": 26,
-            "Rin Kaenbyou": 312,
-            "Rin Satsuki": 314,
             "Doremy Sweet": 6,
-            "Sagume Kishin": 8,
+            "Sagume Kishin": 16,
+            "Reimu Hakurei": 8,
+            "Sanae Kochiya": 8,
             "Junko": 8,
+            "Marisa Kirisame": 2,
             "Orange": 24,
             "Sekibanki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Orange": 3,
             "Seiran": 2
@@ -3047,23 +3287,26 @@
     },
     "Rinnosuke Morichika": {
         "dialogues": {
-            "Rin Kaenbyou": 56,
-            "Rin Satsuki": 48,
+            "Suika Ibuki": 8,
+            "Yukari Yakumo": 4,
+            "Reimu Hakurei": 8,
+            "Yukari's crows": 4,
+            "Marisa Kirisame": 20,
+            "Patchouli Knowledge": 6,
+            "Sakuya Izayoi": 8,
+            "Youmu Konpaku": 4,
+            "Yuyuko Saigyouji": 6,
+            "Alice Margatroid": 2,
             "Remilia Scarlet": 8,
             "Rumia": 8,
-            "Sakuya Izayoi": 2,
             "Eirin Yagokoro": 2,
-            "Yuyuko Saigyouji": 2,
-            "Saigyou Ayakashi": 2,
             "Aya Shameimaru": 2,
             "Reisen": 4,
             "Reisen Udongein Inaba": 4,
             "Sagume Kishin": 4,
-            "Marisa Kirisame": 4,
             "Tenshi Hinanawi": 4,
             "Sunny Milk": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Marisa Kirisame": 6,
             "Reimu Hakurei": 3,
@@ -3076,7 +3319,6 @@
             "Suika Ibuki": 1,
             "Nazrin": 1,
             "Remilia Scarlet": 1,
-            "Marisa's unnamed father": 1,
             "Genjii": 1,
             "Sokrates": 1,
             "Unzan": 1,
@@ -3100,20 +3342,18 @@
     },
     "Rumia": {
         "dialogues": {
-            "Marisa's unnamed father": 2,
+            "Marisa Kirisame": 2,
             "Cirno": 8,
             "Hong Meiling": 4,
-            "Rin Kaenbyou": 8,
-            "Rin Satsuki": 8,
+            "Reimu Hakurei": 10,
+            "Dark Mirror": 6,
             "Rinnosuke Morichika": 8,
             "Sakuya Izayoi": 12,
             "Letty Whiterock": 12,
-            "Reimu Hakurei": 2,
             "Wriggle Nightbug": 2,
             "Remilia Scarlet": 4,
             "Mystia Lorelei": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Marisa Kirisame": 1,
@@ -3133,7 +3373,6 @@
     },
     "Ruukoto": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 2,
             "Yumemi Okazaki": 2,
@@ -3144,26 +3383,24 @@
     },
     "Sagume Kishin": {
         "dialogues": {
+            "Master Big Catfish": 24,
             "Chang'e": 4,
-            "Junko": 8,
+            "Junko": 16,
             "Clownpiece": 2,
-            "Doremy Sweet": 14,
+            "Doremy Sweet": 18,
             "Seiran": 8,
-            "Rin Kaenbyou": 6,
-            "Rin Satsuki": 8,
-            "Ringo": 8,
+            "Ringo": 16,
+            "Reimu Hakurei": 12,
+            "Sanae Kochiya": 20,
+            "Marisa Kirisame": 6,
             "Kanako Yasaka": 8,
-            "Kana Anaberal": 4,
-            "Sanae Kochiya": 8,
             "Reisen": 16,
-            "Reisen Udongein Inaba": 12,
+            "Reisen Udongein Inaba": 16,
             "Hecatia Lapislazuli": 4,
-            "Reimu Hakurei": 4,
             "Eirin Yagokoro": 8,
             "Tewi Inaba": 8,
             "Rinnosuke Morichika": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Junko": 5,
             "Marisa Kirisame": 1,
@@ -3177,12 +3414,9 @@
     },
     "Saigyou Ayakashi": {
         "dialogues": {
-            "Youmu Konpaku": 4,
-            "Yuyuko Saigyouji": 20,
-            "Aya Shameimaru": 8,
-            "Rinnosuke Morichika": 2
+            "Youmu Konpaku": 10,
+            "Yuyuko Saigyouji": 12
         },
-        "fought": {},
         "wiki_mentions": {
             "Yuyuko Saigyouji": 4,
             "Youmu Konpaku": 1
@@ -3190,8 +3424,13 @@
         "relationship_wiki": []
     },
     "Sake Bug": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Aya Shameimaru": 8,
+            "Kanako Yasaka": 8,
+            "Nitori Kawashiro": 8,
+            "Reimu Hakurei": 8,
+            "Sanae Kochiya": 8
+        },
         "wiki_mentions": {
             "Three Fairies of Light": 1,
             "Eirin Yagokoro": 2,
@@ -3205,31 +3444,46 @@
     },
     "Sakuya Izayoi": {
         "dialogues": {
-            "Patchouli Knowledge": 36,
-            "Remilia Scarlet": 56,
-            "Mai Teireida": 100,
-            "Yuyuko Saigyouji": 28,
-            "Reimu Hakurei": 34,
-            "Marisa Kirisame": 30,
-            "Suika Ibuki": 10,
-            "Alice Margatroid": 30,
-            "Youmu Konpaku": 28,
-            "Yukari Yakumo": 22,
-            "Marisa's unnamed father": 10,
-            "Chen": 4,
-            "Reisen": 6,
-            "Iku Nagae": 8,
-            "Komachi Onozuka": 6,
+            "Patchouli Knowledge": 158,
+            "Remilia Scarlet": 204,
+            "Reimu Hakurei": 194,
+            "Marisa Kirisame": 220,
+            "Youmu Konpaku": 138,
+            "Yuyuko Saigyouji": 100,
+            "Yukari Yakumo": 54,
+            "Chen": 6,
+            "Lyrica Prismriver": 24,
+            "Alice Margatroid": 86,
+            "Suika Ibuki": 58,
+            "Yukari's crows": 6,
+            "Rinnosuke Morichika": 8,
+            "Eirin Yagokoro": 8,
+            "Kaguya Houraisan": 14,
+            "Ran Yakumo": 4,
+            "Reisen": 24,
+            "Reisen Udongein Inaba": 24,
+            "Cirno": 16,
+            "Mystia Lorelei": 16,
+            "Tewi Inaba": 16,
+            "Medicine Melancholy": 16,
+            "Komachi Onozuka": 30,
+            "Eiki Shiki, Yamaxanadu": 20,
+            "Aya Shameimaru": 38,
+            "Yuuka Kazami": 8,
+            "Iku Nagae": 32,
+            "Tenshi Hinanawi": 56,
+            "Hisoutensoku": 8,
+            "Taisui Xingjun": 8,
+            "Shinmyoumaru Sukuna": 2,
             "Rumia": 12,
-            "Rinnosuke Morichika": 2,
-            "Eiki Shiki, Yamaxanadu": 4,
             "Koishi Komeiji": 2,
             "Sanae Kochiya": 10,
             "Nitori Kawashiro": 2,
             "Rin Kaenbyou": 2,
+            "Lily White": 8,
+            "Three Fairies of Light": 4,
             "Suwako Moriya": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 12,
             "Hong Meiling": 3,
@@ -3262,32 +3516,41 @@
     },
     "Sanae Kochiya": {
         "dialogues": {
-            "Koishi Komeiji": 4,
-            "Satori Komeiji": 6,
-            "Marisa Kirisame": 12,
-            "Cirno": 26,
-            "Hong Meiling": 8,
-            "Taisui Xingjun": 2,
-            "Kanako Yasaka": 28,
-            "Suwako Moriya": 18,
-            "Youmu Konpaku": 8,
-            "Shou Toramaru": 8,
-            "Reimu Hakurei": 12,
-            "Eirin Yagokoro": 4,
-            "Sagume Kishin": 8,
-            "Kana Anaberal": 16,
-            "Reisen": 8,
+            "Reimu Hakurei": 86,
+            "Marisa Kirisame": 72,
+            "Aya Shameimaru": 14,
+            "Kanako Yasaka": 80,
+            "Nitori Kawashiro": 10,
+            "Sake Bug": 8,
+            "Satori Komeiji": 12,
+            "Koishi Komeiji": 6,
+            "Utsuho Reiuji": 18,
+            "Byakuren Hijiri": 16,
+            "Suwako Moriya": 38,
+            "Kogasa Tatara": 14,
+            "Nue Houjuu": 8,
+            "Cirno": 28,
+            "Hong Meiling": 10,
+            "Taisui Xingjun": 8,
+            "Hisoutensoku": 6,
+            "Youmu Konpaku": 20,
+            "Kasen Ibaraki": 8,
+            "Seiga Kaku": 4,
+            "Eirin Yagokoro": 6,
+            "Reisen": 18,
+            "Reisen Udongein Inaba": 18,
+            "Junko": 16,
+            "Ringo": 8,
+            "Sagume Kishin": 20,
             "Doremy Sweet": 8,
             "Hecatia Lapislazuli": 8,
-            "Junko": 8,
             "Sakuya Izayoi": 10,
             "Fujiwara no Mokou": 2,
             "Toyosatomimi no Miko": 6,
-            "Kogasa Tatara": 6,
             "Rin Kaenbyou": 4,
-            "Shizuha Aki": 2
+            "Shizuha Aki": 2,
+            "Suika Ibuki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 24,
             "Suwako Moriya": 11,
@@ -3310,9 +3573,9 @@
     },
     "Sara": {
         "dialogues": {
+            "Yuuka Kazami": 2,
             "Louise": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Shinki": 3,
@@ -3323,7 +3586,6 @@
     },
     "Sariel": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Shinki": 3,
@@ -3333,11 +3595,11 @@
     },
     "Satono Nishida": {
         "dialogues": {
-            "Mai": 50,
-            "Mai Teireida": 44,
-            "Okina Matara": 14
+            "Mai": 78,
+            "Mai Teireida": 78,
+            "Okina Matara": 24,
+            "Aya Shameimaru": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Okina Matara": 4,
             "Mai": 16,
@@ -3347,15 +3609,20 @@
     },
     "Satori Komeiji": {
         "dialogues": {
-            "Rin Kaenbyou": 2,
-            "Sanae Kochiya": 6,
-            "Koishi Komeiji": 16,
-            "Yukari Yakumo": 2,
+            "Reimu Hakurei": 16,
+            "Yukari Yakumo": 10,
+            "Rin Kaenbyou": 14,
+            "Utsuho Reiuji": 12,
+            "Yuugi Hoshiguma": 6,
+            "Kanako Yasaka": 8,
+            "Sanae Kochiya": 12,
+            "Koishi Komeiji": 54,
+            "Marisa Kirisame": 8,
+            "Sumireko Usami": 10,
             "Shizuha Aki": 4,
             "Parsee Mizuhashi": 6,
             "Yoshika Miyako": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Kanako Yasaka": 1,
             "Aya Shameimaru": 4,
@@ -3376,19 +3643,26 @@
     },
     "Seiga Kaku": {
         "dialogues": {
-            "Toyosatomimi no Miko": 12,
-            "Yoshika Miyako": 42,
-            "Soga no Tojiko": 2,
+            "Toyosatomimi no Miko": 16,
+            "Mononobe no Futo": 6,
+            "Yoshika Miyako": 56,
+            "Soga no Tojiko": 4,
+            "Reimu Hakurei": 8,
+            "Marisa Kirisame": 4,
+            "Kasen Ibaraki": 8,
+            "Sanae Kochiya": 4,
             "Hina Kagiyama": 8,
+            "Spirit Mirror": 4,
             "Mamizou Futatsuiwa": 6,
             "Kisume": 4,
-            "Kogasa Tatara": 12,
+            "Kogasa Tatara": 20,
             "Byakuren Hijiri": 8,
             "Hata no Kokoro": 12,
+            "Kagerou Imaizumi": 4,
+            "Kyouko Kasodani": 4,
             "Nazrin": 4,
             "Shou Toramaru": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Yoshika Miyako": 6,
             "Toyosatomimi no Miko": 10,
@@ -3415,9 +3689,12 @@
     },
     "Seija Kijin": {
         "dialogues": {
+            "Marisa Kirisame": 8,
+            "Reimu Hakurei": 8,
+            "Shinmyoumaru Sukuna": 14,
+            "Tenshi Hinanawi": 8,
             "Hatate Himekaidou": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Shinmyoumaru Sukuna": 4,
             "Kagerou Imaizumi": 1,
@@ -3440,14 +3717,11 @@
         "dialogues": {
             "Reisen": 2,
             "Reisen Udongein Inaba": 2,
-            "Rin Kaenbyou": 8,
-            "Rin Satsuki": 10,
             "Ringo": 26,
             "Doremy Sweet": 6,
             "Sagume Kishin": 8,
             "Sekibanki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reisen": 4,
             "Reisen Udongein Inaba": 2,
@@ -3462,15 +3736,19 @@
             "Seiran": 4,
             "Shinmyoumaru Sukuna": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Seija Kijin": 1
         },
         "relationship_wiki": []
     },
     "Shanghai Doll": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Alice Margatroid": 684,
+            "Three Fairies of Light": 24,
+            "Youki Konpaku": 2,
+            "Star Sapphire": 8,
+            "Marisa Kirisame": 2
+        },
         "wiki_mentions": {
             "Alice Margatroid": 2,
             "Hourai": 1
@@ -3482,11 +3760,11 @@
             "Mai": 2,
             "Mai Teireida": 2,
             "Yumeko": 6,
-            "Reimu Hakurei": 8,
+            "Reimu Hakurei": 20,
+            "Marisa Kirisame": 14,
             "Mima": 12,
-            "Yuuka Kazami": 8
+            "Yuuka Kazami": 10
         },
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Marisa Kirisame": 1,
@@ -3512,18 +3790,25 @@
     },
     "Shinmyoumaru Sukuna": {
         "dialogues": {
-            "Nitori Kawashiro": 2,
+            "Reimu Hakurei": 40,
+            "Marisa Kirisame": 18,
+            "Sakuya Izayoi": 2,
+            "Seija Kijin": 14,
+            "Nitori Kawashiro": 6,
+            "Sumireko Usami": 14,
+            "Doremy Sweet": 6,
+            "Tenshi Hinanawi": 40,
+            "Yukari Yakumo": 4,
             "Mamizou Futatsuiwa": 4,
-            "Tenshi Hinanawi": 12,
             "Reisen": 4,
             "Reisen Udongein Inaba": 4,
             "Koishi Komeiji": 4,
-            "Sumireko Usami": 8,
             "Spirit Mirror": 2,
+            "Three Fairies of Light": 2,
             "Wakasagihime": 8,
+            "Kagerou Imaizumi": 2,
             "Sekibanki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Seija Kijin": 4,
             "Reimu Hakurei": 1,
@@ -3540,9 +3825,10 @@
     },
     "Shion Yorigami": {
         "dialogues": {
-            "Joon Yorigami": 44
+            "Reimu Hakurei": 4,
+            "Yukari Yakumo": 4,
+            "Joon Yorigami": 84
         },
-        "fought": {},
         "wiki_mentions": {
             "Tenshi Hinanawi": 3,
             "Joon Yorigami": 1,
@@ -3553,7 +3839,6 @@
     },
     "Shirou Sendai": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Marisa Kirisame": 1
         },
@@ -3561,7 +3846,9 @@
     },
     "Shizuha Aki": {
         "dialogues": {
+            "Reimu Hakurei": 8,
             "Minoriko Aki": 24,
+            "Marisa Kirisame": 2,
             "Komachi Onozuka": 2,
             "Satori Komeiji": 4,
             "Suika Ibuki": 4,
@@ -3571,7 +3858,6 @@
             "Rin Kaenbyou": 6,
             "Hina Kagiyama": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Minoriko Aki": 4,
             "Aya Shameimaru": 1,
@@ -3583,15 +3869,17 @@
     },
     "Shou Toramaru": {
         "dialogues": {
-            "Nazrin": 18,
-            "Bishamonten": 46,
-            "Sanae Kochiya": 8,
-            "Suwako Moriya": 14,
-            "Youmu Konpaku": 4,
+            "Nazrin": 42,
+            "Ichirin Kumoi": 16,
+            "Minamitsu Murasa": 22,
+            "Byakuren Hijiri": 24,
+            "Nue Houjuu": 10,
+            "Bishamonten": 54,
+            "Unzan": 8,
+            "Suwako Moriya": 6,
             "Seiga Kaku": 4,
             "Yoshika Miyako": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Bishamonten": 30,
             "Minamitsu Murasa": 2,
@@ -3605,7 +3893,6 @@
     },
     "SinGyoku": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Yin-Yang Orb": 2,
@@ -3619,14 +3906,13 @@
     },
     "Soga no Tojiko": {
         "dialogues": {
-            "Seiga Kaku": 2,
+            "Yoshika Miyako": 20,
+            "Seiga Kaku": 4,
             "Mononobe no Futo": 58,
             "Nue Houjuu": 2,
             "Minamitsu Murasa": 6,
-            "Toyosatomimi no Miko": 16,
-            "Yoshika Miyako": 16
+            "Toyosatomimi no Miko": 16
         },
-        "fought": {},
         "wiki_mentions": {
             "Mononobe no Futo": 4,
             "Iku Nagae": 1,
@@ -3639,7 +3925,6 @@
     },
     "Sokrates": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Ellen": 5,
             "Genjii": 1,
@@ -3679,12 +3964,22 @@
     },
     "Spirit Mirror": {
         "dialogues": {
-            "Eiki Shiki, Yamaxanadu": 2,
+            "Nitori Kawashiro": 4,
+            "Rin Kaenbyou": 2,
+            "Yoshika Miyako": 2,
+            "Nue Houjuu": 6,
+            "Seiga Kaku": 4,
+            "Hina Kagiyama": 6,
+            "Tenshi Hinanawi": 4,
+            "Iku Nagae": 4,
+            "Reimu Hakurei": 4,
+            "Cirno": 4,
+            "Marisa Kirisame": 4,
+            "Kasen Ibaraki": 4,
             "Hatate Himekaidou": 6,
             "Sumireko Usami": 6,
             "Shinmyoumaru Sukuna": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Dark Mirror": 1,
             "Trump King": 1
@@ -3693,20 +3988,24 @@
     },
     "Star Sapphire": {
         "dialogues": {
-            "Sunny Milk": 26,
-            "Luna Child": 34,
+            "Sunny Milk": 96,
+            "Luna Child": 92,
+            "Fairy Maid": 6,
             "Daiyousei": 10,
-            "Three Fairies of Light": 28,
-            "Cirno": 54,
-            "Lily White": 20,
-            "Flandre Scarlet": 6,
+            "Three Fairies of Light": 38,
+            "Cirno": 108,
+            "Lily White": 24,
+            "Marisa Kirisame": 70,
+            "Reimu Hakurei": 40,
+            "Aya Shameimaru": 32,
+            "Flandre Scarlet": 10,
             "Keine Kamishirasawa": 2,
-            "Wriggle Nightbug": 6,
+            "Eirin Yagokoro": 4,
             "Eiki Shiki, Yamaxanadu": 10,
             "Suika Ibuki": 4,
-            "Alice Margatroid": 8
+            "Alice Margatroid": 8,
+            "Shanghai Doll": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Three Fairies of Light": 3,
             "Sunny Milk": 13,
@@ -3725,32 +4024,37 @@
     },
     "Suika Ibuki": {
         "dialogues": {
-            "Yukari Yakumo": 50,
+            "Reimu Hakurei": 186,
+            "Yukari Yakumo": 132,
+            "Marisa Kirisame": 44,
             "Ran Yakumo": 4,
-            "Marisa Kirisame": 6,
-            "Sakuya Izayoi": 10,
-            "Alice Margatroid": 8,
-            "Patchouli Knowledge": 6,
-            "Youmu Konpaku": 6,
-            "Yuyuko Saigyouji": 8,
-            "Yukari's crows": 6,
-            "Iku Nagae": 10,
-            "Tenshi Hinanawi": 10,
-            "Aya Shameimaru": 16,
-            "Reisen": 4,
-            "Reisen Udongein Inaba": 4,
-            "Reimu Hakurei": 14,
-            "Utsuho Reiuji": 2,
+            "Remilia Scarlet": 40,
+            "Sakuya Izayoi": 58,
+            "Youmu Konpaku": 46,
+            "Alice Margatroid": 38,
+            "Patchouli Knowledge": 84,
+            "Yuyuko Saigyouji": 60,
+            "Yukari's crows": 26,
+            "Rinnosuke Morichika": 8,
+            "Iku Nagae": 52,
+            "Tenshi Hinanawi": 94,
+            "Aya Shameimaru": 40,
+            "Reisen": 14,
+            "Reisen Udongein Inaba": 14,
+            "Utsuho Reiuji": 12,
+            "Kanako Yasaka": 8,
+            "Yuugi Hoshiguma": 10,
             "Tewi Inaba": 4,
             "Star Sapphire": 4,
             "Sunny Milk": 4,
-            "Yuugi Hoshiguma": 2,
             "Shizuha Aki": 4,
             "Suwako Moriya": 4,
+            "Eirin Yagokoro": 4,
+            "Kasen Ibaraki": 8,
+            "Sanae Kochiya": 4,
             "Cirno": 4,
             "Yuuka Kazami": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 8,
             "Reimu Hakurei": 6,
@@ -3785,16 +4089,23 @@
     },
     "Sumireko Usami": {
         "dialogues": {
-            "Reimu Hakurei": 6,
-            "Doremy Sweet": 12,
-            "Shinmyoumaru Sukuna": 8,
-            "Kasen Ibaraki": 8,
+            "Reimu Hakurei": 30,
+            "Marisa Kirisame": 8,
+            "Kasen Ibaraki": 24,
+            "Mamizou Futatsuiwa": 24,
+            "Ichirin Kumoi": 2,
+            "Shinmyoumaru Sukuna": 14,
+            "Koishi Komeiji": 12,
+            "Satori Komeiji": 10,
+            "Reisen": 6,
+            "Reisen Udongein Inaba": 6,
+            "Doremy Sweet": 36,
+            "Tenshi Hinanawi": 4,
+            "Three Fairies of Light": 24,
             "Hatate Himekaidou": 16,
             "Spirit Mirror": 6,
-            "Hecatia Lapislazuli": 2,
-            "Three Fairies of Light": 8
+            "Hecatia Lapislazuli": 2
         },
-        "fought": {},
         "wiki_mentions": {
             "Renko Usami": 2,
             "Mamizou Futatsuiwa": 1,
@@ -3815,20 +4126,26 @@
     },
     "Sunny Milk": {
         "dialogues": {
-            "Three Fairies of Light": 24,
-            "Star Sapphire": 26,
-            "Luna Child": 40,
-            "Cirno": 42,
-            "Lily White": 16,
+            "Master Big Catfish": 6,
+            "Three Fairies of Light": 26,
+            "Star Sapphire": 96,
+            "Luna Child": 80,
+            "Fairy Maid": 8,
+            "Cirno": 64,
+            "Lily White": 26,
             "Daiyousei": 8,
             "Nitori Kawashiro": 8,
+            "Reimu Hakurei": 16,
+            "Koishi Komeiji": 4,
+            "Eirin Yagokoro": 4,
+            "Flandre Scarlet": 4,
             "Hong Meiling": 6,
             "Tewi Inaba": 8,
             "Komachi Onozuka": 2,
             "Suika Ibuki": 4,
-            "Rinnosuke Morichika": 8
+            "Rinnosuke Morichika": 8,
+            "Marisa Kirisame": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Three Fairies of Light": 3,
             "Luna Child": 11,
@@ -3844,24 +4161,24 @@
     },
     "Suwako Moriya": {
         "dialogues": {
-            "Kanako Yasaka": 42,
-            "Marisa Kirisame": 4,
-            "Reimu Hakurei": 2,
+            "Kanako Yasaka": 54,
+            "Reimu Hakurei": 12,
+            "Marisa Kirisame": 20,
             "Utsuho Reiuji": 2,
-            "Kana Anaberal": 10,
-            "Hisoutensoku": 4,
-            "Sanae Kochiya": 18,
-            "Shou Toramaru": 14,
+            "Byakuren Hijiri": 14,
+            "Sanae Kochiya": 38,
+            "Hisoutensoku": 6,
             "Youmu Konpaku": 4,
             "Alice Margatroid": 2,
             "Suika Ibuki": 4,
             "Tenshi Hinanawi": 8,
-            "Byakuren Hijiri": 6,
+            "Shou Toramaru": 6,
             "Reisen": 6,
             "Reisen Udongein Inaba": 6,
+            "Tewi Inaba": 6,
+            "Rin Kaenbyou": 4,
             "Sakuya Izayoi": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 22,
             "Kanako Yasaka": 5,
@@ -3880,15 +4197,15 @@
     "Taisui Xingjun": {
         "dialogues": {
             "Cirno": 10,
-            "Sanae Kochiya": 2,
-            "Mai Teireida": 2,
+            "Sanae Kochiya": 8,
             "Hong Meiling": 12,
-            "Patchouli Knowledge": 4,
-            "Alice Margatroid": 8,
-            "Marisa Kirisame": 8,
-            "Reimu Hakurei": 10
+            "Patchouli Knowledge": 18,
+            "Alice Margatroid": 10,
+            "Marisa Kirisame": 10,
+            "Reimu Hakurei": 10,
+            "Sakuya Izayoi": 8,
+            "Hisoutensoku": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 6,
             "Hong Meiling": 3
@@ -3897,11 +4214,11 @@
     },
     "Tenma": {
         "dialogues": {
-            "Momiji Inubashiri": 8,
+            "Momiji Inubashiri": 12,
             "Aya Shameimaru": 8,
-            "Marisa Kirisame": 2
+            "Reimu Hakurei": 2,
+            "Marisa Kirisame": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Aya Shameimaru": 1,
             "Hatate Himekaidou": 1,
@@ -3911,27 +4228,35 @@
     },
     "Tenshi Hinanawi": {
         "dialogues": {
-            "Marisa Kirisame": 10,
-            "Marisa's unnamed father": 6,
-            "Iku Nagae": 18,
-            "Suika Ibuki": 10,
-            "Reisen": 6,
-            "Reisen Udongein Inaba": 2,
-            "Yuyuko Saigyouji": 14,
-            "Yukari Yakumo": 6,
-            "Shinmyoumaru Sukuna": 12,
+            "Reimu Hakurei": 106,
+            "Iku Nagae": 90,
+            "Dragon (God)": 2,
+            "Marisa Kirisame": 46,
+            "Aya Shameimaru": 34,
+            "Sakuya Izayoi": 56,
+            "Yuyuko Saigyouji": 80,
+            "Alice Margatroid": 34,
+            "Patchouli Knowledge": 38,
+            "Suika Ibuki": 94,
+            "Youmu Konpaku": 38,
+            "Yukari Yakumo": 68,
+            "Remilia Scarlet": 10,
+            "Yukari's crows": 20,
+            "Komachi Onozuka": 20,
+            "Reisen": 36,
+            "Reisen Udongein Inaba": 36,
+            "Eirin Yagokoro": 8,
+            "Doremy Sweet": 12,
+            "Sumireko Usami": 4,
+            "Shinmyoumaru Sukuna": 40,
             "Nitori Kawashiro": 8,
-            "Doremy Sweet": 8,
+            "Seija Kijin": 8,
             "Suwako Moriya": 8,
             "Tewi Inaba": 4,
+            "Spirit Mirror": 4,
             "Momiji Inubashiri": 4,
-            "Hina Kagiyama": 8,
-            "Komachi Onozuka": 2,
-            "Rin Kaenbyou": 4,
-            "Rin Satsuki": 4,
             "Rinnosuke Morichika": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Iku Nagae": 3,
             "Reimu Hakurei": 2,
@@ -3956,25 +4281,34 @@
     },
     "Tewi Inaba": {
         "dialogues": {
-            "Reisen": 42,
-            "Reisen Udongein Inaba": 34,
-            "Cirno": 10,
-            "Lyrica Prismriver": 8,
-            "Eirin Yagokoro": 14,
-            "Reimu Hakurei": 8,
+            "Reisen": 98,
+            "Reisen Udongein Inaba": 98,
+            "Cirno": 26,
+            "Mystia Lorelei": 24,
+            "Lyrica Prismriver": 20,
+            "Aya Shameimaru": 16,
+            "Marisa Kirisame": 20,
+            "Reimu Hakurei": 30,
+            "Eirin Yagokoro": 38,
+            "Sakuya Izayoi": 16,
+            "Youmu Konpaku": 16,
+            "Medicine Melancholy": 16,
+            "Komachi Onozuka": 22,
+            "Eiki Shiki, Yamaxanadu": 16,
+            "Yuuka Kazami": 8,
+            "Fairy Maid": 2,
             "Suika Ibuki": 4,
             "Wriggle Nightbug": 8,
             "Sunny Milk": 8,
             "Hong Meiling": 6,
-            "Komachi Onozuka": 6,
             "Kaguya Houraisan": 6,
             "Tenshi Hinanawi": 4,
             "Utsuho Reiuji": 4,
             "Sagume Kishin": 8,
             "Hisoutensoku": 2,
+            "Suwako Moriya": 6,
             "Fujiwara no Mokou": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Reisen": 15,
             "Aya Shameimaru": 2,
@@ -3995,22 +4329,27 @@
     },
     "Three Fairies of Light": {
         "dialogues": {
-            "Sunny Milk": 24,
-            "Cirno": 76,
+            "Sunny Milk": 26,
+            "Cirno": 92,
+            "Lily White": 24,
+            "Luna Child": 10,
             "Daiyousei": 12,
-            "Star Sapphire": 28,
-            "Lily White": 18,
-            "Luna Child": 8,
-            "Reimu Hakurei": 6,
+            "Star Sapphire": 38,
+            "Reimu Hakurei": 22,
             "Aya Shameimaru": 2,
+            "Sumireko Usami": 24,
+            "Shinmyoumaru Sukuna": 2,
             "Clownpiece": 4,
+            "Alice Margatroid": 24,
+            "Shanghai Doll": 24,
             "Remilia Scarlet": 4,
-            "Hong Meiling": 6,
-            "Yukari Yakumo": 4,
+            "Sakuya Izayoi": 4,
+            "Hong Meiling": 8,
+            "Marisa Kirisame": 12,
+            "Yukari Yakumo": 12,
             "Patchouli Knowledge": 2,
-            "Sumireko Usami": 8
+            "Prismriver Sisters": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Sunny Milk": 7,
             "Luna Child": 6,
@@ -4020,7 +4359,6 @@
     },
     "Tokiko": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 4,
             "Rinnosuke Morichika": 1,
@@ -4031,7 +4369,7 @@
     },
     "Toyosatomimi no Miko": {
         "dialogues": {
-            "Seiga Kaku": 12,
+            "Seiga Kaku": 16,
             "Mononobe no Futo": 24,
             "Byakuren Hijiri": 30,
             "Doremy Sweet": 4,
@@ -4043,7 +4381,6 @@
             "Yoshika Miyako": 16,
             "Hata no Kokoro": 12
         },
-        "fought": {},
         "wiki_mentions": {
             "Seiga Kaku": 3,
             "Mononobe no Futo": 4,
@@ -4071,7 +4408,6 @@
     },
     "Trump King": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Alice Margatroid": 1
         },
@@ -4079,13 +4415,11 @@
     },
     "Unnamed kitsune": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Unnamed kuda-gitsune": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 3,
             "Kasen Ibaraki": 1,
@@ -4095,7 +4429,6 @@
     },
     "Unshou": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Marisa Kirisame": 1,
             "Kasen Ibaraki": 1
@@ -4104,16 +4437,22 @@
     },
     "Unzan": {
         "dialogues": {
-            "Ichirin Kumoi": 124,
-            "Nue Houjuu": 4,
+            "Ichirin Kumoi": 148,
+            "Nue Houjuu": 14,
             "Kogasa Tatara": 4,
             "Minamitsu Murasa": 14,
-            "Byakuren Hijiri": 8,
+            "Byakuren Hijiri": 16,
             "Nazrin": 8,
+            "Shou Toramaru": 8,
+            "Wheel Demon": 20,
+            "Koishi Komeiji": 8,
+            "Mamizou Futatsuiwa": 8,
+            "Marisa Kirisame": 8,
+            "Nitori Kawashiro": 8,
+            "Reimu Hakurei": 8,
             "Kyouko Kasodani": 6,
             "Yamame Kurodani": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Ichirin Kumoi": 6,
             "Byakuren Hijiri": 3,
@@ -4123,26 +4462,29 @@
     },
     "Urumi Ushizaki": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {},
         "relationship_wiki": []
     },
     "Utsuho Reiuji": {
         "dialogues": {
-            "Rin Kaenbyou": 10,
-            "Reimu Hakurei": 14,
-            "Suika Ibuki": 2,
-            "Kanako Yasaka": 12,
-            "Kana Anaberal": 6,
+            "Reimu Hakurei": 38,
+            "Satori Komeiji": 12,
+            "Rin Kaenbyou": 16,
+            "Suika Ibuki": 12,
+            "Kanako Yasaka": 36,
+            "Aya Shameimaru": 12,
+            "Alice Margatroid": 12,
+            "Marisa Kirisame": 38,
+            "Patchouli Knowledge": 4,
+            "Nitori Kawashiro": 8,
             "Suwako Moriya": 2,
-            "Cirno": 8,
-            "Marisa Kirisame": 6,
+            "Sanae Kochiya": 18,
+            "Koishi Komeiji": 14,
+            "Cirno": 10,
             "Tewi Inaba": 4,
             "Wriggle Nightbug": 4,
-            "Koishi Komeiji": 6,
             "Yuugi Hoshiguma": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 15,
             "Satori Komeiji": 3,
@@ -4167,7 +4509,6 @@
         "dialogues": {
             "Shinmyoumaru Sukuna": 8
         },
-        "fought": {},
         "wiki_mentions": {
             "Kagerou Imaizumi": 3,
             "Seija Kijin": 1
@@ -4178,10 +4519,14 @@
     },
     "Watatsuki no Toyohime": {
         "dialogues": {
+            "Watatsuki no Yorihime": 40,
+            "Dragon (God)": 6,
+            "Eirin Yagokoro": 6,
             "Kaguya Houraisan": 6,
-            "Watatsuki no Yorihime": 8
+            "Marisa Kirisame": 4,
+            "Reisen": 4,
+            "Reisen Udongein Inaba": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Watatsuki no Yorihime": 3,
             "Eirin Yagokoro": 6,
@@ -4196,12 +4541,14 @@
     },
     "Watatsuki no Yorihime": {
         "dialogues": {
+            "Watatsuki no Toyohime": 40,
+            "Dragon (God)": 6,
+            "Eirin Yagokoro": 6,
+            "Kaguya Houraisan": 6,
             "Marisa Kirisame": 4,
             "Reisen": 4,
-            "Reisen Udongein Inaba": 4,
-            "Watatsuki no Toyohime": 8
+            "Reisen Udongein Inaba": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Eirin Yagokoro": 3,
             "Reimu Hakurei": 3,
@@ -4219,8 +4566,10 @@
         "relationship_wiki": []
     },
     "Wheel Demon": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Ichirin Kumoi": 36,
+            "Unzan": 20
+        },
         "wiki_mentions": {
             "Rumia": 1
         },
@@ -4228,7 +4577,7 @@
     },
     "Wriggle Nightbug": {
         "dialogues": {
-            "Star Sapphire": 6,
+            "Dark Mirror": 24,
             "Tewi Inaba": 8,
             "Youmu Konpaku": 8,
             "Letty Whiterock": 2,
@@ -4242,7 +4591,6 @@
             "Yamame Kurodani": 4,
             "Medicine Melancholy": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Aya Shameimaru": 2,
             "Hieda no Akyuu": 2,
@@ -4252,8 +4600,11 @@
     },
     "Yamame Kurodani": {
         "dialogues": {
+            "Reimu Hakurei": 14,
+            "Yukari Yakumo": 10,
+            "Yukari's crows": 2,
             "Kisume": 6,
-            "Parsee Mizuhashi": 8,
+            "Parsee Mizuhashi": 10,
             "Dark Mirror": 36,
             "Ran Yakumo": 2,
             "Wriggle Nightbug": 4,
@@ -4262,7 +4613,6 @@
             "Unzan": 6,
             "Rin Kaenbyou": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Aya Shameimaru": 2,
             "Eirin Yagokoro": 1,
@@ -4273,7 +4623,6 @@
     },
     "Yatsuhashi Tsukumo": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Benben Tsukumo": 5,
             "Seija Kijin": 3,
@@ -4295,34 +4644,37 @@
             "Reimu Hakurei": 4,
             "Genjii": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 3,
             "Reimu Hakurei": 6,
             "Mima": 2,
             "Genjii": 2,
             "Three Fairies of Light": 1,
-            "Kasen Ibaraki": 2,
-            "Hakurei God": 1
+            "Kasen Ibaraki": 2
         },
         "relationship_wiki": []
     },
     "Yoshika Miyako": {
         "dialogues": {
+            "Kogasa Tatara": 22,
             "Byakuren Hijiri": 4,
-            "Seiga Kaku": 42,
+            "Seiga Kaku": 56,
+            "Soga no Tojiko": 20,
+            "Zombie Fairy": 6,
+            "Rin Kaenbyou": 16,
+            "Spirit Mirror": 2,
             "Satori Komeiji": 6,
             "Koishi Komeiji": 2,
+            "Kyouko Kasodani": 8,
+            "Mystia Lorelei": 4,
             "Kisume": 4,
             "Mononobe no Futo": 16,
-            "Soga no Tojiko": 16,
             "Toyosatomimi no Miko": 16,
-            "Kogasa Tatara": 8,
+            "Kagerou Imaizumi": 4,
             "Hata no Kokoro": 4,
             "Nazrin": 4,
             "Shou Toramaru": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Seiga Kaku": 5,
             "Kogasa Tatara": 2,
@@ -4338,8 +4690,10 @@
         "relationship_wiki": []
     },
     "Youki Konpaku": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Alice Margatroid": 2,
+            "Shanghai Doll": 2
+        },
         "wiki_mentions": {
             "Youmu Konpaku": 3,
             "Yuyuko Saigyouji": 1,
@@ -4352,37 +4706,46 @@
     },
     "Youmu Konpaku": {
         "dialogues": {
-            "Saigyou Ayakashi": 4,
-            "Yuyuko Saigyouji": 48,
-            "Alice Margatroid": 22,
-            "Yukari Yakumo": 46,
-            "Suika Ibuki": 6,
-            "Marisa Kirisame": 6,
-            "Remilia Scarlet": 8,
-            "Marisa's unnamed father": 2,
-            "Patchouli Knowledge": 12,
-            "Sakuya Izayoi": 28,
-            "Reimu Hakurei": 20,
-            "Mai Teireida": 4,
-            "Reisen": 10,
-            "Reisen Udongein Inaba": 8,
-            "Komachi Onozuka": 10,
-            "Iku Nagae": 8,
-            "Sanae Kochiya": 8,
-            "Shou Toramaru": 4,
+            "Saigyou Ayakashi": 10,
+            "Yuyuko Saigyouji": 210,
+            "Marisa Kirisame": 102,
+            "Reimu Hakurei": 134,
+            "Sakuya Izayoi": 138,
+            "Remilia Scarlet": 92,
+            "Yukari Yakumo": 88,
+            "Alice Margatroid": 60,
+            "Suika Ibuki": 46,
+            "Patchouli Knowledge": 68,
+            "Rinnosuke Morichika": 4,
+            "Yukari's crows": 10,
+            "Chen": 6,
+            "Ran Yakumo": 8,
+            "Reisen": 42,
+            "Reisen Udongein Inaba": 42,
+            "Eirin Yagokoro": 16,
+            "Hourai": 8,
+            "Kaguya Houraisan": 8,
+            "Cirno": 16,
+            "Mystia Lorelei": 18,
+            "Lyrica Prismriver": 16,
+            "Tewi Inaba": 16,
+            "Aya Shameimaru": 28,
+            "Komachi Onozuka": 42,
+            "Eiki Shiki, Yamaxanadu": 16,
+            "Yuuka Kazami": 12,
+            "Iku Nagae": 16,
+            "Tenshi Hinanawi": 38,
+            "Sanae Kochiya": 20,
             "Suwako Moriya": 4,
+            "Myouren Hijiri": 4,
+            "Nue Houjuu": 2,
             "Wriggle Nightbug": 8,
             "Lunasa Prismriver": 2,
             "Prismriver Sisters": 2,
             "Keine Kamishirasawa": 2,
-            "Yuuka Kazami": 4,
             "Hong Meiling": 4,
-            "Mystia Lorelei": 2,
-            "Yamame Kurodani": 4,
-            "Chen": 4,
-            "Ran Yakumo": 4
+            "Yamame Kurodani": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 6,
             "Yuyuko Saigyouji": 8,
@@ -4409,32 +4772,41 @@
     },
     "Yukari Yakumo": {
         "dialogues": {
-            "Yuyuko Saigyouji": 40,
-            "Chen": 20,
-            "Ran Yakumo": 22,
-            "Suika Ibuki": 50,
-            "Marisa Kirisame": 26,
-            "Alice Margatroid": 22,
-            "Youmu Konpaku": 46,
-            "Remilia Scarlet": 14,
-            "Marisa's unnamed father": 14,
-            "Reimu Hakurei": 96,
-            "Sakuya Izayoi": 22,
-            "Mai Teireida": 4,
-            "Reisen": 18,
-            "Komachi Onozuka": 6,
-            "Iku Nagae": 18,
-            "Aya Shameimaru": 4,
-            "Tenshi Hinanawi": 6,
+            "Marisa Kirisame": 124,
+            "Reimu Hakurei": 316,
+            "Sakuya Izayoi": 54,
+            "Remilia Scarlet": 86,
+            "Youmu Konpaku": 88,
+            "Yuyuko Saigyouji": 128,
+            "Chen": 26,
+            "Ran Yakumo": 40,
+            "Suika Ibuki": 132,
+            "Alice Margatroid": 54,
+            "Patchouli Knowledge": 20,
+            "Yukari's crows": 268,
+            "Rinnosuke Morichika": 4,
+            "Reisen": 30,
+            "Reisen Udongein Inaba": 30,
+            "Kaguya Houraisan": 36,
+            "Komachi Onozuka": 22,
+            "Iku Nagae": 34,
+            "Tenshi Hinanawi": 68,
+            "Aya Shameimaru": 8,
+            "Yamame Kurodani": 10,
+            "Parsee Mizuhashi": 8,
+            "Yuugi Hoshiguma": 12,
+            "Satori Komeiji": 10,
+            "Rin Kaenbyou": 4,
+            "Nitori Kawashiro": 4,
+            "Shinmyoumaru Sukuna": 4,
+            "Joon Yorigami": 4,
+            "Shion Yorigami": 4,
             "Yuuka Kazami": 6,
-            "Reisen Udongein Inaba": 6,
-            "Satori Komeiji": 2,
-            "Yuugi Hoshiguma": 4,
-            "Three Fairies of Light": 4,
-            "Eirin Yagokoro": 4,
-            "Kaguya Houraisan": 4
+            "Five Magic Stones": 4,
+            "Hong Meiling": 2,
+            "Three Fairies of Light": 12,
+            "Eirin Yagokoro": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 9,
             "Ran Yakumo": 24,
@@ -4478,12 +4850,26 @@
     },
     "Yukari's crows": {
         "dialogues": {
-            "Reimu Hakurei": 2,
-            "Yuyuko Saigyouji": 6,
-            "Suika Ibuki": 6,
-            "Marisa's unnamed father": 4
+            "Yukari Yakumo": 268,
+            "Reimu Hakurei": 72,
+            "Yuyuko Saigyouji": 26,
+            "Suika Ibuki": 26,
+            "Marisa Kirisame": 36,
+            "Rinnosuke Morichika": 4,
+            "Patchouli Knowledge": 2,
+            "Sakuya Izayoi": 6,
+            "Remilia Scarlet": 10,
+            "Alice Margatroid": 10,
+            "Youmu Konpaku": 10,
+            "Tenshi Hinanawi": 20,
+            "Aya Shameimaru": 4,
+            "Iku Nagae": 8,
+            "Komachi Onozuka": 8,
+            "Reisen": 12,
+            "Reisen Udongein Inaba": 12,
+            "Yamame Kurodani": 2,
+            "Ran Yakumo": 6
         },
-        "fought": {},
         "wiki_mentions": {},
         "relationship_wiki": []
     },
@@ -4492,9 +4878,10 @@
             "Alice Margatroid": 4,
             "Mai": 20,
             "Mai Teireida": 20,
-            "Narumi Yatadera": 24
+            "Narumi Yatadera": 24,
+            "Fujiwara no Mokou": 2,
+            "Prismriver Sisters": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Mai": 7,
             "Alice Margatroid": 1,
@@ -4507,7 +4894,6 @@
         "dialogues": {
             "Shinki": 6
         },
-        "fought": {},
         "wiki_mentions": {
             "Shinki": 6,
             "Sakuya Izayoi": 1
@@ -4516,7 +4902,6 @@
     },
     "Yumemi Okazaki": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 2,
             "Mima": 1,
@@ -4531,7 +4916,6 @@
     },
     "YuugenMagan": {
         "dialogues": {},
-        "fought": {},
         "wiki_mentions": {
             "Reimu Hakurei": 1,
             "Sariel": 6,
@@ -4546,17 +4930,18 @@
     },
     "Yuugi Hoshiguma": {
         "dialogues": {
+            "Reimu Hakurei": 14,
+            "Yukari Yakumo": 12,
+            "Satori Komeiji": 6,
+            "Suika Ibuki": 10,
             "Marisa Kirisame": 8,
-            "Marisa's unnamed father": 8,
-            "Suika Ibuki": 2,
+            "Byakuren Hijiri": 4,
             "Eiki Shiki, Yamaxanadu": 2,
-            "Yukari Yakumo": 4,
             "Yuyuko Saigyouji": 4,
             "Utsuho Reiuji": 8,
             "Parsee Mizuhashi": 4,
             "Koishi Komeiji": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Suika Ibuki": 4,
             "Marisa Kirisame": 2,
@@ -4570,16 +4955,29 @@
     },
     "Yuuka Kazami": {
         "dialogues": {
-            "Shinki": 8,
-            "Reimu Hakurei": 4,
-            "Mima": 8,
-            "Medicine Melancholy": 10,
+            "Marisa Kirisame": 28,
+            "Reimu Hakurei": 36,
+            "Mima": 26,
+            "Sara": 2,
+            "Shinki": 10,
+            "Alice Margatroid": 10,
+            "Medicine Melancholy": 18,
+            "Mystia Lorelei": 20,
+            "Eirin Yagokoro": 4,
+            "Reisen": 12,
+            "Reisen Udongein Inaba": 12,
+            "Cirno": 16,
+            "Master Big Catfish": 24,
+            "Lyrica Prismriver": 16,
+            "Sakuya Izayoi": 8,
+            "Tewi Inaba": 8,
+            "Youmu Konpaku": 12,
+            "Aya Shameimaru": 8,
+            "Komachi Onozuka": 20,
+            "Eiki Shiki, Yamaxanadu": 8,
             "Yukari Yakumo": 6,
-            "Youmu Konpaku": 4,
-            "Suika Ibuki": 4,
-            "Komachi Onozuka": 4
+            "Suika Ibuki": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Elly": 3,
             "Kurumi": 1,
@@ -4600,29 +4998,31 @@
     },
     "Yuyuko Saigyouji": {
         "dialogues": {
-            "Saigyou Ayakashi": 20,
-            "Yukari Yakumo": 40,
-            "Reimu Hakurei": 22,
-            "Marisa Kirisame": 6,
-            "Sakuya Izayoi": 28,
-            "Youmu Konpaku": 48,
-            "Alice Margatroid": 16,
-            "Remilia Scarlet": 20,
-            "Yukari's crows": 6,
-            "Suika Ibuki": 8,
-            "Patchouli Knowledge": 8,
-            "Mai Teireida": 4,
-            "Hourai": 6,
-            "Iku Nagae": 8,
-            "Reisen": 8,
-            "Tenshi Hinanawi": 14,
-            "Yuugi Hoshiguma": 4,
-            "Aya Shameimaru": 2,
-            "Rinnosuke Morichika": 2,
-            "Chen": 4,
-            "Ran Yakumo": 4
+            "Youmu Konpaku": 210,
+            "Saigyou Ayakashi": 12,
+            "Marisa Kirisame": 66,
+            "Reimu Hakurei": 116,
+            "Sakuya Izayoi": 100,
+            "Remilia Scarlet": 102,
+            "Yukari Yakumo": 128,
+            "Chen": 10,
+            "Ran Yakumo": 14,
+            "Patchouli Knowledge": 56,
+            "Alice Margatroid": 34,
+            "Suika Ibuki": 60,
+            "Yukari's crows": 26,
+            "Rinnosuke Morichika": 6,
+            "Reisen": 20,
+            "Reisen Udongein Inaba": 20,
+            "Eirin Yagokoro": 16,
+            "Hourai": 8,
+            "Aya Shameimaru": 18,
+            "Iku Nagae": 26,
+            "Tenshi Hinanawi": 80,
+            "Komachi Onozuka": 8,
+            "Myouren Hijiri": 6,
+            "Yuugi Hoshiguma": 4
         },
-        "fought": {},
         "wiki_mentions": {
             "Hisoutensoku": 9,
             "Youmu Konpaku": 7,
@@ -4644,8 +5044,12 @@
         "relationship_wiki": []
     },
     "Zombie Fairy": {
-        "dialogues": {},
-        "fought": {},
+        "dialogues": {
+            "Kyouko Kasodani": 2,
+            "Mystia Lorelei": 2,
+            "Rin Kaenbyou": 6,
+            "Yoshika Miyako": 6
+        },
         "wiki_mentions": {
             "Rin Kaenbyou": 2,
             "Marisa Kirisame": 1,

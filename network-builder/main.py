@@ -38,7 +38,6 @@ class CharactersFinder(parser.HTMLParser):
                 elif name == 'title' and not 'Characters' in attr:
                     network[attr] = {
                         'dialogues': {},
-                        'fought': {},
                         'wiki_mentions': {},
                         'relationship_wiki': []
                     }
@@ -134,9 +133,16 @@ class DialogueParser(parser.HTMLParser):
     def handle_data(self, data):
         global char_stack
         for name in characters:
-            if name in data or name.split()[0] in data:
+            if name in data:
                 index = data.find(name)
                 if len(data) > index + len(name) and data[index + len(name)].isalpha():
+                    pass
+                else:
+                    char_stack[name] = 5
+            elif name.split()[0] in data:
+                first_name = name.split()[0]
+                index = data.find(first_name)
+                if len(data) > index + len(first_name) and data[index + len(first_name)].isalpha():
                     pass
                 else:
                     char_stack[name] = 5
@@ -225,7 +231,15 @@ def main():
     html_parser = CharactersFinder()
     html_parser.reading_chars = False
     parse_page(html_parser, CHARACTERS_PAGE)
-    
+
+    # remove noise/not real characters
+    characters.remove('Rin Satsuki')
+    characters.remove('Hakurei God')
+    characters.remove('Marisa\'s unnamed father')
+    char_links.remove('Rin_Satsuki.html')
+    char_links.remove('Hakurei_God.html')
+    char_links.remove('Marisa\'s_unnamed_father.html')
+
     ################################################
     ### BUILDING NETWORK
     ################################################
