@@ -1,0 +1,5302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Alice Margatroid" />
+    <node id="Aunn Komano" />
+    <node id="Aya Shameimaru" />
+    <node id="Ayana" />
+    <node id="Beerko" />
+    <node id="Benben Tsukumo" />
+    <node id="Bewitching Lotus Flower" />
+    <node id="Bishamonten" />
+    <node id="Byakuren Hijiri" />
+    <node id="Chang'e" />
+    <node id="Chen" />
+    <node id="Chiyuri Kitashirakawa" />
+    <node id="Cirno" />
+    <node id="Clownpiece" />
+    <node id="Daiyousei" />
+    <node id="Dark Mirror" />
+    <node id="Doremy Sweet" />
+    <node id="Dragon (God)" />
+    <node id="Eika Ebisu" />
+    <node id="Eiki Shiki, Yamaxanadu" />
+    <node id="Eirin Yagokoro" />
+    <node id="Elis" />
+    <node id="Ellen" />
+    <node id="Elly" />
+    <node id="Eternity Larva" />
+    <node id="Fairy Maid" />
+    <node id="Five Magic Stones" />
+    <node id="Flandre Scarlet" />
+    <node id="Fujiwara no Mokou" />
+    <node id="Gengetsu" />
+    <node id="Genjii" />
+    <node id="Goliath Doll" />
+    <node id="Hakurei God" />
+    <node id="Hata no Kokoro" />
+    <node id="Hatate Himekaidou" />
+    <node id="Hecatia Lapislazuli" />
+    <node id="Hieda no Akyuu" />
+    <node id="Hina Kagiyama" />
+    <node id="Hisoutensoku" />
+    <node id="Hong Meiling" />
+    <node id="Hourai" />
+    <node id="Ibaraki-douji's Arm" />
+    <node id="Ichirin Kumoi" />
+    <node id="Iku Nagae" />
+    <node id="Iwakasa" />
+    <node id="Iwanagahime" />
+    <node id="Joon Yorigami" />
+    <node id="Junko" />
+    <node id="Kagerou Imaizumi" />
+    <node id="Kaguya Houraisan" />
+    <node id="Kana Anaberal" />
+    <node id="Kanako Yasaka" />
+    <node id="Kasen Ibaraki" />
+    <node id="Keine Kamishirasawa" />
+    <node id="Kikuri" />
+    <node id="Kisume" />
+    <node id="Koakuma" />
+    <node id="Kogasa Tatara" />
+    <node id="Koishi Komeiji" />
+    <node id="Komachi Onozuka" />
+    <node id="Konngara" />
+    <node id="Konohana-Sakuyahime" />
+    <node id="Kosuzu Motoori" />
+    <node id="Kosuzu's Grandfather" />
+    <node id="Kotohime" />
+    <node id="Kurumi" />
+    <node id="Kutaka Niwatari" />
+    <node id="Kyouko Kasodani" />
+    <node id="Layla Prismriver" />
+    <node id="Letty Whiterock" />
+    <node id="Lily White" />
+    <node id="Lord Tsukuyomi" />
+    <node id="Louise" />
+    <node id="Luna Child" />
+    <node id="Lunasa Prismriver" />
+    <node id="Lyrica Prismriver" />
+    <node id="Mai" />
+    <node id="Mai Teireida" />
+    <node id="Mamizou Futatsuiwa" />
+    <node id="Maribel Hearn" />
+    <node id="Marisa Kirisame" />
+    <node id="Marisa's unnamed father" />
+    <node id="Master Big Catfish" />
+    <node id="Matenshi" />
+    <node id="Medicine Melancholy" />
+    <node id="Meira" />
+    <node id="Merlin Prismriver" />
+    <node id="Mima" />
+    <node id="Minamitsu Murasa" />
+    <node id="Minoriko Aki" />
+    <node id="Mishaguji" />
+    <node id="Mizue no Uranoshimako" />
+    <node id="Momiji Inubashiri" />
+    <node id="Mononobe no Futo" />
+    <node id="Mugetsu" />
+    <node id="Myouren Hijiri" />
+    <node id="Mystia Lorelei" />
+    <node id="Narumi Yatadera" />
+    <node id="User:Nazeo/Character Pages" />
+    <node id="Nazrin" />
+    <node id="Nemuno Sakata" />
+    <node id="Nitori Kawashiro" />
+    <node id="Noroiko" />
+    <node id="Nue Houjuu" />
+    <node id="Okina Matara" />
+    <node id="Orange" />
+    <node id="Parsee Mizuhashi" />
+    <node id="Patchouli Knowledge" />
+    <node id="Pop-up Pirate" />
+    <node id="Prismriver Sisters" />
+    <node id="Raiko Horikawa" />
+    <node id="Ran Yakumo" />
+    <node id="Reimu Hakurei" />
+    <node id="Reisen" />
+    <node id="Reisen Udongein Inaba" />
+    <node id="Remilia Scarlet" />
+    <node id="Rengeteki" />
+    <node id="Renko Usami" />
+    <node id="Rika" />
+    <node id="Rikako Asakura" />
+    <node id="Rin Kaenbyou" />
+    <node id="Rin Satsuki" />
+    <node id="Ringo" />
+    <node id="Rinnosuke Morichika" />
+    <node id="Rumia" />
+    <node id="Ruukoto" />
+    <node id="Sagume Kishin" />
+    <node id="Saigyou Ayakashi" />
+    <node id="Sake Bug" />
+    <node id="Sakuya Izayoi" />
+    <node id="Sanae Kochiya" />
+    <node id="Sara" />
+    <node id="Sariel" />
+    <node id="Satono Nishida" />
+    <node id="Satori Komeiji" />
+    <node id="Seiga Kaku" />
+    <node id="Seija Kijin" />
+    <node id="Seiran" />
+    <node id="Sekibanki" />
+    <node id="Shanghai Doll" />
+    <node id="Shinki" />
+    <node id="Shinmyoumaru Sukuna" />
+    <node id="Shion Yorigami" />
+    <node id="Shirou Sendai" />
+    <node id="Shizuha Aki" />
+    <node id="Shou Toramaru" />
+    <node id="SinGyoku" />
+    <node id="Soga no Tojiko" />
+    <node id="Sokrates" />
+    <node id="Spirit Mirror" />
+    <node id="Star Sapphire" />
+    <node id="Suika Ibuki" />
+    <node id="Sumireko Usami" />
+    <node id="Sunny Milk" />
+    <node id="Suwako Moriya" />
+    <node id="Taisui Xingjun" />
+    <node id="Tenma" />
+    <node id="Tenshi Hinanawi" />
+    <node id="Tewi Inaba" />
+    <node id="Three Fairies of Light" />
+    <node id="Tokiko" />
+    <node id="Toyosatomimi no Miko" />
+    <node id="Trump King" />
+    <node id="Unnamed kitsune" />
+    <node id="Unnamed kuda-gitsune" />
+    <node id="Unshou" />
+    <node id="Unzan" />
+    <node id="Urumi Ushizaki" />
+    <node id="Utsuho Reiuji" />
+    <node id="Wakasagihime" />
+    <node id="Watatsuki no Toyohime" />
+    <node id="Watatsuki no Yorihime" />
+    <node id="Wheel Demon" />
+    <node id="Wriggle Nightbug" />
+    <node id="Yamame Kurodani" />
+    <node id="Yatsuhashi Tsukumo" />
+    <node id="Yin-Yang Orb" />
+    <node id="Yoshika Miyako" />
+    <node id="Youki Konpaku" />
+    <node id="Youmu Konpaku" />
+    <node id="Yukari Yakumo" />
+    <node id="Yukari's crows" />
+    <node id="Yuki" />
+    <node id="Yumeko" />
+    <node id="Yumemi Okazaki" />
+    <node id="YuugenMagan" />
+    <node id="Yuugi Hoshiguma" />
+    <node id="Yuuka Kazami" />
+    <node id="Yuyuko Saigyouji" />
+    <node id="Zombie Fairy" />
+    <edge source="Alice Margatroid" target="Aya Shameimaru">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Chen">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Cirno">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Eirin Yagokoro">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Fujiwara no Mokou">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Goliath Doll">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Hisoutensoku">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Hong Meiling">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Hourai">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Iku Nagae">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Junko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Kaguya Houraisan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Keine Kamishirasawa">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Komachi Onozuka">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Lily White">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Louise">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Lunasa Prismriver">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Lyrica Prismriver">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Mai">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Marisa Kirisame">
+      <data key="d0">229</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Medicine Melancholy">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Merlin Prismriver">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Mima">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Nitori Kawashiro">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Patchouli Knowledge">
+      <data key="d0">116</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Prismriver Sisters">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Ran Yakumo">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Reimu Hakurei">
+      <data key="d0">166</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Reisen">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Reisen Udongein Inaba">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Remilia Scarlet">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Rika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Rinnosuke Morichika">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Sakuya Izayoi">
+      <data key="d0">89</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Seiran">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Shanghai Doll">
+      <data key="d0">686</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Shinki">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Star Sapphire">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Suika Ibuki">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Sunny Milk">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Suwako Moriya">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Taisui Xingjun">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Tenshi Hinanawi">
+      <data key="d0">35</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Three Fairies of Light">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Utsuho Reiuji">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Youki Konpaku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Youmu Konpaku">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Yukari Yakumo">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Yukari's crows">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Yuki">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Yuuka Kazami">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Yuyuko Saigyouji">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Hina Kagiyama">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Master Big Catfish">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Parsee Mizuhashi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Satori Komeiji">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Alice Margatroid" target="Trump King">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aunn Komano" target="Lily White">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Aunn Komano" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aunn Komano" target="Okina Matara">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Aunn Komano" target="Reimu Hakurei">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Chen">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Cirno">
+      <data key="d0">49</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Clownpiece">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Daiyousei">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Dragon (God)">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Eiki Shiki, Yamaxanadu">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Eirin Yagokoro">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Hatate Himekaidou">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Hecatia Lapislazuli">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Hieda no Akyuu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Hisoutensoku">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Hong Meiling">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Iku Nagae">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Kaguya Houraisan">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Kanako Yasaka">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Kasen Ibaraki">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Kogasa Tatara">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Komachi Onozuka">
+      <data key="d0">43</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Kosuzu Motoori">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Lily White">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Lyrica Prismriver">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Mamizou Futatsuiwa">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Marisa Kirisame">
+      <data key="d0">98</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Medicine Melancholy">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Minoriko Aki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Momiji Inubashiri">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Mystia Lorelei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Nitori Kawashiro">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Nue Houjuu">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Okina Matara">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Patchouli Knowledge">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Ran Yakumo">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Reimu Hakurei">
+      <data key="d0">189</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Reisen">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Reisen Udongein Inaba">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Remilia Scarlet">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Rinnosuke Morichika">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Sake Bug">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Sakuya Izayoi">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Sanae Kochiya">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Satono Nishida">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Star Sapphire">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Suika Ibuki">
+      <data key="d0">45</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Tenma">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Tenshi Hinanawi">
+      <data key="d0">35</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Tewi Inaba">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Three Fairies of Light">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Utsuho Reiuji">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Youmu Konpaku">
+      <data key="d0">31</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Yukari Yakumo">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Yukari's crows">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Yuuka Kazami">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Yuyuko Saigyouji">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Doremy Sweet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Flandre Scarlet">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Fujiwara no Mokou">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Hina Kagiyama">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Keine Kamishirasawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Kisume">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Letty Whiterock">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Minamitsu Murasa">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Nazrin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Parsee Mizuhashi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Rin Kaenbyou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Rumia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Satori Komeiji">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Shizuha Aki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Shou Toramaru">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Suwako Moriya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Wriggle Nightbug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Yamame Kurodani">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Yuugi Hoshiguma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aya Shameimaru" target="Zombie Fairy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ayana" target="Medicine Melancholy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ayana" target="Rengeteki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ayana" target="Shinki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ayana" target="Wheel Demon">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Beerko" target="Junko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Beerko" target="Lily White">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Beerko" target="Rumia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Byakuren Hijiri">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Kyouko Kasodani">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Lunasa Prismriver">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Lyrica Prismriver">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Merlin Prismriver">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Mystia Lorelei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Raiko Horikawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Shinmyoumaru Sukuna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Yatsuhashi Tsukumo">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benben Tsukumo" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bewitching Lotus Flower" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bewitching Lotus Flower" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bishamonten" target="Byakuren Hijiri">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Bishamonten" target="Nazrin">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Bishamonten" target="Nue Houjuu">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Bishamonten" target="Shou Toramaru">
+      <data key="d0">84</data>
+    </edge>
+    <edge source="Bishamonten" target="Chen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bishamonten" target="Hata no Kokoro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bishamonten" target="Ichirin Kumoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Doremy Sweet">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Hata no Kokoro">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Hina Kagiyama">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Hisoutensoku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Ichirin Kumoi">
+      <data key="d0">55</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Kanako Yasaka">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Kasen Ibaraki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Kogasa Tatara">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Koishi Komeiji">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Kyouko Kasodani">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Mamizou Futatsuiwa">
+      <data key="d0">29</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Marisa Kirisame">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Minamitsu Murasa">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Myouren Hijiri">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Nazrin">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Nitori Kawashiro">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Nue Houjuu">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Reimu Hakurei">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Sanae Kochiya">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Seiga Kaku">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Shinki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Shou Toramaru">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Suwako Moriya">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Toyosatomimi no Miko">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Unzan">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Yoshika Miyako">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="YuugenMagan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Yuugi Hoshiguma">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Hieda no Akyuu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Joon Yorigami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Rin Kaenbyou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Sagume Kishin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Utsuho Reiuji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Byakuren Hijiri" target="Yamame Kurodani">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chang'e" target="Clownpiece">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Chang'e" target="Eirin Yagokoro">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Chang'e" target="Hecatia Lapislazuli">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Chang'e" target="Hourai">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Chang'e" target="Junko">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Chang'e" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Chang'e" target="Reisen">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Chang'e" target="Reisen Udongein Inaba">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Chang'e" target="Sagume Kishin">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Chen" target="Cirno">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Chen" target="Eirin Yagokoro">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Chen" target="Hisoutensoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chen" target="Kaguya Houraisan">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Chen" target="Keine Kamishirasawa">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Chen" target="Kisume">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chen" target="Kogasa Tatara">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Chen" target="Marisa Kirisame">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Chen" target="Patchouli Knowledge">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Chen" target="Ran Yakumo">
+      <data key="d0">53</data>
+    </edge>
+    <edge source="Chen" target="Reimu Hakurei">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Chen" target="Reisen">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Chen" target="Reisen Udongein Inaba">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Chen" target="Remilia Scarlet">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Chen" target="Sakuya Izayoi">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Chen" target="Wakasagihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chen" target="Wriggle Nightbug">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Chen" target="Youmu Konpaku">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Chen" target="Yukari Yakumo">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Chen" target="Yuyuko Saigyouji">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Chen" target="Orange">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chen" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chiyuri Kitashirakawa" target="Hieda no Akyuu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chiyuri Kitashirakawa" target="Minamitsu Murasa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chiyuri Kitashirakawa" target="Yumemi Okazaki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Chiyuri Kitashirakawa" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chiyuri Kitashirakawa" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chiyuri Kitashirakawa" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cirno" target="Daiyousei">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Cirno" target="Eiki Shiki, Yamaxanadu">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Cirno" target="Eirin Yagokoro">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Cirno" target="Eternity Larva">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Cirno" target="Fairy Maid">
+      <data key="d0">110</data>
+    </edge>
+    <edge source="Cirno" target="Goliath Doll">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Cirno" target="Hisoutensoku">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Cirno" target="Hong Meiling">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Cirno" target="Iku Nagae">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cirno" target="Komachi Onozuka">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Cirno" target="Letty Whiterock">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Cirno" target="Lily White">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Cirno" target="Luna Child">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="Cirno" target="Lyrica Prismriver">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="Cirno" target="Mai">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Cirno" target="Mai Teireida">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Cirno" target="Marisa Kirisame">
+      <data key="d0">86</data>
+    </edge>
+    <edge source="Cirno" target="Medicine Melancholy">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cirno" target="Mystia Lorelei">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Cirno" target="Narumi Yatadera">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Cirno" target="Nemuno Sakata">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Cirno" target="Okina Matara">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Cirno" target="Prismriver Sisters">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cirno" target="Reimu Hakurei">
+      <data key="d0">43</data>
+    </edge>
+    <edge source="Cirno" target="Reisen">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Cirno" target="Reisen Udongein Inaba">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Cirno" target="Remilia Scarlet">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cirno" target="Rumia">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Cirno" target="Sakuya Izayoi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Cirno" target="Sanae Kochiya">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Cirno" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cirno" target="Spirit Mirror">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cirno" target="Star Sapphire">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Cirno" target="Suika Ibuki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cirno" target="Sumireko Usami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cirno" target="Sunny Milk">
+      <data key="d0">69</data>
+    </edge>
+    <edge source="Cirno" target="Suwako Moriya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cirno" target="Taisui Xingjun">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Cirno" target="Tewi Inaba">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Cirno" target="Three Fairies of Light">
+      <data key="d0">92</data>
+    </edge>
+    <edge source="Cirno" target="Utsuho Reiuji">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Cirno" target="Wriggle Nightbug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cirno" target="Youmu Konpaku">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Cirno" target="Yuuka Kazami">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Cirno" target="Clownpiece">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cirno" target="Eika Ebisu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cirno" target="Sokrates">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Clownpiece" target="Doremy Sweet">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Clownpiece" target="Eirin Yagokoro">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Clownpiece" target="Eternity Larva">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Clownpiece" target="Fairy Maid">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Clownpiece" target="Hecatia Lapislazuli">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="Clownpiece" target="Junko">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Clownpiece" target="Kaguya Houraisan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Clownpiece" target="Luna Child">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Clownpiece" target="Master Big Catfish">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Clownpiece" target="Prismriver Sisters">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Clownpiece" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Clownpiece" target="Reisen">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Clownpiece" target="Reisen Udongein Inaba">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Clownpiece" target="Sagume Kishin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Clownpiece" target="Star Sapphire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Clownpiece" target="Sunny Milk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Clownpiece" target="Three Fairies of Light">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Daiyousei" target="Keine Kamishirasawa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Daiyousei" target="Koakuma">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Daiyousei" target="Letty Whiterock">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Daiyousei" target="Lily White">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Daiyousei" target="Luna Child">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Daiyousei" target="Marisa Kirisame">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Daiyousei" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Daiyousei" target="Star Sapphire">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Daiyousei" target="Sunny Milk">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Daiyousei" target="Three Fairies of Light">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Daiyousei" target="Junko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Daiyousei" target="Rengeteki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dark Mirror" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dark Mirror" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dark Mirror" target="Remilia Scarlet">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Dark Mirror" target="Rumia">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Dark Mirror" target="SinGyoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dark Mirror" target="Spirit Mirror">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dark Mirror" target="Wriggle Nightbug">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Dark Mirror" target="Yamame Kurodani">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Hata no Kokoro">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Hecatia Lapislazuli">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Ichirin Kumoi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Junko">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Kasen Ibaraki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Mamizou Futatsuiwa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Marisa Kirisame">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Reimu Hakurei">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Reisen">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Reisen Udongein Inaba">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Ringo">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Sagume Kishin">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Sanae Kochiya">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Seiran">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Shinmyoumaru Sukuna">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Sumireko Usami">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Tenshi Hinanawi">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Doremy Sweet" target="Toyosatomimi no Miko">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Dragon (God)" target="Eirin Yagokoro">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Dragon (God)" target="Hieda no Akyuu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Dragon (God)" target="Iku Nagae">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Dragon (God)" target="Kaguya Houraisan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Dragon (God)" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dragon (God)" target="Master Big Catfish">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="Dragon (God)" target="Mononobe no Futo">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Dragon (God)" target="Nitori Kawashiro">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Dragon (God)" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Dragon (God)" target="Remilia Scarlet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dragon (God)" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dragon (God)" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dragon (God)" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dragon (God)" target="Tenshi Hinanawi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Dragon (God)" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dragon (God)" target="Watatsuki no Toyohime">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Dragon (God)" target="Watatsuki no Yorihime">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Dragon (God)" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dragon (God)" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eika Ebisu" target="Urumi Ushizaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Eirin Yagokoro">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Komachi Onozuka">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Lily White">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Luna Child">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Lyrica Prismriver">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Marisa Kirisame">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Medicine Melancholy">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Mishaguji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Mystia Lorelei">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Reimu Hakurei">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Reisen">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Reisen Udongein Inaba">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Sakuya Izayoi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Star Sapphire">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Tewi Inaba">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Youmu Konpaku">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Yuugi Hoshiguma">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Yuuka Kazami">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Lunasa Prismriver">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Eiki Shiki, Yamaxanadu" target="Merlin Prismriver">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Flandre Scarlet">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Fujiwara no Mokou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Hourai">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Junko">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Kaguya Houraisan">
+      <data key="d0">65</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Lord Tsukuyomi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Luna Child">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Marisa Kirisame">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Medicine Melancholy">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Patchouli Knowledge">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Ran Yakumo">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Reimu Hakurei">
+      <data key="d0">33</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Reisen">
+      <data key="d0">135</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Reisen Udongein Inaba">
+      <data key="d0">138</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Remilia Scarlet">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Rinnosuke Morichika">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Sagume Kishin">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Sakuya Izayoi">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Sanae Kochiya">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Star Sapphire">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Suika Ibuki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Sunny Milk">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Suwako Moriya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Tenshi Hinanawi">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Tewi Inaba">
+      <data key="d0">43</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Watatsuki no Toyohime">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Watatsuki no Yorihime">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Youmu Konpaku">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Yukari Yakumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Yuuka Kazami">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Yuyuko Saigyouji">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Hong Meiling">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Mizue no Uranoshimako">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Sake Bug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eirin Yagokoro" target="Yamame Kurodani">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="Gengetsu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="Kikuri">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="Konngara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="Kurumi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="Sariel">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Elis" target="Shinki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="SinGyoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elis" target="YuugenMagan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ellen" target="Hisoutensoku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ellen" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ellen" target="Sokrates">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Ellen" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ellen" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elly" target="Komachi Onozuka">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elly" target="Kurumi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elly" target="Marisa Kirisame">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Elly" target="Reimu Hakurei">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Elly" target="Yuuka Kazami">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Eternity Larva" target="Fairy Maid">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Eternity Larva" target="Kaguya Houraisan">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Eternity Larva" target="Luna Child">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eternity Larva" target="Nemuno Sakata">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eternity Larva" target="Okina Matara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eternity Larva" target="Star Sapphire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eternity Larva" target="Sunny Milk">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fairy Maid" target="Five Magic Stones">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fairy Maid" target="Flandre Scarlet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fairy Maid" target="Hecatia Lapislazuli">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Fairy Maid" target="Hong Meiling">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Fairy Maid" target="Koakuma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fairy Maid" target="Luna Child">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Fairy Maid" target="Marisa Kirisame">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Fairy Maid" target="Patchouli Knowledge">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fairy Maid" target="Reimu Hakurei">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Fairy Maid" target="Remilia Scarlet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fairy Maid" target="Sakuya Izayoi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fairy Maid" target="Star Sapphire">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Fairy Maid" target="Sunny Milk">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Fairy Maid" target="Tewi Inaba">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fairy Maid" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Hong Meiling">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Kaguya Houraisan">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Kasen Ibaraki">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Komachi Onozuka">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Patchouli Knowledge">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Reimu Hakurei">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Five Magic Stones" target="Yukari Yakumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Hieda no Akyuu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Hina Kagiyama">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Hong Meiling">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Iku Nagae">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Kaguya Houraisan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Koakuma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Luna Child">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Marisa Kirisame">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Patchouli Knowledge">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Reisen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Reisen Udongein Inaba">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Remilia Scarlet">
+      <data key="d0">33</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Star Sapphire">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Sunny Milk">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Tewi Inaba">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Fujiwara no Mokou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Medicine Melancholy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Sakuya Izayoi">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flandre Scarlet" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Hieda no Akyuu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Hisoutensoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Hourai">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Iwakasa">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Iwanagahime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Junko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Kaguya Houraisan">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Keine Kamishirasawa">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Konohana-Sakuyahime">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Mamizou Futatsuiwa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Maribel Hearn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Marisa Kirisame">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Narumi Yatadera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Reimu Hakurei">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Reisen">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Reisen Udongein Inaba">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Remilia Scarlet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Sanae Kochiya">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Soga no Tojiko">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Sumireko Usami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Tewi Inaba">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Yuki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fujiwara no Mokou" target="Rika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Gengetsu" target="Mugetsu">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Gengetsu" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Gengetsu" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Gengetsu" target="Matenshi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Genjii" target="Marisa Kirisame">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Genjii" target="Mima">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Genjii" target="Reimu Hakurei">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Genjii" target="Rika">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Genjii" target="Yin-Yang Orb">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Genjii" target="Matenshi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Genjii" target="Noroiko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Genjii" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Genjii" target="SinGyoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Genjii" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Goliath Doll" target="Hisoutensoku">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Goliath Doll" target="Marisa Kirisame">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Goliath Doll" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Ichirin Kumoi">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Koishi Komeiji">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Mamizou Futatsuiwa">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Mononobe no Futo">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Nitori Kawashiro">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Seiga Kaku">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Sumireko Usami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Toyosatomimi no Miko">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Yoshika Miyako">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Kosuzu Motoori">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hata no Kokoro" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Kagerou Imaizumi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Kanako Yasaka">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Mamizou Futatsuiwa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Momiji Inubashiri">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Seija Kijin">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Spirit Mirror">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Sumireko Usami">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Tenma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Hina Kagiyama">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Iku Nagae">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Kisume">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Kogasa Tatara">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Marisa Kirisame">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Minamitsu Murasa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Minoriko Aki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Nazrin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Nue Houjuu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Parsee Mizuhashi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Rin Kaenbyou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Satori Komeiji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Shizuha Aki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Shou Toramaru">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Suwako Moriya">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Tenshi Hinanawi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Utsuho Reiuji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Yamame Kurodani">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hatate Himekaidou" target="Yuugi Hoshiguma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Junko">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Luna Child">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Marisa Kirisame">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Prismriver Sisters">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Reimu Hakurei">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Reisen">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Reisen Udongein Inaba">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Sagume Kishin">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Sanae Kochiya">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Sumireko Usami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hecatia Lapislazuli" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Kanako Yasaka">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Keine Kamishirasawa">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Kogasa Tatara">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Kosuzu Motoori">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Marisa Kirisame">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Nitori Kawashiro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Toyosatomimi no Miko">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Yukari Yakumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Kaguya Houraisan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Mishaguji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Remilia Scarlet">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Sakuya Izayoi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Shinki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hieda no Akyuu" target="Wriggle Nightbug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Hisoutensoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Iku Nagae">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Kisume">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Marisa Kirisame">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Minoriko Aki">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Mystia Lorelei">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Nitori Kawashiro">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Nue Houjuu">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Patchouli Knowledge">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Reimu Hakurei">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Seiga Kaku">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Shizuha Aki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Spirit Mirror">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Suwako Moriya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hina Kagiyama" target="Remilia Scarlet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Hong Meiling">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Kanako Yasaka">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Marisa Kirisame">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Patchouli Knowledge">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Reimu Hakurei">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Sakuya Izayoi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Sanae Kochiya">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Suwako Moriya">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Taisui Xingjun">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Tewi Inaba">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Utsuho Reiuji">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Iku Nagae">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Kaguya Houraisan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Komachi Onozuka">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Master Big Catfish">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Minamitsu Murasa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Mishaguji">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Nitori Kawashiro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Nue Houjuu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Ran Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Reisen Udongein Inaba">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Remilia Scarlet">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Rumia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Ruukoto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Suika Ibuki">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Tenshi Hinanawi">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Wriggle Nightbug">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Yin-Yang Orb">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Youmu Konpaku">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Yukari Yakumo">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hisoutensoku" target="Yuyuko Saigyouji">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hong Meiling" target="Komachi Onozuka">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hong Meiling" target="Letty Whiterock">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hong Meiling" target="Marisa Kirisame">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hong Meiling" target="Medicine Melancholy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hong Meiling" target="Mystia Lorelei">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hong Meiling" target="Orange">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hong Meiling" target="Patchouli Knowledge">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hong Meiling" target="Reimu Hakurei">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Hong Meiling" target="Reisen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hong Meiling" target="Reisen Udongein Inaba">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hong Meiling" target="Remilia Scarlet">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hong Meiling" target="Rumia">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hong Meiling" target="Sakuya Izayoi">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hong Meiling" target="Sanae Kochiya">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Hong Meiling" target="Sunny Milk">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hong Meiling" target="Taisui Xingjun">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hong Meiling" target="Tenshi Hinanawi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hong Meiling" target="Tewi Inaba">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hong Meiling" target="Three Fairies of Light">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hong Meiling" target="Youmu Konpaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hong Meiling" target="Yukari Yakumo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hong Meiling" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hong Meiling" target="Master Big Catfish">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hong Meiling" target="Yoshika Miyako">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hourai" target="Junko">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hourai" target="Kaguya Houraisan">
+      <data key="d0">31</data>
+    </edge>
+    <edge source="Hourai" target="Keine Kamishirasawa">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hourai" target="Reimu Hakurei">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hourai" target="Reisen">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hourai" target="Reisen Udongein Inaba">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Hourai" target="Youmu Konpaku">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hourai" target="Yuyuko Saigyouji">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Hourai" target="Iwakasa">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hourai" target="Konohana-Sakuyahime">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hourai" target="Mizue no Uranoshimako">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hourai" target="Shanghai Doll">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hourai" target="Shinmyoumaru Sukuna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hourai" target="Tenshi Hinanawi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Kasen Ibaraki">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Kogasa Tatara">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Koishi Komeiji">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Kyouko Kasodani">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Mamizou Futatsuiwa">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Marisa Kirisame">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Minamitsu Murasa">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Mononobe no Futo">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Nazrin">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Nitori Kawashiro">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Nue Houjuu">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Reimu Hakurei">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Reisen">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Reisen Udongein Inaba">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Shou Toramaru">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Sumireko Usami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Unzan">
+      <data key="d0">154</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Wheel Demon">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Yamame Kurodani">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Ichirin Kumoi" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iku Nagae" target="Kaguya Houraisan">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Iku Nagae" target="Keine Kamishirasawa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Iku Nagae" target="Komachi Onozuka">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Iku Nagae" target="Marisa Kirisame">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Iku Nagae" target="Patchouli Knowledge">
+      <data key="d0">35</data>
+    </edge>
+    <edge source="Iku Nagae" target="Reimu Hakurei">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="Iku Nagae" target="Reisen">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Iku Nagae" target="Reisen Udongein Inaba">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Iku Nagae" target="Remilia Scarlet">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Iku Nagae" target="Sakuya Izayoi">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Iku Nagae" target="Spirit Mirror">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Iku Nagae" target="Suika Ibuki">
+      <data key="d0">53</data>
+    </edge>
+    <edge source="Iku Nagae" target="Tenshi Hinanawi">
+      <data key="d0">93</data>
+    </edge>
+    <edge source="Iku Nagae" target="Youmu Konpaku">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Iku Nagae" target="Yukari Yakumo">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="Iku Nagae" target="Yukari's crows">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Iku Nagae" target="Yuyuko Saigyouji">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Iku Nagae" target="Soga no Tojiko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iwakasa" target="Iwanagahime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iwakasa" target="Kaguya Houraisan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iwakasa" target="Keine Kamishirasawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iwakasa" target="Konohana-Sakuyahime">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Iwanagahime" target="Keine Kamishirasawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iwanagahime" target="Konohana-Sakuyahime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Joon Yorigami" target="Reimu Hakurei">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Joon Yorigami" target="Reisen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Joon Yorigami" target="Shion Yorigami">
+      <data key="d0">85</data>
+    </edge>
+    <edge source="Joon Yorigami" target="Sumireko Usami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Joon Yorigami" target="Yukari Yakumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Junko" target="Koakuma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Junko" target="Marisa Kirisame">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Junko" target="Reimu Hakurei">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Junko" target="Reisen">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Junko" target="Reisen Udongein Inaba">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="Junko" target="Ringo">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Junko" target="Sagume Kishin">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Junko" target="Sanae Kochiya">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Junko" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Junko" target="Okina Matara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Junko" target="Seiga Kaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Junko" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Junko" target="Watatsuki no Toyohime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Junko" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kagerou Imaizumi" target="Keine Kamishirasawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kagerou Imaizumi" target="Kogasa Tatara">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kagerou Imaizumi" target="Seiga Kaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kagerou Imaizumi" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kagerou Imaizumi" target="Shinmyoumaru Sukuna">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kagerou Imaizumi" target="Wakasagihime">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Kagerou Imaizumi" target="Yoshika Miyako">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Kanako Yasaka">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Keine Kamishirasawa">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Marisa Kirisame">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Patchouli Knowledge">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Ran Yakumo">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Reimu Hakurei">
+      <data key="d0">49</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Reisen">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Reisen Udongein Inaba">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Remilia Scarlet">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Sakuya Izayoi">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Tewi Inaba">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Watatsuki no Toyohime">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Watatsuki no Yorihime">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Youmu Konpaku">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Yukari Yakumo">
+      <data key="d0">37</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Kotohime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Maribel Hearn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Satori Komeiji">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Star Sapphire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kaguya Houraisan" target="Toyosatomimi no Miko">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kana Anaberal" target="Mugetsu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kana Anaberal" target="Prismriver Sisters">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kana Anaberal" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kana Anaberal" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Keine Kamishirasawa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Kogasa Tatara">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Koishi Komeiji">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Marisa Kirisame">
+      <data key="d0">80</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Nitori Kawashiro">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Reimu Hakurei">
+      <data key="d0">74</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Rin Kaenbyou">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Sagume Kishin">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Sake Bug">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Sanae Kochiya">
+      <data key="d0">88</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Satori Komeiji">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Shizuha Aki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Suika Ibuki">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Suwako Moriya">
+      <data key="d0">59</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Utsuho Reiuji">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Yumeko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Kasen Ibaraki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Komachi Onozuka">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Mishaguji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kanako Yasaka" target="Seiga Kaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Koishi Komeiji">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Komachi Onozuka">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Luna Child">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Mamizou Futatsuiwa">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Marisa Kirisame">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Okina Matara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Reimu Hakurei">
+      <data key="d0">71</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Reisen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Reisen Udongein Inaba">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Sanae Kochiya">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Seiga Kaku">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Spirit Mirror">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Suika Ibuki">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Sumireko Usami">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Suwako Moriya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Three Fairies of Light">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Yin-Yang Orb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Yukari Yakumo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Yuugi Hoshiguma">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Sokrates">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Unnamed kuda-gitsune">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Unshou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kasen Ibaraki" target="Yoshika Miyako">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Koakuma">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Koishi Komeiji">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Komachi Onozuka">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Letty Whiterock">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Lily White">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Lyrica Prismriver">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Marisa Kirisame">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Merlin Prismriver">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Nitori Kawashiro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Prismriver Sisters">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Reimu Hakurei">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Reisen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Reisen Udongein Inaba">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Star Sapphire">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Youmu Konpaku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Mystia Lorelei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Keine Kamishirasawa" target="Yukari Yakumo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kikuri" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kisume" target="Koishi Komeiji">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kisume" target="Komachi Onozuka">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kisume" target="Marisa Kirisame">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kisume" target="Nitori Kawashiro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kisume" target="Rin Kaenbyou">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kisume" target="Seiga Kaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kisume" target="Yamame Kurodani">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kisume" target="Yoshika Miyako">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kisume" target="Yukari Yakumo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Koakuma" target="Lily White">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Koakuma" target="Patchouli Knowledge">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Koakuma" target="Remilia Scarlet">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Koakuma" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Koakuma" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Kyouko Kasodani">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Marisa Kirisame">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Minamitsu Murasa">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Myouren Hijiri">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Nitori Kawashiro">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Nue Houjuu">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Rin Kaenbyou">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Sanae Kochiya">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Seiga Kaku">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Unzan">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Yoshika Miyako">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Kogasa Tatara" target="Mamizou Futatsuiwa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Mamizou Futatsuiwa">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Marisa Kirisame">
+      <data key="d0">72</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Nitori Kawashiro">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Reimu Hakurei">
+      <data key="d0">43</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Rin Kaenbyou">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Sakuya Izayoi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Sanae Kochiya">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Satori Komeiji">
+      <data key="d0">55</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Shinmyoumaru Sukuna">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Sumireko Usami">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Sunny Milk">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Unzan">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Utsuho Reiuji">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Yoshika Miyako">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Yuugi Hoshiguma">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Koishi Komeiji" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Letty Whiterock">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Marisa Kirisame">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Medicine Melancholy">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Minamitsu Murasa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Ran Yakumo">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Reimu Hakurei">
+      <data key="d0">93</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Reisen">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Reisen Udongein Inaba">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Remilia Scarlet">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Sakuya Izayoi">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Shizuha Aki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Sunny Milk">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Tenshi Hinanawi">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Tewi Inaba">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Wriggle Nightbug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Youmu Konpaku">
+      <data key="d0">44</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Yukari Yakumo">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Yukari's crows">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Yuuka Kazami">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Yuyuko Saigyouji">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Komachi Onozuka" target="Seiga Kaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Konngara" target="Meira">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Konngara" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Konngara" target="SinGyoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Konohana-Sakuyahime" target="Sakuya Izayoi">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kosuzu Motoori" target="Mamizou Futatsuiwa">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kosuzu Motoori" target="Marisa Kirisame">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kosuzu Motoori" target="Reimu Hakurei">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Kosuzu Motoori" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kosuzu Motoori" target="Sokrates">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Kosuzu's Grandfather" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kotohime" target="Noroiko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kotohime" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kotohime" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kurumi" target="Marisa Kirisame">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Kurumi" target="Reimu Hakurei">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Kurumi" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Mamizou Futatsuiwa">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Marisa Kirisame">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Minamitsu Murasa">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Momiji Inubashiri">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Myouren Hijiri">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Mystia Lorelei">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Rin Kaenbyou">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Seiga Kaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Toyosatomimi no Miko">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Unzan">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Yoshika Miyako">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Zombie Fairy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Kyouko Kasodani" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Layla Prismriver" target="Lunasa Prismriver">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Layla Prismriver" target="Lyrica Prismriver">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Layla Prismriver" target="Merlin Prismriver">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Layla Prismriver" target="Prismriver Sisters">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Lily White">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Lunasa Prismriver">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Nitori Kawashiro">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Rumia">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Wriggle Nightbug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Yuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Medicine Melancholy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Letty Whiterock" target="Nazrin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lily White" target="Luna Child">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Lily White" target="Lunasa Prismriver">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lily White" target="Nemuno Sakata">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lily White" target="Prismriver Sisters">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Lily White" target="Remilia Scarlet">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Lily White" target="Sakuya Izayoi">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Lily White" target="Star Sapphire">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Lily White" target="Sunny Milk">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Lily White" target="Three Fairies of Light">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Lily White" target="Tokiko">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Lord Tsukuyomi" target="Mystia Lorelei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Lord Tsukuyomi" target="Remilia Scarlet">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Lord Tsukuyomi" target="Watatsuki no Toyohime">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lord Tsukuyomi" target="Watatsuki no Yorihime">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Louise" target="Sara">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Louise" target="Shinki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Luna Child" target="Lunasa Prismriver">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Luna Child" target="Marisa Kirisame">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Luna Child" target="Nitori Kawashiro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Luna Child" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Luna Child" target="Reisen">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Luna Child" target="Reisen Udongein Inaba">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Luna Child" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Luna Child" target="Star Sapphire">
+      <data key="d0">104</data>
+    </edge>
+    <edge source="Luna Child" target="Sunny Milk">
+      <data key="d0">91</data>
+    </edge>
+    <edge source="Luna Child" target="Three Fairies of Light">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Luna Child" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Luna Child" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Lyrica Prismriver">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Merlin Prismriver">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Mystia Lorelei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Prismriver Sisters">
+      <data key="d0">84</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Raiko Horikawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Youmu Konpaku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Yuyuko Saigyouji">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lunasa Prismriver" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Marisa Kirisame">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Medicine Melancholy">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Merlin Prismriver">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Mystia Lorelei">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Prismriver Sisters">
+      <data key="d0">366</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Raiko Horikawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Reimu Hakurei">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Reisen">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Reisen Udongein Inaba">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Sakuya Izayoi">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Tewi Inaba">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Youmu Konpaku">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Yuuka Kazami">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Yuyuko Saigyouji">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lyrica Prismriver" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mai" target="Mai Teireida">
+      <data key="d0">1201</data>
+    </edge>
+    <edge source="Mai" target="Narumi Yatadera">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Mai" target="Okina Matara">
+      <data key="d0">29</data>
+    </edge>
+    <edge source="Mai" target="Remilia Scarlet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mai" target="Satono Nishida">
+      <data key="d0">94</data>
+    </edge>
+    <edge source="Mai" target="Shinki">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Mai" target="Yuki">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="Mai Teireida" target="Narumi Yatadera">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Mai Teireida" target="Okina Matara">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Mai Teireida" target="Satono Nishida">
+      <data key="d0">82</data>
+    </edge>
+    <edge source="Mai Teireida" target="Shinki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mai Teireida" target="Yuki">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Marisa Kirisame">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Minoriko Aki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Myouren Hijiri">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Nitori Kawashiro">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Nue Houjuu">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Reimu Hakurei">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Rikako Asakura">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Seiga Kaku">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Shinmyoumaru Sukuna">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Suika Ibuki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Sumireko Usami">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Toyosatomimi no Miko">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Unzan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Mononobe no Futo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Rinnosuke Morichika">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Sokrates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Tenshi Hinanawi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mamizou Futatsuiwa" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Maribel Hearn" target="Renko Usami">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Maribel Hearn" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Maribel Hearn" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Maribel Hearn" target="Watatsuki no Toyohime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Maribel Hearn" target="Yukari Yakumo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Maribel Hearn" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Maribel Hearn" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Medicine Melancholy">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Mima">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Minamitsu Murasa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Minoriko Aki">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Momiji Inubashiri">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Mystia Lorelei">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Nitori Kawashiro">
+      <data key="d0">125</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Nue Houjuu">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Okina Matara">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Parsee Mizuhashi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Patchouli Knowledge">
+      <data key="d0">159</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Raiko Horikawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Ran Yakumo">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Reimu Hakurei">
+      <data key="d0">763</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Reisen">
+      <data key="d0">75</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Reisen Udongein Inaba">
+      <data key="d0">74</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Remilia Scarlet">
+      <data key="d0">126</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Ringo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Rinnosuke Morichika">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Rumia">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Sagume Kishin">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Sakuya Izayoi">
+      <data key="d0">226</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Sanae Kochiya">
+      <data key="d0">74</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Satori Komeiji">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Seiga Kaku">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Seija Kijin">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Shanghai Doll">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Shinki">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Shinmyoumaru Sukuna">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Shizuha Aki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Spirit Mirror">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Star Sapphire">
+      <data key="d0">71</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Suika Ibuki">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Sumireko Usami">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Sunny Milk">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Suwako Moriya">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Taisui Xingjun">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Tenma">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Tenshi Hinanawi">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Tewi Inaba">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Three Fairies of Light">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Unzan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Utsuho Reiuji">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Watatsuki no Toyohime">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Watatsuki no Yorihime">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Youmu Konpaku">
+      <data key="d0">102</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yukari Yakumo">
+      <data key="d0">128</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yukari's crows">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yuugi Hoshiguma">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yuuka Kazami">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yuyuko Saigyouji">
+      <data key="d0">66</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Master Big Catfish">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Mononobe no Futo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Narumi Yatadera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Nazrin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Noroiko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Orange">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Rengeteki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Shirou Sendai">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Sokrates">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Tokiko">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Unshou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Yuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Marisa Kirisame" target="Zombie Fairy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Mononobe no Futo">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Sagume Kishin">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Sunny Milk">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Taisui Xingjun">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Tenshi Hinanawi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Master Big Catfish" target="Yuuka Kazami">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Matenshi" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Matenshi" target="Sariel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Matenshi" target="Tenshi Hinanawi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Mystia Lorelei">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Prismriver Sisters">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Ran Yakumo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Reisen">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Reisen Udongein Inaba">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Sakuya Izayoi">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Tewi Inaba">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Wriggle Nightbug">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Medicine Melancholy" target="Yuuka Kazami">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Meira" target="Reimu Hakurei">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Meira" target="Rika">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Meira" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Merlin Prismriver" target="Minoriko Aki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Merlin Prismriver" target="Mystia Lorelei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Merlin Prismriver" target="Prismriver Sisters">
+      <data key="d0">90</data>
+    </edge>
+    <edge source="Merlin Prismriver" target="Raiko Horikawa">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Merlin Prismriver" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Merlin Prismriver" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Merlin Prismriver" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mima" target="Reimu Hakurei">
+      <data key="d0">57</data>
+    </edge>
+    <edge source="Mima" target="Shinki">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Mima" target="Yuuka Kazami">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Mima" target="Rengeteki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mima" target="Soga no Tojiko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mima" target="Yin-Yang Orb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mima" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mima" target="YuugenMagan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Minamitsu Murasa" target="Nazrin">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Minamitsu Murasa" target="Nue Houjuu">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Minamitsu Murasa" target="Reimu Hakurei">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Minamitsu Murasa" target="Satori Komeiji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Minamitsu Murasa" target="Shou Toramaru">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Minamitsu Murasa" target="Soga no Tojiko">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Minamitsu Murasa" target="Unzan">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Minoriko Aki" target="Reimu Hakurei">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Minoriko Aki" target="Shizuha Aki">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Minoriko Aki" target="Toyosatomimi no Miko">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Minoriko Aki" target="Nazrin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mishaguji" target="Suwako Moriya">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Mizue no Uranoshimako" target="Watatsuki no Toyohime">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Mizue no Uranoshimako" target="Watatsuki no Yorihime">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Momiji Inubashiri" target="Prismriver Sisters">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Momiji Inubashiri" target="Raiko Horikawa">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Momiji Inubashiri" target="Reimu Hakurei">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Momiji Inubashiri" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Momiji Inubashiri" target="Tenma">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Momiji Inubashiri" target="Tenshi Hinanawi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Nitori Kawashiro">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Nue Houjuu">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Reimu Hakurei">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Reisen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Seiga Kaku">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="SinGyoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Soga no Tojiko">
+      <data key="d0">62</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Toyosatomimi no Miko">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Watatsuki no Toyohime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Yoshika Miyako">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Mononobe no Futo" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mugetsu" target="Sakuya Izayoi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mugetsu" target="Yumeko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Myouren Hijiri" target="Nue Houjuu">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Myouren Hijiri" target="Reimu Hakurei">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Myouren Hijiri" target="Youmu Konpaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Myouren Hijiri" target="Yuyuko Saigyouji">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Myouren Hijiri" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Nemuno Sakata">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Nitori Kawashiro">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Patchouli Knowledge">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Prismriver Sisters">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Reimu Hakurei">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Reisen">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Reisen Udongein Inaba">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Remilia Scarlet">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Rin Kaenbyou">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Rumia">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Sakuya Izayoi">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Tewi Inaba">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Wriggle Nightbug">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Yoshika Miyako">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Youmu Konpaku">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Yuugi Hoshiguma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Yuuka Kazami">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Zombie Fairy">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Nue Houjuu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mystia Lorelei" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Narumi Yatadera" target="Prismriver Sisters">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Narumi Yatadera" target="Yuki">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Nazrin" target="Nue Houjuu">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Nazrin" target="Rumia">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Nazrin" target="Sara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nazrin" target="Seiga Kaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Nazrin" target="Seiran">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nazrin" target="Shizuha Aki">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Nazrin" target="Shou Toramaru">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Nazrin" target="Unzan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Nazrin" target="Yamame Kurodani">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nazrin" target="Yoshika Miyako">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Nazrin" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nazrin" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nemuno Sakata" target="Yuugi Hoshiguma">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Parsee Mizuhashi">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Patchouli Knowledge">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Reimu Hakurei">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Sake Bug">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Sakuya Izayoi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Sanae Kochiya">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Shinmyoumaru Sukuna">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Spirit Mirror">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Star Sapphire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Sunny Milk">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Tenshi Hinanawi">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Unzan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Utsuho Reiuji">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Yukari Yakumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Satori Komeiji">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Nitori Kawashiro" target="Sokrates">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Noroiko" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Ran Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Reimu Hakurei">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Rumia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Sanae Kochiya">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Shou Toramaru">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Soga no Tojiko">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Spirit Mirror">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Unzan">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Youmu Konpaku">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Nue Houjuu" target="Zombie Fairy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Okina Matara" target="Reimu Hakurei">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Okina Matara" target="Rika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Okina Matara" target="Satono Nishida">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Okina Matara" target="Sumireko Usami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Okina Matara" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Okina Matara" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Okina Matara" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Okina Matara" target="Satori Komeiji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Okina Matara" target="Shinmyoumaru Sukuna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Orange" target="Reimu Hakurei">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Orange" target="Ringo">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="Orange" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Patchouli Knowledge">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Reimu Hakurei">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Satori Komeiji">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Wriggle Nightbug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Yamame Kurodani">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Yukari Yakumo">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Parsee Mizuhashi" target="Yuugi Hoshiguma">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Ran Yakumo">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Reimu Hakurei">
+      <data key="d0">69</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Reisen">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Reisen Udongein Inaba">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Remilia Scarlet">
+      <data key="d0">88</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Rinnosuke Morichika">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Sakuya Izayoi">
+      <data key="d0">162</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Suika Ibuki">
+      <data key="d0">86</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Taisui Xingjun">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Tenshi Hinanawi">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Three Fairies of Light">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Utsuho Reiuji">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Wriggle Nightbug">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Youmu Konpaku">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Yukari Yakumo">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Yukari's crows">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Yuyuko Saigyouji">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Patchouli Knowledge" target="Satori Komeiji">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Pop-up Pirate" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Raiko Horikawa">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Reimu Hakurei">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Reisen">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Reisen Udongein Inaba">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Three Fairies of Light">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Youmu Konpaku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Yuki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prismriver Sisters" target="YuugenMagan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Raiko Horikawa" target="Reimu Hakurei">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Raiko Horikawa" target="Sakuya Izayoi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Raiko Horikawa" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Raiko Horikawa" target="Shinmyoumaru Sukuna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Raiko Horikawa" target="Yatsuhashi Tsukumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Reimu Hakurei">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Reisen">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Reisen Udongein Inaba">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Remilia Scarlet">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Sakuya Izayoi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Suika Ibuki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Yamame Kurodani">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Youmu Konpaku">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Yukari Yakumo">
+      <data key="d0">64</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Yukari's crows">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Yuyuko Saigyouji">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Tewi Inaba">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ran Yakumo" target="Watatsuki no Toyohime">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Reisen">
+      <data key="d0">115</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Reisen Udongein Inaba">
+      <data key="d0">114</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Remilia Scarlet">
+      <data key="d0">148</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Renko Usami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Rika">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Rin Kaenbyou">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Ringo">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Rinnosuke Morichika">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Rumia">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Ruukoto">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sagume Kishin">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Saigyou Ayakashi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sake Bug">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sakuya Izayoi">
+      <data key="d0">200</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sanae Kochiya">
+      <data key="d0">91</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Satori Komeiji">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Seiga Kaku">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Seija Kijin">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Shinki">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Shinmyoumaru Sukuna">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Shion Yorigami">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Shizuha Aki">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="SinGyoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Spirit Mirror">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Star Sapphire">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Suika Ibuki">
+      <data key="d0">192</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sumireko Usami">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sunny Milk">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Suwako Moriya">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Taisui Xingjun">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Tenma">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Tenshi Hinanawi">
+      <data key="d0">108</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Tewi Inaba">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Three Fairies of Light">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Tokiko">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Toyosatomimi no Miko">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Unnamed kitsune">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Unnamed kuda-gitsune">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Unzan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Utsuho Reiuji">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Watatsuki no Yorihime">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yamame Kurodani">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yin-Yang Orb">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Youmu Konpaku">
+      <data key="d0">134</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yukari Yakumo">
+      <data key="d0">321</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yukari's crows">
+      <data key="d0">72</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yumemi Okazaki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yuugi Hoshiguma">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yuuka Kazami">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Yuyuko Saigyouji">
+      <data key="d0">116</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Rengeteki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Rikako Asakura">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sariel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="Sokrates">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Reimu Hakurei" target="YuugenMagan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reisen" target="Reisen Udongein Inaba">
+      <data key="d0">4856</data>
+    </edge>
+    <edge source="Reisen" target="Remilia Scarlet">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Reisen" target="Rinnosuke Morichika">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Reisen" target="Sagume Kishin">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Reisen" target="Sakuya Izayoi">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Reisen" target="Sanae Kochiya">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Reisen" target="Seiran">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Reisen" target="Shinmyoumaru Sukuna">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Reisen" target="Suika Ibuki">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Reisen" target="Sumireko Usami">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Reisen" target="Suwako Moriya">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Reisen" target="Tenshi Hinanawi">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Reisen" target="Tewi Inaba">
+      <data key="d0">113</data>
+    </edge>
+    <edge source="Reisen" target="Watatsuki no Toyohime">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Reisen" target="Watatsuki no Yorihime">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Reisen" target="Youmu Konpaku">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Reisen" target="Yukari Yakumo">
+      <data key="d0">31</data>
+    </edge>
+    <edge source="Reisen" target="Yukari's crows">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Reisen" target="Yuuka Kazami">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Reisen" target="Yuyuko Saigyouji">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Reisen" target="Sake Bug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Reisen" target="Sokrates">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Reisen" target="Star Sapphire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reisen" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Remilia Scarlet">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Ringo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Rinnosuke Morichika">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Sagume Kishin">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Sakuya Izayoi">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Sanae Kochiya">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Seiran">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Shinmyoumaru Sukuna">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Star Sapphire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Suika Ibuki">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Sumireko Usami">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Sunny Milk">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Suwako Moriya">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Tenshi Hinanawi">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Tewi Inaba">
+      <data key="d0">104</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Watatsuki no Toyohime">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Watatsuki no Yorihime">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Youmu Konpaku">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Yukari Yakumo">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Yukari's crows">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Yuuka Kazami">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Yuyuko Saigyouji">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Reisen Udongein Inaba" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Rinnosuke Morichika">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Rumia">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Sakuya Izayoi">
+      <data key="d0">216</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Suika Ibuki">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Tenshi Hinanawi">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Three Fairies of Light">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Youmu Konpaku">
+      <data key="d0">92</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Yukari Yakumo">
+      <data key="d0">91</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Yukari's crows">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Yuyuko Saigyouji">
+      <data key="d0">102</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Remilia Scarlet" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rengeteki" target="Yuuka Kazami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Renko Usami" target="Sumireko Usami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Renko Usami" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Renko Usami" target="Tenshi Hinanawi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rika" target="Rikako Asakura">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rika" target="YuugenMagan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rikako Asakura" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rikako Asakura" target="Rinnosuke Morichika">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Sakuya Izayoi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Sanae Kochiya">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Satori Komeiji">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Shizuha Aki">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Spirit Mirror">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Suwako Moriya">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Utsuho Reiuji">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Yamame Kurodani">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Yoshika Miyako">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Yukari Yakumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Zombie Fairy">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Rin Kaenbyou" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ringo" target="Sagume Kishin">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Ringo" target="Sanae Kochiya">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Ringo" target="Seiran">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="Ringo" target="Sekibanki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Rumia">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Sagume Kishin">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Sakuya Izayoi">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="SinGyoku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Suika Ibuki">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Sumireko Usami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Sunny Milk">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Suwako Moriya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Tenshi Hinanawi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Three Fairies of Light">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Unshou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Unzan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Youki Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Youmu Konpaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Yukari Yakumo">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Yukari's crows">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Yuyuko Saigyouji">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Star Sapphire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rinnosuke Morichika" target="Tokiko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rumia" target="Sakuya Izayoi">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Rumia" target="Sara">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rumia" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rumia" target="Wriggle Nightbug">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rumia" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rumia" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rumia" target="Sanae Kochiya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rumia" target="Wheel Demon">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ruukoto" target="Sakuya Izayoi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ruukoto" target="Yumemi Okazaki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ruukoto" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sagume Kishin" target="Sanae Kochiya">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Sagume Kishin" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sagume Kishin" target="Seiran">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Sagume Kishin" target="Tewi Inaba">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Saigyou Ayakashi" target="Youmu Konpaku">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Saigyou Ayakashi" target="Yuyuko Saigyouji">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="Saigyou Ayakashi" target="Youki Konpaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Saigyou Ayakashi" target="Yukari Yakumo">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Sake Bug" target="Sanae Kochiya">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Sake Bug" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sake Bug" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Sanae Kochiya">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Shinmyoumaru Sukuna">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Suika Ibuki">
+      <data key="d0">58</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Suwako Moriya">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Taisui Xingjun">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Tenshi Hinanawi">
+      <data key="d0">57</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Tewi Inaba">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Three Fairies of Light">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Youmu Konpaku">
+      <data key="d0">138</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Yukari Yakumo">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Yukari's crows">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Yumeko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Yuuka Kazami">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Yuyuko Saigyouji">
+      <data key="d0">100</data>
+    </edge>
+    <edge source="Sakuya Izayoi" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Satori Komeiji">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Seiga Kaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Shizuha Aki">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Suika Ibuki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Suwako Moriya">
+      <data key="d0">42</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Taisui Xingjun">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Toyosatomimi no Miko">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Utsuho Reiuji">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Youmu Konpaku">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sanae Kochiya" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sara" target="Shinki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sara" target="Yuuka Kazami">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Sara" target="YuugenMagan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sariel" target="Shinki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sariel" target="YuugenMagan">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Shizuha Aki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Suika Ibuki">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Sumireko Usami">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Utsuho Reiuji">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Yoshika Miyako">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Yukari Yakumo">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Satori Komeiji" target="Yuugi Hoshiguma">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Seija Kijin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Shou Toramaru">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Soga no Tojiko">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Spirit Mirror">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Toyosatomimi no Miko">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Watatsuki no Toyohime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Yoshika Miyako">
+      <data key="d0">61</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Sokrates">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Seiga Kaku" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Shinmyoumaru Sukuna">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Seija Kijin" target="Tenshi Hinanawi">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Seija Kijin" target="Yatsuhashi Tsukumo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Seija Kijin" target="Sekibanki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Suwako Moriya">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Utsuho Reiuji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Wakasagihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Yoshika Miyako">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seija Kijin" target="Yuyuko Saigyouji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Seiran" target="Sekibanki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Sekibanki" target="Shinmyoumaru Sukuna">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Shanghai Doll" target="Star Sapphire">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Shanghai Doll" target="Three Fairies of Light">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Shanghai Doll" target="Youki Konpaku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Shinki" target="Wheel Demon">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Shinki" target="Yuki">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Shinki" target="Yumeko">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Shinki" target="YuugenMagan">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Shinki" target="Yuuka Kazami">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Spirit Mirror">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Sumireko Usami">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Tenshi Hinanawi">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Three Fairies of Light">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Wakasagihime">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Yatsuhashi Tsukumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Yukari Yakumo">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Shinmyoumaru Sukuna" target="Utsuho Reiuji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Shion Yorigami" target="Tenshi Hinanawi">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Shion Yorigami" target="Yukari Yakumo">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Shizuha Aki" target="Suika Ibuki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Shou Toramaru" target="Suwako Moriya">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Shou Toramaru" target="Unzan">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Shou Toramaru" target="Yoshika Miyako">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="SinGyoku" target="Sokrates">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="SinGyoku" target="Yin-Yang Orb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Soga no Tojiko" target="Toyosatomimi no Miko">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Soga no Tojiko" target="Yoshika Miyako">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Sokrates" target="Suika Ibuki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sokrates" target="Three Fairies of Light">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Sokrates" target="Unshou">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sokrates" target="Utsuho Reiuji">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sokrates" target="Watatsuki no Toyohime">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Sokrates" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sokrates" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Spirit Mirror" target="Sumireko Usami">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Spirit Mirror" target="Tenshi Hinanawi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Spirit Mirror" target="Trump King">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Spirit Mirror" target="Yoshika Miyako">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Star Sapphire" target="Suika Ibuki">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Star Sapphire" target="Sunny Milk">
+      <data key="d0">107</data>
+    </edge>
+    <edge source="Star Sapphire" target="Three Fairies of Light">
+      <data key="d0">45</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Sunny Milk">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Suwako Moriya">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Tenshi Hinanawi">
+      <data key="d0">95</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Tewi Inaba">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Three Fairies of Light">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Utsuho Reiuji">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Yamame Kurodani">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Youmu Konpaku">
+      <data key="d0">47</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Yukari Yakumo">
+      <data key="d0">137</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Yukari's crows">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Yuugi Hoshiguma">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Yuuka Kazami">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Suika Ibuki" target="Yuyuko Saigyouji">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="Sumireko Usami" target="Tenshi Hinanawi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Sumireko Usami" target="Three Fairies of Light">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Sumireko Usami" target="Toyosatomimi no Miko">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sumireko Usami" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sumireko Usami" target="Yukari Yakumo">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Sunny Milk" target="Tewi Inaba">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Sunny Milk" target="Three Fairies of Light">
+      <data key="d0">33</data>
+    </edge>
+    <edge source="Sunny Milk" target="Yuuka Kazami">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Suwako Moriya" target="Tenshi Hinanawi">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Suwako Moriya" target="Tewi Inaba">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Suwako Moriya" target="Utsuho Reiuji">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Suwako Moriya" target="Youmu Konpaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Tenshi Hinanawi" target="Tewi Inaba">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Tenshi Hinanawi" target="Youmu Konpaku">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="Tenshi Hinanawi" target="Yukari Yakumo">
+      <data key="d0">70</data>
+    </edge>
+    <edge source="Tenshi Hinanawi" target="Yukari's crows">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Tenshi Hinanawi" target="Yuyuko Saigyouji">
+      <data key="d0">82</data>
+    </edge>
+    <edge source="Tewi Inaba" target="Utsuho Reiuji">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Tewi Inaba" target="Watatsuki no Toyohime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Tewi Inaba" target="Watatsuki no Yorihime">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Tewi Inaba" target="Wriggle Nightbug">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Tewi Inaba" target="Youmu Konpaku">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="Tewi Inaba" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Tewi Inaba" target="Yuuka Kazami">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Three Fairies of Light" target="Yukari Yakumo">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Three Fairies of Light" target="Yin-Yang Orb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Toyosatomimi no Miko" target="Yoshika Miyako">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Toyosatomimi no Miko" target="Youmu Konpaku">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Toyosatomimi no Miko" target="Yukari Yakumo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Toyosatomimi no Miko" target="Yumemi Okazaki">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Unnamed kitsune" target="Unnamed kuda-gitsune">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Unzan" target="Wheel Demon">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Unzan" target="Yamame Kurodani">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Utsuho Reiuji" target="Wriggle Nightbug">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Utsuho Reiuji" target="Yuugi Hoshiguma">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Watatsuki no Toyohime" target="Watatsuki no Yorihime">
+      <data key="d0">41</data>
+    </edge>
+    <edge source="Watatsuki no Toyohime" target="Yukari Yakumo">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Wriggle Nightbug" target="Yamame Kurodani">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Wriggle Nightbug" target="Youmu Konpaku">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Yamame Kurodani" target="Youmu Konpaku">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Yamame Kurodani" target="Yukari Yakumo">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Yamame Kurodani" target="Yukari's crows">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Yoshika Miyako" target="Zombie Fairy">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Youki Konpaku" target="Youmu Konpaku">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Youki Konpaku" target="Yuyuko Saigyouji">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Youmu Konpaku" target="Yukari Yakumo">
+      <data key="d0">91</data>
+    </edge>
+    <edge source="Youmu Konpaku" target="Yukari's crows">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Youmu Konpaku" target="Yuuka Kazami">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Youmu Konpaku" target="Yuyuko Saigyouji">
+      <data key="d0">217</data>
+    </edge>
+    <edge source="Yukari Yakumo" target="Yukari's crows">
+      <data key="d0">268</data>
+    </edge>
+    <edge source="Yukari Yakumo" target="Yuugi Hoshiguma">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Yukari Yakumo" target="Yuuka Kazami">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Yukari Yakumo" target="Yuyuko Saigyouji">
+      <data key="d0">130</data>
+    </edge>
+    <edge source="Yukari's crows" target="Yuyuko Saigyouji">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="Yuugi Hoshiguma" target="Yuyuko Saigyouji">
+      <data key="d0">4</data>
+    </edge>
+  </graph>
+</graphml>
