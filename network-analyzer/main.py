@@ -3,10 +3,13 @@ import networkx
 import csv
 import random
 import time
+import matplotlib.pyplot as plt
 
 network_file = '../network.json'
 data_csv = 'data.csv'
 network = {}
+network_connected_components = 14
+network_biggest_component_size = 0
 
 #############################################
 ### AUXILIARY
@@ -49,23 +52,30 @@ def normalization(network):
     for key in network.keys():
         network[key] *= 1/sum
 
-def is_connected(attacked_network):
+def resisted(attacked_network, nodes_taken):
     # ve se o grafo é conectado
     can_be_reached = [False] * len(attacked_network.keys())
-    try:
-        point_queue = [0]
+    components = 0
+    biggest_component = 0
+    while False in can_be_reached:
+        point_queue = [can_be_reached.index(False)]
+        count = 0
         while len(point_queue):
             current_point = point_queue[0]
             can_be_reached[current_point] = True
+            count += 1
             for i in range(len(attacked_network.keys())):
                 if list(attacked_network.keys())[i] in network[list(attacked_network.keys())[current_point]].keys():
                     if not can_be_reached[i]:
                         can_be_reached[i] = True
                         point_queue.append(i)
             point_queue.remove(current_point)
-
-    except IndexError:
-        return False
+        components += 1
+        biggest_component = max(count, biggest_component)
+    if nodes_taken == 0:
+        global network_biggest_component_size
+        network_biggest_component_size = biggest_component
+    return biggest_component > network_biggest_component_size // 2
 
 def single_attack(network_with_weights, n):
     network_to_attack = network_with_weights.copy()
@@ -77,7 +87,7 @@ def single_attack(network_with_weights, n):
                 network_to_attack.pop(key)
                 normalization(network_to_attack)
                 break
-    if is_connected(network_to_attack):
+    if resisted(network_to_attack, n):
         return 0
     else:
         return 1
@@ -91,7 +101,7 @@ def attack_success_probability(network_with_weights, n):
 
 def attack_network(network_with_weights):
     results = []
-    for n in range(len(network_with_weights.keys())):
+    for n in range(len(network_with_weights.keys()) // 2):
         print('Atacando rede tirando ' + str(n) + ' nos')
         results.append((n, attack_success_probability(network_with_weights, n)))
     return results
@@ -122,9 +132,17 @@ def main():
     normalization(network_with_weights)
 
     to_be_plotted = attack_network(network_with_weights)
-    print(to_be_plotted)
 
     # plot network attack results
+    plt.title('Attack simulation')
+    plt.xlabel('Nodes taken out')
+    plt.ylabel('Success probability')
+    plt.plot([x[0] for x in to_be_plotted], [x[1] for x in to_be_plotted], 'bo')
+    plt.axis([0, 100, 0, 1])
+    plt.savefig('attack_sim.png')
+    plt.show()
+
+    return 0
 
 if __name__ == "__main__":
     main()
