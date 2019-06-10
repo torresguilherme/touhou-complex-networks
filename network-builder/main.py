@@ -145,7 +145,7 @@ class DialogueParser(parser.HTMLParser):
                 if len(data) > index + len(first_name) and data[index + len(first_name)].isalpha():
                     pass
                 else:
-                    char_stack[name] = 5
+                    char_stack[name] = 3
         for key in char_stack.keys():
             char_stack[key] -= 1
         char_stack = {key:val for key, val in char_stack.items() if val != 0}
@@ -236,9 +236,11 @@ def main():
     characters.remove('Rin Satsuki')
     characters.remove('Hakurei God')
     characters.remove('Marisa\'s unnamed father')
+    characters.remove('Reisen')
     char_links.remove('Rin_Satsuki.html')
     char_links.remove('Hakurei_God.html')
     char_links.remove('Marisa\'s_unnamed_father.html')
+    char_links.remove('Reisen.html')
 
     ################################################
     ### BUILDING NETWORK
